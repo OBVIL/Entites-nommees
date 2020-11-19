@@ -1,1 +1,1 @@
-# Entites-nommees
+# Entités nommées
