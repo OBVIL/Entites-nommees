@@ -5,5 +5,5 @@ Ce travail, effectué entre 2019 et 2020 est amorcé par Motasem Alrahabi (OBVIL
 Le travail effectué consiste à 
 1. mettre en place un guide d'annotation manuelle pour les entités nommées dans le domaine littéraire.
 2. créer un corpus gold standard à partir d'une annotation manuelle de trois romans: Le ventre de Paris de Zola, Nana de Zola et Bel ami de Maupassant.
-3. tester et évaluer trois modèles de REN: Spacy, Stanza et Hype.
+3. tester et évaluer trois modèles de REN: Spacy, Stanza et L3i NERC-EL.
 
