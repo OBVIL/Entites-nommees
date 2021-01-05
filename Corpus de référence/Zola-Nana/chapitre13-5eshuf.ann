@@ -1,0 +1,95 @@
+T1	Personnage 29 41	comte Muffat
+T2	Personnage 65 69	Nana
+T3	Lieu 149 162	les Tuileries
+A1	ConstructionHumaine T3
+T4	Personnage 761 765	Nana
+T6	Personnage 789 796	Georges
+T7	Personnage 1078 1082	Nana
+T8	Personnage 1728 1733	Vénus
+A3	PerEvoque T8
+T15	Personnage 3064 3074	Labordette
+T16	Personnage 3204 3208	Nuit
+T17	Personnage 3248 3253	Faune
+A14	PerEvoque T17
+T5	Personnage 4001 4011	Foucarmont
+T11	Personnage 4372 4375	Zoé
+T12	Personnage 4655 4663	Philippe
+T13	Personnage 4899 4907	Philippe
+T19	Personnage 5350 5354	Nana
+T20	Personnage 5661 5668	Georges
+T21	Personnage 5731 5735	Nana
+T22	Personnage 5969 5972	Zoé
+T23	Personnage 6399 6403	Dieu
+A4	PerEvoque T23
+T24	Personnage 6766 6778	madame Hugon
+T25	Personnage 7244 7252	M. Venot
+T26	Personnage 7049 7053	Nana
+T27	Personnage 8314 8318	Nana
+T28	Personnage 8373 8377	Nana
+T29	Lieu 8737 8747	États-Unis
+A5	DecoupageAdmin T29
+A6	LieuEvoque T29
+T30	Personnage 8914 8918	Nana
+T31	Personnage 9594 9604	Labordette
+T32	Personnage 9608 9614	Mignon
+T33	Personnage 10178 10188	Foucarmont
+T34	Personnage 10149 10159	Vandeuvres
+T36	Personnage 10237 10244	Steiner
+T38	Personnage 10350 10356	Muffat
+T39	Personnage 10381 10388	Georges
+T40	Personnage 10401 10409	Philippe
+T41	Personnage 11958 11965	Georges
+T42	Personnage 11911 11921	Labordette
+T43	Personnage 12427 12435	Philippe
+T44	Personnage 13273 13283	Foucarmont
+T45	Personnage 13285 13292	Steiner
+T46	Personnage 13294 13304	la Faloise
+T37	Personnage 10306 10316	la Faloise
+T47	Personnage 13306 13314	Fauchery
+T48	Personnage 13368 13374	Muffat
+T49	Personnage 13415 13418	Zoé
+T50	Personnage 13727 13739	comte Muffat
+T51	Personnage 13820 13830	petit mufe
+T10	Personnage 3816 3826	petit mufe
+T9	Personnage 4048 4058	petit mufe
+T52	Personnage 13878 13888	petit mufe
+T53	Personnage 14080 14086	Muffat
+T54	Lieu 14112 14121	Normandie
+A7	DecoupageAdmin T54
+A8	LieuEvoque T54
+T55	Personnage 14173 14177	Nana
+T56	Lieu 14337 14351	rue Miromesnil
+T57	Lieu 14363 14381	avenue de Villiers
+T59	Lieu 14521 14524	Zoé
+T60	Personnage 14649 14657	M. Venot
+T61	Personnage 14827 14833	Muffat
+T62	Personnage 15114 15117	Zoé
+T63	Personnage 15363 15373	Labordette
+T64	Personnage 15537 15547	Labordette
+T65	Personnage 15918 15925	Georges
+T66	Personnage 16641 16649	Daguenet
+T67	Personnage 13146 13153	Georges
+T68	Personnage 13163 13167	Nana
+A10	PerEvoque T16
+A12	PerEvoque T2
+T69	Personnage 2179 2183	Nana
+T70	Personnage 2568 2589	le marquis de Chouard
+A13	Fonction T70
+A11	PerEvoque T12
+T14	Personnage 5019 5021;5028 5039	la maman Hugon
+A2	Fonction T14
+A15	PerEvoque T20
+T18	Personnage 6147 6151	Dieu
+A16	PerEvoque T18
+T71	Personnage 6225 6229	Dieu
+A17	PerEvoque T71
+T72	Personnage 6342 6346	Dieu
+A18	PerEvoque T72
+T73	Personnage 8567 8577	Foucarmont
+T35	Lieu 10212 10220	la Chine
+A9	DecoupageAdmin T35
+A19	LieuEvoque T35
+T74	Personnage 12112 12116	Nana
+T75	Personnage 12569 12574	Satin
+T58	Lieu 14460 14475	la rue Cardinet
+A20	ConstructionHumaine T58

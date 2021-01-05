@@ -1,0 +1,148 @@
+T1	Personnage 103 110	Louiset
+T2	Personnage 206 216	Labordette
+T3	Personnage 256 267	Rose Mignon
+T4	Personnage 385 393	Clarisse
+T5	Personnage 397 401	Gaga
+T8	Personnage 780 786	Mignon
+T9	Personnage 903 909	Mignon
+T10	Personnage 968 972	Nana
+T11	Personnage 1011 1015	Nana
+T12	Personnage 3120 3127	Georges
+T14	Personnage 3157 3167	Labordette
+T15	Personnage 3177 3181	Nana
+T16	Personnage 3256 3266	Vandeuvres
+T17	Personnage 3280 3284	Gaga
+T18	Personnage 3288 3296	Clarisse
+T19	Personnage 3315 3322	Faloise
+T20	Personnage 3444 3448	Nana
+T21	Personnage 3558 3562	Gaga
+T22	Personnage 3599 3606	Louiset
+T23	Personnage 3657 3665	Philippe
+T24	Lieu 3783 3788	Paris
+T26	Lieu 3933 3958	l’hippodrome de Longchamp
+A3	ConstructionHumaine T26
+T27	Lieu 4685 4696	Saint-Cloud
+T28	Lieu 4703 4711	Suresnes
+T30	Personnage 4762 4766	Nana
+T31	Personnage 4772 4780	Philippe
+T32	Personnage 4784 4791	Georges
+T33	Personnage 5020 5030	Labordette
+T34	Personnage 5108 5112	Gasc
+T6	Personnage 5372 5376	Nana
+T7	Personnage 5451 5455	Dieu
+A4	PerEvoque T7
+T35	Personnage 5487 5494	Mabille
+T36	Personnage 5496 5500	Nana
+T37	Personnage 6332 6336	Nana
+T38	Personnage 6769 6773	Nana
+T39	Personnage 7144 7148	Nana
+T40	Personnage 7313 7322	Bordenave
+T41	Personnage 7472 7481	Bordenave
+T42	Personnage 7703 7711	Fauchery
+T43	Personnage 7748 7756	Fauchery
+T45	Personnage 7842 7846	Rose
+T46	Personnage 7921 7931	Vandeuvres
+T47	Personnage 7974 7982	Maréchal
+T48	Personnage 8273 8277	Nana
+T49	Personnage 9074 9084	la Faloise
+T51	Personnage 8338 8348	La Faloise
+T52	Personnage 8189 8199	La Faloise
+T53	Personnage 9422 9426	Nana
+T54	Personnage 9765 9771	Muffat
+T55	Lieu 10265 10270	Paris
+T56	Personnage 10665 10669	Nana
+T57	Lieu 10892 10896	Bade
+T59	Lieu 11426 11434	le Havre
+T60	Lieu 11438 11447	Trouville
+T61	Personnage 11886 11896	La Faloise
+T62	Lieu 11744 11757	Les Tuileries
+A8	ConstructionHumaine T62
+T63	Personnage 12064 12068	Nana
+T64	Personnage 12254 12258	Nana
+T65	Personnage 12751 12755	Nana
+T67	Personnage 13375 13379	Nana
+T68	Personnage 13400 13404	Nana
+T69	Personnage 13460 13465	Diane
+T70	Personnage 13770 13778	Daguenet
+T71	Personnage 13926 13930	Gaga
+T72	Personnage 14488 14498	Vandeuvres
+T73	Personnage 14588 14597	Bordenave
+T74	Personnage 14679 14689	la Faloise
+T75	Personnage 14694 14698	Nana
+T76	Personnage 14866 14876	Labordette
+T77	Personnage 15049 15055	Mignon
+T78	Personnage 15140 15144	Rose
+T80	Personnage 15675 15679	Nana
+T81	Personnage 15783 15787	Nana
+T82	Personnage 16459 16463	Nana
+T83	Personnage 16678 16688	Vandeuvres
+T84	Personnage 16759 16763	Nana
+T85	Personnage 16740 16747	Gresham
+T86	Personnage 17154 17158	Nana
+T87	Personnage 17063 17073	Vandeuvres
+T88	Personnage 17452 17460	Maréchal
+T89	Personnage 17483 17488	Bijou
+T90	Personnage 17709 17718	la Tricon
+T91	Personnage 17553 17557	Nana
+T92	Personnage 17856 17860	Nana
+T93	Personnage 5411 5415	Dieu
+A11	PerEvoque T93
+T94	Personnage 8756 8762	Hasard
+T95	Personnage 13940 13946	Amélie
+A12	DecoupageAdmin T60
+A13	DecoupageAdmin T59
+A14	LieuEvoque T57
+A15	DecoupageAdmin T55
+A16	DecoupageAdmin T28
+A17	DecoupageAdmin T24
+T96	Personnage 522 532	Valerio II
+T97	Personnage 546 554	Lusignan
+T13	Personnage 1304 1319	du comte Muffat
+A1	Fonction T13
+T98	Personnage 1597 1607	Vandeuvres
+A18	PerEvoque T98
+T25	Lieu 3789 3808	au bois de Boulogne
+A2	Naturel T25
+T29	Lieu 4743 4759	du mont Valérien
+A19	Naturel T29
+T99	Personnage 5149 5157	Lusignan
+T100	Personnage 7171 7176	Price
+A20	PerEvoque T42
+T44	Personnage 7761 7779	la comtesse Muffat
+A5	Fonction T44
+T50	Personnage 8260 8270	Frangipane
+T101	Personnage 8417 8427	Frangipane
+T102	Personnage 8429 8445	au baron Verdier
+A6	Fonction T102
+T103	Personnage 8574 8584	Valerio II
+T104	Personnage 8598 8607	Corbreuse
+A21	PerEvoque T104
+T105	Personnage 8786 8793	Méchain
+A22	PerEvoque T105
+T106	Personnage 9050 9058	Lusignan
+T107	Personnage 9092 9102	Valerio II
+T108	Personnage 9163 9168	Price
+T109	Personnage 9537 9545	Lusignan
+A23	LieuEvoque T55
+T58	Lieu 11402 11418	la côte normande
+A7	Naturel T58
+T110	Personnage 11989 12000	sa Juliette
+T111	Personnage 12515 12523	Lusignan
+T112	Personnage 12550 12556	Spirit
+T66	Personnage 13605 13613	Lusignan
+T113	Personnage 13642 13652	Vandeuvres
+A9	PerEvoque T113
+T114	Personnage 13663 13671	Lusignan
+T115	Personnage 14599 14607	Lusignan
+T116	Personnage 14622 14632	Valerio II
+T79	Lieu 15379 15396	la Ville de Paris
+A10	DecoupageAdmin T79
+T117	Personnage 15410 15419	Cornemuse
+T118	Personnage 15704 15714	Vandeuvres
+A24	PerEvoque T118
+T119	Personnage 15804 15808	Nana
+T120	Personnage 16352 16362	Vandeuvres
+A25	PerEvoque T120
+T121	Personnage 16605 16615	Vandeuvres
+A26	PerEvoque T121
+T122	Personnage 16788 16796	Lusignan

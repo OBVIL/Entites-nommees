@@ -1,0 +1,66 @@
+T1	Personnage 65 73	Fauchery
+T2	Personnage 181 187	Muffat
+T3	Personnage 261 267	Muffat
+T4	Personnage 333 341	Fauchery
+T7	Personnage 701 709	Fauchery
+T8	Personnage 793 811	madame Du Joncquoy
+A3	Fonction T8
+T9	Personnage 1140 1144	Nana
+T10	Personnage 1338 1346	Daguenet
+T11	Personnage 1359 1363	Paul
+T12	Lieu 1710 1715	Paris
+A4	DecoupageAdmin T12
+T13	Personnage 1731 1735	Nana
+T14	Personnage 2162 2166	Nana
+T15	Personnage 2341 2349	Daguenet
+T16	Personnage 2631 2639	Daguenet
+T17	Personnage 2658 2670	madame Hugon
+T18	Personnage 2891 2894	Zoé
+T19	Personnage 3101 3119	Madame Du Joncquoy
+T20	Personnage 3189 3206	Madame Chantereau
+T21	Personnage 3437 3441	Dieu
+A5	PerEvoque T21
+T22	Personnage 3463 3471	M. Venot
+T23	Personnage 4566 4573	Estelle
+T24	Personnage 4690 4698	Daguenet
+T25	Personnage 5478 5482	Dieu
+A6	PerEvoque T25
+T26	Personnage 5488 5492	Dieu
+A7	PerEvoque T26
+T27	Personnage 5498 5502	Dieu
+A8	PerEvoque T27
+T28	Personnage 6021 6025	Nana
+T29	Personnage 6132 6143	Rose Mignon
+T30	Personnage 6609 6616	Georges
+T31	Personnage 6858 6865	Steiner
+T32	Personnage 6867 6877	la Faloise
+T33	Personnage 6879 6887	Philippe
+T34	Personnage 7469 7473	Nana
+T35	Personnage 7992 7996	Nana
+T36	Personnage 8811 8829	la comtesse Muffat
+A9	Fonction T36
+T38	Lieu 9238 9243	Gênes
+A11	LieuEvoque T38
+T39	Personnage 9510 9516	Sabine
+T40	Personnage 9792 9798	Sabine
+T41	Personnage 9820 9838	madame Du Joncquoy
+T42	Personnage 9924 9931	Steiner
+T43	Personnage 9956 9966	Foucarmont
+T44	Personnage 9970 9980	la Faloise
+T45	Personnage 10188 10196	Fauchery
+T46	Personnage 10354 10362	Philippe
+T47	Personnage 10503 10513	Foucarmont
+T48	Personnage 10660 10675	la Blonde Vénus
+A13	PerEvoque T48
+T49	Personnage 10686 10694	Fauchery
+T50	Personnage 11126 11134	Fauchery
+T51	Personnage 11168 11174	Muffat
+T52	Personnage 11232 11250	la comtesse Sabine
+A14	Fonction T52
+T53	Personnage 11389 11392	Zoé
+T54	Personnage 11468 11486	madame Du Joncquoy
+T55	Personnage 11502 11519	madame Chantereau
+T5	Lieu 1768 1780	aux Variétés
+A1	ConstructionHumaine T5
+T6	Lieu 9356 9379	du château de Dampierre
+A2	ConstructionHumaine T6

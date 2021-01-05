@@ -1,0 +1,151 @@
+T1	Personnage 33 43	la Faloise
+T2	Personnage 154 189	son cousin, M. Hector de la Faloise
+A1	Fonction T2
+T3	Lieu 241 246	Paris
+A2	DecoupageAdmin T3
+T4	Personnage 303 309	Hector
+T5	Personnage 558 564	Hector
+T6	Personnage 658 669	Rose Mignon
+T7	Personnage 942 946	Mars
+T8	Personnage 985 990	Vénus
+T9	Personnage 1105 1112	Steiner
+T10	Personnage 1187 1196	Prullière
+T11	Personnage 1243 1263	Mars de la Courtille
+#1	AnnotatorNotes T11	Je ne suis pas sûr!
+T12	Personnage 690 695	Diane
+T13	Personnage 1361 1366	Diane
+T14	Personnage 1404 1409	Diane
+T15	Personnage 1505 1514	Prullière
+T16	Personnage 1723 1731	Fauchery
+T17	Personnage 2008 2015	Blanche
+T18	Personnage 2019 2023	Lucy
+T19	Personnage 2134 2138	Nana
+T20	Personnage 2202 2224	Le comte de Vandeuvres
+A5	Fonction T20
+T21	Personnage 2232 2239	Blanche
+T22	Personnage 2273 2277	Nana
+T23	Personnage 2771 2775	nana
+T24	Personnage 2921 2925	Nana
+T25	Personnage 2933 2937	Nana
+T26	Personnage 3058 3062	Nana
+T27	Personnage 3073 3077	Nana
+T28	Personnage 3299 3304	Junon
+T29	Personnage 3309 3317	Fermière
+T30	Personnage 3327 3334	Jupiter
+T31	Personnage 3374 3379	Diane
+T32	Personnage 3392 3397	Vénus
+T33	Personnage 3434 3438	Mars
+T34	Personnage 3482 3489	Vulcain
+T35	Personnage 3618 3625	Jupiter
+T36	Personnage 4024 4029	Vénus
+T37	Lieu 4046 4054	l’Olympe
+A3	Naturel T37
+T38	Lieu 4059 4065	Olympe
+A4	Naturel T38
+T39	Personnage 4122 4129	Jupiter
+T40	Personnage 4158 4162	Iris
+T41	Personnage 4166 4174	Ganymède
+T42	Personnage 4409 4419	la Faloise
+T43	Personnage 4435 4450	Clarisse Besnus
+T44	Personnage 4478 4487	Bordenave
+T45	Personnage 4500 4504	Iris
+A6	PerEvoque T45
+A7	PerEvoque T12
+A8	PerEvoque T7
+A9	PerEvoque T8
+A10	PerEvoque T13
+A11	PerEvoque T14
+A12	PerEvoque T11
+A14	PerEvoque T29
+A13	PerEvoque T30
+A15	PerEvoque T33
+A16	PerEvoque T34
+A17	PerEvoque T35
+T46	Personnage 3780 3785	Vénus
+A18	PerEvoque T46
+A19	PerEvoque T36
+A20	PerEvoque T39
+A21	PerEvoque T40
+A22	PerEvoque T41
+T47	Personnage 4617 4625	Fauchery
+T48	Personnage 4648 4656	Daguenet
+T49	Lieu 4758 4767	la Bourse
+A23	ConstructionHumaine T49
+T50	Personnage 4830 4834	Lucy
+T51	Personnage 4927 4937	la Faloise
+T52	Personnage 4976 4980	Lucy
+T53	Personnage 5093 5101	Fauchery
+T54	Personnage 5191 5213	le comte de Vandeuvres
+A24	Fonction T54
+T55	Personnage 5298 5308	les Muffat
+T57	Personnage 5493 5501	Fauchery
+T58	Personnage 5504 5514	la Faloise
+T59	Personnage 5536 5541	Satin
+A25	PerEvoque T59
+T60	Personnage 5551 5559	Fauchery
+T61	Personnage 5790 5799	Bordenave
+T62	Personnage 6327 6334	Jupiter
+A26	PerEvoque T62
+T63	Personnage 6456 6460	Nana
+T64	Personnage 6479 6483	Nana
+T65	Personnage 6601 6605	Nana
+T66	Lieu 7369 7378	mont Etna
+T67	Personnage 7485 7492	Vulcain
+T68	Personnage 7521 7526	Diane
+T69	Personnage 7635 7640	Vénus
+T70	Personnage 7646 7650	Mars
+A27	PerEvoque T70
+T71	Personnage 7666 7671	Diane
+A28	PerEvoque T71
+T72	Personnage 7700 7705	Vénus
+A29	PerEvoque T72
+T73	Personnage 7743 7747	Nana
+T74	Personnage 8175 8180	Vénus
+A30	PerEvoque T74
+T75	Personnage 8249 8253	Nana
+T76	Personnage 8711 8715	Nana
+T77	Personnage 8798 8808	Labordette
+T78	Personnage 8976 8984	Daguenet
+T79	Personnage 9015 9019	Nana
+T80	Personnage 9204 9208	Nana
+T81	Personnage 9367 9371	Nana
+T82	Personnage 9537 9544	Steiner
+T83	Lieu 10438 10452	la Boule-Noire
+A31	ConstructionHumaine T83
+T84	Lieu 10761 10769	la Terre
+A32	Naturel T84
+T85	Personnage 10850 10857	Jupiter
+A33	PerEvoque T85
+T86	Personnage 10867 10879	Roi Dagobert
+A34	PerEvoque T86
+T87	Personnage 10944 10950	Phébus
+A35	PerEvoque T87
+T88	Personnage 10960 10969	Postillon
+A36	PerEvoque T88
+T89	Personnage 10973 10982	Lonjumeau
+T90	Personnage 10986 10993	Minerve
+A37	PerEvoque T90
+T91	Personnage 11057 11061	Mars
+A38	PerEvoque T91
+T92	Personnage 11476 11480	Lucy
+T93	Personnage 11528 11543	Caroline Héquet
+T94	Personnage 11659 11669	la Faloise
+T95	Lieu 11671 11676	Paris
+A39	DecoupageAdmin T95
+T96	Personnage 12006 12014	Fauchery
+T97	Personnage 12140 12149	la Tricon
+T98	Personnage 12254 12261	Auguste
+T99	Personnage 12558 12568	Labordette
+T100	Personnage 12628 12635	Blanche
+T101	Personnage 12654 12658	Lucy
+T102	Personnage 12696 12706	la Faloise
+T103	Personnage 12709 12717	Fauchery
+A40	LieuEvoque T66
+T56	Personnage 10716 10720	Iris
+A41	PerEvoque T56
+T104	Personnage 11166 11173	Neptune
+A42	PerEvoque T104
+A43	PerEvoque T97
+T105	Personnage 12192 12210	la comtesse Muffat
+A44	Fonction T105
+T106	Personnage 12216 12226	la Faloise

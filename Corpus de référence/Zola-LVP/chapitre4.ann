@@ -1,0 +1,177 @@
+T1	Personnage 29 37	Marjolin
+T4	Personnage 1363 1367	Dieu
+A3	PerEvoque T4
+T5	Personnage 1505 1513	Marjolin
+T6	Personnage 1541 1549	Marjolin
+T7	Personnage 1583 1602	la mère Chantemesse
+T8	Lieu 1671 1689	la rue Saint-Denis
+A4	ConstructionHumaine T8
+T9	Personnage 1841 1860	la mère Chantemesse
+T10	Personnage 1896 1902	Cadine
+T11	Personnage 2098 2117	la mère Chantemesse
+T12	Personnage 2215 2234	La mère Chantemesse
+T13	Personnage 2492 2498	Cadine
+T14	Personnage 2522 2541	la mère Chantemesse
+T15	Personnage 2562 2568	Cadine
+T16	Personnage 2588 2596	Marjolin
+T18	Personnage 3042 3050	Marjolin
+T19	Lieu 2979 2990	rue au Lard
+A6	ConstructionHumaine T19
+T20	Personnage 3065 3084	la mère Chantemesse
+T21	Personnage 3549 3555	Cadine
+T22	Personnage 3559 3567	Marjolin
+T23	Personnage 3707 3726	la mère Chantemesse
+T24	Personnage 3786 3792	Cadine
+T25	Personnage 3849 3857	Marjolin
+T26	Personnage 4117 4125	Marjolin
+T27	Personnage 4344 4350	Cadine
+T28	Personnage 4399 4407	Marjolin
+T29	Personnage 4501 4520	la mère Chantemesse
+T30	Personnage 5039 5045	Cadine
+T31	Personnage 5075 5083	Marjolin
+T32	Lieu 5190 5204	la rue au Lard
+A7	ConstructionHumaine T32
+T33	Personnage 5403 5422	la mère Chantemesse
+T34	Lieu 5617 5631	La rue au Lard
+A8	ConstructionHumaine T34
+T35	Lieu 5728 5749	la rue de la Lingerie
+A9	ConstructionHumaine T35
+T36	Personnage 6069 6075	Cadine
+T37	Personnage 6079 6087	Marjolin
+T38	Personnage 6373 6392	la mère Chantemesse
+T39	Personnage 6469 6475	Cadine
+T40	Personnage 6479 6487	Marjolin
+T41	Lieu 6748 6768	la rue de la Poterie
+A10	ConstructionHumaine T41
+T42	Personnage 7061 7080	la mère Chantemesse
+T43	Lieu 7086 7110	le carreau des Innocents
+A11	ConstructionHumaine T43
+T44	Personnage 8435 8441	Cadine
+T45	Personnage 8466 8474	Marjolin
+T46	Personnage 8479 8487	Marjolin
+T47	Personnage 8515 8521	Cadine
+T49	Personnage 8716 8724	Marjolin
+T50	Personnage 8751 8757	Cadine
+T51	Personnage 8769 8788	la mère Chantemesse
+T52	Personnage 9125 9144	La mère Chantemesse
+T53	Personnage 9884 9890	Cadine
+T54	Personnage 9926 9934	Marjolin
+T55	Personnage 10486 10505	La mère Chantemesse
+T56	Personnage 10809 10817	Marjolin
+T57	Personnage 10864 10870	Cadine
+T58	Lieu 11192 11202	des Halles
+A13	ConstructionHumaine T58
+T59	Personnage 12076 12084	Marjolin
+T60	Lieu 12496 12513	le quartier Latin
+A14	ConstructionHumaine T60
+T61	Lieu 12518 12538	la rue Saint-Jacques
+A15	LieuEvoque T61
+T62	Personnage 12541 12556	la rue Dauphine
+T63	Lieu 12567 12580	au Luxembourg
+A17	ConstructionHumaine T63
+T64	Personnage 12582 12590	Marjolin
+T65	Personnage 13015 13023	Marjolin
+T66	Personnage 13107 13123	père Chantemesse
+T67	Personnage 13151 13157	Cadine
+T68	Personnage 13233 13252	la mère Chantemesse
+T69	Lieu 13289 13306	du quartier Latin
+A18	ConstructionHumaine T69
+T70	Personnage 13422 13428	Cadine
+T71	Personnage 13515 13523	Marjolin
+T72	Lieu 13625 13645	les Halles centrales
+A19	ConstructionHumaine T72
+T73	Personnage 14299 14305	Cadine
+T74	Personnage 14495 14503	Marjolin
+T75	Personnage 14716 14724	Marjolin
+T76	Personnage 15210 15216	Cadine
+T77	Personnage 15686 15692	Cadine
+T78	Lieu 15804 15813	Montreuil
+T79	Personnage 15861 15873	sainte Marie
+A21	PerEvoque T79
+T80	Personnage 15878 15890	saint Pierre
+A22	PerEvoque T80
+T81	Personnage 15895 15907	saint Joseph
+A23	PerEvoque T81
+T82	Personnage 16150 16156	Cadine
+T83	Personnage 16716 16724	Marjolin
+T84	Lieu 17243 17249	Smyrne
+A24	LieuEvoque T84
+T85	Personnage 17658 17664	Cadine
+T86	Personnage 18232 18240	Marjolin
+T87	Personnage 18739 18745	Cadine
+T88	Lieu 19158 19168	les Halles
+T90	Personnage 20517 20525	Marjolin
+T91	Lieu 20842 20853	Romainville
+T95	Lieu 21906 21916	les Halles
+A28	ConstructionHumaine T95
+T96	Personnage 22027 22033	Cadine
+T97	Personnage 22037 22045	Marjolin
+T98	Personnage 22080 22099	la mère Chantemesse
+T99	Personnage 22457 22476	la mère Chantemesse
+T100	Personnage 23713 23721	Marjolin
+T101	Personnage 23739 23745	Cadine
+T103	Personnage 24322 24328	Cadine
+T104	Personnage 24431 24439	Marjolin
+T105	Personnage 24663 24682	la mère Chantemesse
+T106	Personnage 24971 24977	Cadine
+T107	Lieu 25178 25188	les Halles
+A30	ConstructionHumaine T107
+T108	Personnage 26311 26319	Marjolin
+T109	Personnage 26330 26336	Cadine
+T111	Personnage 27292 27298	Cadine
+T112	Personnage 28011 28017	Cadine
+T113	Personnage 28021 28029	Marjolin
+T114	Lieu 28276 28281	Paris
+T115	Personnage 29727 29733	Cadine
+T116	Lieu 29911 29921	des Halles
+T117	Personnage 30280 30286	Cadine
+T118	Personnage 30360 30368	Marjolin
+T119	Personnage 30699 30713	Claude Lantier
+T120	Personnage 32918 32924	Cadine
+T121	Personnage 32928 32936	Marjolin
+T122	Personnage 32964 32970	Claude
+T123	Personnage 33365 33371	Cadine
+T124	Personnage 33377 33385	Marjolin
+T125	Personnage 33877 33883	Claude
+T126	Personnage 34150 34156	Cadine
+T127	Personnage 34160 34168	Marjolin
+T129	Lieu 34906 34928	le quartier des Halles
+A32	DecoupageAdmin T129
+T130	Lieu 35155 35160	Paris
+T131	Lieu 35737 35751	la rue Babille
+A34	ConstructionHumaine T131
+T132	Lieu 35753 35766	la rue Sauval
+A35	ConstructionHumaine T132
+T133	Lieu 35768 35788	la rue des Deux-Écus
+T134	Lieu 35790 35807	la rue de Viarmes
+A36	ConstructionHumaine T134
+T135	Lieu 35954 35972	la rue Vauvilliers
+A37	ConstructionHumaine T135
+A38	ConstructionHumaine T133
+T136	Lieu 36147 36168	la rue des Prouvaires
+A39	ConstructionHumaine T136
+T137	Personnage 36170 36176	Claude
+T138	Lieu 36316 36330	Saint-Eustache
+A40	ConstructionHumaine T138
+T139	Lieu 22772 22786	la rue au Lard
+A25	ConstructionHumaine T139
+T110	Lieu 27083 27089	Halles
+A31	ConstructionHumaine T110
+T17	Personnage 2737 2744	Thérèse
+T93	Lieu 21559 21562;21571 21577	les Halles
+A26	ConstructionHumaine T93
+T2	Lieu 49 72	au marché des Innocents
+A1	ConstructionHumaine T2
+T3	Lieu 1214 1224	des Halles
+A2	ConstructionHumaine T3
+T48	Lieu 8599 8609	des Halles
+A5	ConstructionHumaine T48
+A20	LieuEvoque T78
+T89	Lieu 19177 19187	des Halles
+A12	ConstructionHumaine T89
+T92	Lieu 21103 21123	des Halles centrales
+A16	ConstructionHumaine T92
+T94	Lieu 24057 24060;24069 24075	les Halles
+A27	ConstructionHumaine T94
+T102	Lieu 34188 34208	des Halles centrales
+A29	ConstructionHumaine T102
