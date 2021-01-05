@@ -1,0 +1,101 @@
+T1	Personnage 149 156	Georges
+T2	Personnage 229 251	monsieur de Vandeuvres
+T3	Personnage 343 361	M. Théophile Venot
+T4	Personnage 367 379	madame Hugon
+T5	Personnage 428 438	les Muffat
+T6	Personnage 712 720	Daguenet
+T7	Personnage 747 754	Estelle
+T8	Personnage 766 774	Fauchery
+T9	Personnage 1145 1153	Fauchery
+T10	Personnage 1203 1210	Georges
+T11	Personnage 1216 1224	Daguenet
+T12	Misc 1272 1284	les Jésuites
+T13	Personnage 1570 1575	Venot
+T14	Personnage 1590 1595	Venot
+T15	Personnage 1706 1721	le comte Muffat
+A1	Role T15
+T16	Personnage 2065 2071	Sabine
+T17	Lieu 2168 2181	aux Fondettes
+A2	ConstructionHumaine T17
+T18	Personnage 2351 2358	Georges
+T20	Personnage 2596 2600	Nana
+T21	Personnage 2602 2612	Vandeuvres
+T22	Personnage 2818 2821	Zoé
+T23	Personnage 3141 3153	madame Hugon
+T24	Personnage 3281 3288	Georges
+T25	Personnage 3387 3403	monsieur Steiner
+T26	Lieu 3623 3631	la Choue
+A3	DecoupageAdmin T26
+T27	Lieu 3644 3652	Gumières
+A4	DecoupageAdmin T27
+T28	Personnage 3794 3798	Nana
+T29	Lieu 3989 4000	la Mignotte
+A5	ConstructionHumaine T29
+T30	Personnage 4035 4039	Nana
+T31	Personnage 4110 4114	Nana
+T32	Personnage 4232 4239	Estelle
+T33	Personnage 4275 4283	M. Venot
+T34	Personnage 4301 4316	le comte Muffat
+A6	Role T34
+T35	Personnage 5051 5061	Labordette
+T36	Personnage 5101 5112	Maria Blond
+T37	Personnage 5142 5146	Lucy
+T38	Lieu 5283 5290	Chamont
+A7	DecoupageAdmin T38
+T39	Lieu 5293 5304	la Mignotte
+A8	ConstructionHumaine T39
+T40	Personnage 5306 5310	Nana
+T41	Personnage 5454 5461	Steiner
+T42	Personnage 5494 5501	Georges
+T43	Personnage 5644 5648	Nana
+T44	Personnage 5976 5979	Zoé
+T45	Lieu 6075 6082	Orléans
+A9	DecoupageAdmin T45
+T46	Personnage 6310 6314	Nana
+T47	Personnage 6562 6566	Nana
+T48	Personnage 6576 6583	Georges
+T49	Personnage 6680 6683	Zoé
+T50	Personnage 6960 6964	Nana
+T51	Personnage 7155 7159	Dieu
+A10	PerEvoque T51
+T52	Personnage 7281 7288	Georges
+T53	Personnage 7658 7662	Gaga
+T54	Personnage 7699 7703	Irma
+T55	Misc 8078 8091	la Révolution
+T57	Personnage 8493 8509	Madame d’Anglars
+T58	Personnage 8532 8538	Mignon
+T59	Personnage 8594 8602;8604 8620	ses fils Henri et Charles
+A12	Role T59
+T60	Personnage 8650 8654	Lucy
+T61	Personnage 8679 8687	Fauchery
+T62	Personnage 8708 8726	la comtesse Sabine
+A13	Role T62
+T63	Lieu 8828 8845	la rue Miromesnil
+A14	DecoupageAdmin T63
+T64	Personnage 8847 8855	Daguenet
+T65	Personnage 8877 8884	Estelle
+T66	Personnage 9011 9017	Muffat
+T67	Personnage 9021 9028	Chouard
+T68	Personnage 9076 9086	Vandeuvres
+T69	Personnage 9932 9936	Irma
+T70	Personnage 11145 11149	Gaga
+T71	Personnage 11152 11163	Maria Blond
+T72	Personnage 11167 11177	Tatan Néné
+T73	Personnage 11351 11355	Gaga
+T74	Personnage 11481 11485	Nana
+T75	Personnage 12429 12433	Zizi
+T76	Personnage 12990 12997	Steiner
+T77	Personnage 13290 13305	le comte Muffat
+A15	Role T77
+T79	Personnage 13655 13659	Nana
+T80	Personnage 13549 13556	Georges
+T81	Lieu 13946 13965	l’abbaye de Chamont
+A16	ConstructionHumaine T81
+T82	Personnage 14253 14257	Nana
+T83	Personnage 14312 14319	Georges
+T84	Personnage 14397 14404	Georges
+T85	Personnage 2659 2663	Nana
+T19	Personnage 2491 2513	cette perche d’Estelle
+T56	Lieu 8286 8293	Chamont
+A11	DecoupageAdmin T56
+T78	Personnage 13454 13460	Mignon

@@ -1,0 +1,58 @@
+T1	Personnage 230 234	Nana
+T2	Personnage 433 436	Zoé
+T3	Personnage 532 535	Zoé
+T4	Personnage 990 1000	les Muffat
+T5	Personnage 1128 1132	Nana
+T6	Personnage 1392 1407	le comte Muffat
+A1	Role T6
+T7	Personnage 1473 1477	Nana
+T8	Personnage 1569 1593	le comte avec Vandeuvres
+A2	Role T8
+T9	Personnage 1597 1611	les fils Hugon
+A3	Role T9
+T10	Personnage 3153 3157	Nana
+T11	Lieu 3290 3297	Chamont
+A4	ConstructionHumaine T11
+T12	Personnage 3305 3319	Irma d’Anglars
+T13	Personnage 3453 3458	Satin
+T14	Personnage 3752 3759	Georges
+T15	Lieu 3975 3990	aux Batignolles
+A5	ConstructionHumaine T15
+T17	Lieu 4328 4335	du Bois
+A7	Naturel T17
+#1	AnnotatorNotes T17	j'hésite entre lieu "naturel" et "construction humaine" vu que le bois a été planté par l'homme...
+T18	Lieu 4514 4532	avenue de Villiers
+A8	ConstructionHumaine T18
+T19	Personnage 4822 4826	Nana
+T20	Personnage 4889 4895	Muffat
+T21	Personnage 5063 5070	Louiset
+T22	Lieu 5631 5647	a rue Montmartre
+A9	ConstructionHumaine T22
+T23	Personnage 5814 5818	Nana
+T24	Personnage 5990 5997	Georges
+T25	Personnage 6085 6089	Nana
+T26	Lieu 6169 6184	rue des Martyrs
+A10	ConstructionHumaine T26
+T27	Personnage 6251 6259	Daguenet
+T28	Personnage 6439 6443	Nana
+T29	Personnage 6705 6718	La mère Boche
+A11	Role T29
+T30	Personnage 6647 6651	Nana
+T31	Lieu 7172 7196	la rue de la Goutte-d’Or
+A12	ConstructionHumaine T31
+T32	Personnage 7837 7841	Nana
+T33	Personnage 7926 7934	François
+T34	Personnage 8207 8210	Zoé
+T35	Personnage 8151 8166	le comte Muffat
+A13	Role T35
+T36	Personnage 8118 8132	les fils Hugon
+A14	Role T36
+T37	Personnage 8364 8368	Nana
+T38	Lieu 6411 6416	Paris
+A15	DecoupageAdmin T38
+T39	Personnage 5596 5600	Nana
+T40	Personnage 4444 4456	madame Lerat
+T41	Lieu 3628 3634	Venise
+A16	LieuEvoque T41
+T16	Personnage 3996 4011	son petit Louis
+A6	Role T16

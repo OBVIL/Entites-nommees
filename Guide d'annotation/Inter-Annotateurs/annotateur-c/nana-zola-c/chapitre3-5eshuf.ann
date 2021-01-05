@@ -1,0 +1,112 @@
+T1	Lieu 239 251	aux Variétés
+A1	ConstructionHumaine T1
+T2	Personnage 258 278	Le comte de Bismarck
+A2	Role T2
+T3	Personnage 299 317	madame Du Joncquoy
+A3	Role T3
+T4	Lieu 430 439	la Prusse
+A4	DecoupageAdmin T4
+A5	LieuEvoque T4
+T5	Lieu 442 447	Paris
+A6	DecoupageAdmin T5
+T6	Personnage 619 629	Vandeuvres
+T7	Personnage 662 670	Fauchery
+T8	Personnage 820 827	Steiner
+T9	Personnage 868 878	Vandeuvres
+T10	Personnage 948 952	Dieu
+A7	PerEvoque T10
+T11	Personnage 1017 1027	Vandeuvres
+T12	Personnage 1083 1091	Fauchery
+T13	Lieu 1207 1212	Paris
+A8	DecoupageAdmin T13
+T14	Personnage 1288 1306	Madame Du Joncquoy
+A9	Role T14
+T15	Lieu 1365 1371	Orient
+A10	LieuEvoque T15
+T16	Personnage 1408 1419	Nazar-Eddin
+A11	PerEvoque T16
+T17	Lieu 1958 1963	Paris
+A12	DecoupageAdmin T17
+T18	Personnage 2035 2057	la baronne de Fougeray
+A13	Role T18
+T19	Lieu 2078 2092	aux Carmélites
+A14	LieuEvoque T19
+T20	Personnage 2125 2142	Madame Chantereau
+A15	Role T20
+T21	Personnage 2159 2171	des Fougeray
+T22	Personnage 2278 2295	Monsieur Fauchery
+A16	Role T22
+T23	Personnage 2346 2366	monsieur de Bismarck
+A17	Role T23
+A18	PerEvoque T23
+T24	Personnage 2439 2457	madame Du Joncquoy
+A19	Role T24
+T25	Personnage 2487 2509	monsieur de Vandeuvres
+A20	Role T25
+T26	Lieu 2581 2588	Bourges
+A21	LieuEvoque T26
+T27	Lieu 2641 2645	Bade
+A22	LieuEvoque T27
+T28	Lieu 2613 2619	Prusse
+A23	LieuEvoque T28
+T29	Personnage 2603 2619	le roi de Prusse
+A24	Role T29
+A25	PerEvoque T29
+T30	Personnage 2749 2767	madame Du Joncquoy
+A26	Role T30
+T31	Personnage 2829 2839	Vandeuvres
+T32	Personnage 2854 2862	Fauchery
+T33	Personnage 2938 2948	Vandeuvres
+T34	Personnage 3111 3128	la baronne Decker
+A27	Role T34
+T35	Lieu 3181 3189	Viroflay
+A28	LieuEvoque T35
+T36	Personnage 3191 3201	Vandeuvres
+T37	Personnage 3496 3503	Steiner
+T38	Personnage 3514 3521	Léonide
+T39	Lieu 3547 3556	Montauban
+A29	LieuEvoque T39
+T40	Lieu 3572 3597	le château de Beaurecueil
+A30	LieuEvoque T40
+A31	ConstructionHumaine T40
+T41	Lieu 3710 3722	au Lion-d’Or
+A32	LieuEvoque T41
+A33	ConstructionHumaine T41
+T42	Personnage 3779 3786	Léonide
+T43	Personnage 3885 3893	Fauchery
+T44	Personnage 3951 3966	au comte Muffat
+A34	Role T44
+T45	Personnage 3991 4001	La Faloise
+T46	Personnage 4087 4097	Vandeuvres
+T47	Misc 4138 4149	les Anglais
+T48	Misc 4242 4252	les Russes
+T49	Lieu 4193 4203	Angleterre
+A35	DecoupageAdmin T49
+A36	LieuEvoque T49
+T50	Lieu 4558 4576	la rue des Martyrs
+A37	ConstructionHumaine T50
+T51	Personnage 4591 4605	Laure Piédefer
+T52	Personnage 4728 4733	Laure
+T53	Personnage 4759 4777	la comtesse Sabine
+A38	Role T53
+T54	Personnage 4935 4948	Georges Hugon
+T55	Personnage 5167 5186	madame de Chezelles
+A39	Role T55
+T56	Personnage 5233 5237	Nana
+T57	Personnage 5264 5274	Vandeuvres
+T58	Personnage 5501 5511	Vandeuvres
+T59	Lieu 5724 5737	aux Fondettes
+A40	LieuEvoque T59
+A41	ConstructionHumaine T59
+T60	Personnage 5781 5788	Léonide
+T61	Lieu 5870 5875	Perse
+A42	LieuEvoque T61
+T62	Personnage 5859 5875	le shah de Perse
+T63	Personnage 5905 5915	Vandeuvres
+T64	Personnage 6031 6038	Estelle
+T65	Personnage 6167 6184	madame Chantereau
+A43	Role T65
+T66	Personnage 6375 6382	Léonide
+T67	Personnage 5978 6000	cette dame Du Joncquoy
+A44	Role T67
+#1	AnnotatorNotes T67	Annoter "cette" ? 

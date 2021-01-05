@@ -1,0 +1,44 @@
+T1	Personnage 17 25	Daguenet
+T2	Personnage 139 143	Nana
+T3	Personnage 393 397	Nana
+T4	Personnage 1761 1767	Muffat
+T6	Lieu 2634 2651	la rue Saint-Marc
+A2	ConstructionHumaine T6
+T7	Lieu 3197 3215	la rue de Provence
+A3	ConstructionHumaine T7
+T8	Personnage 3868 3874	Sabine
+T10	Misc 4542 4552	Bas-Empire
+T11	Lieu 5089 5095	Égypte
+A4	DecoupageAdmin T11
+T12	Personnage 5063 5066	Léa
+T13	Personnage 5354 5358	Nana
+T14	Lieu 5585 5606	la galerie Saint-Marc
+A5	ConstructionHumaine T14
+T15	Lieu 5555 5577	la galerie des Variété
+A6	ConstructionHumaine T15
+T16	Personnage 6099 6105	Muffat
+T17	Personnage 6142 6153	madame Bron
+T18	Personnage 6186 6190	Nana
+T20	Personnage 7443 7458	le comte Muffat
+A7	Role T20
+T21	Personnage 8444 8452	Daguenet
+T22	Personnage 8220 8224	Dieu
+A8	PerEvoque T22
+T23	Lieu 9104 9109	Paris
+A9	DecoupageAdmin T23
+T24	Personnage 9111 9117	Muffat
+T25	Lieu 9207 9212	Opéra
+A10	ConstructionHumaine T25
+T26	Lieu 9415 9420	Paris
+A11	DecoupageAdmin T26
+T27	Personnage 11005 11013	Fauchery
+T28	Lieu 11032 11044	rue Taitbout
+A12	ConstructionHumaine T28
+T29	Lieu 11057 11075	la rue de Provence
+A13	ConstructionHumaine T29
+T30	Personnage 11462 11470	Fauchery
+T31	Personnage 11757 11763	Muffat
+T5	Lieu 2331 2355	du passage des Panoramas
+A1	ConstructionHumaine T5
+T9	Personnage 4406 4414	Fauchery
+T19	Misc 7383 7392	du Figaro

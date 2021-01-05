@@ -1,0 +1,156 @@
+T1	Personnage 33 43	la Faloise
+T2	Personnage 154 189	son cousin, M. Hector de la Faloise
+A1	Role T2
+#1	AnnotatorNotes T2	Je ne sais pas s'il faut inclure le possessif
+T3	Lieu 241 246	Paris
+T4	Personnage 303 309	Hector
+T5	Personnage 558 564	Hector
+T6	Personnage 352 364	ce Bordenave
+#2	AnnotatorNotes T6	J'hésite à intégrer le "ce"
+T7	Personnage 658 669	Rose Mignon
+T8	Personnage 690 695	Diane
+A2	PerEvoque T8
+T9	Personnage 985 990	Vénus
+A3	PerEvoque T9
+T10	Personnage 1105 1112	Steiner
+T11	Personnage 1187 1196	Prullière
+T12	Personnage 1243 1247	Mars
+A4	PerEvoque T12
+T13	Lieu 1251 1263	la Courtille
+#3	AnnotatorNotes T13	Doute pour cette annotation
+T14	Personnage 1361 1366	Diane
+A5	PerEvoque T14
+T15	Personnage 1404 1409	Diane
+A6	PerEvoque T15
+T16	Personnage 1723 1731	Fauchery
+T17	Personnage 1240 1263	un Mars de la Courtille
+T18	Personnage 2008 2015	Blanche
+T19	Personnage 2019 2023	Lucy
+T20	Personnage 2134 2138	Nana
+T21	Personnage 2202 2224	Le comte de Vandeuvres
+A7	Role T21
+T22	Personnage 2232 2239	Blanche
+T23	Personnage 2273 2277	Nana
+T24	Personnage 2921 2925	Nana
+T25	Personnage 2933 2937	Nana
+T26	Personnage 3299 3304	Junon
+T27	Personnage 3327 3334	Jupiter
+A8	PerEvoque T27
+T28	Personnage 3374 3379	Diane
+T29	Personnage 3392 3397	Vénus
+T30	Personnage 3434 3438	Mars
+A9	PerEvoque T30
+A10	PerEvoque T29
+A11	PerEvoque T28
+T31	Personnage 3482 3489	Vulcain
+A12	PerEvoque T31
+T32	Personnage 3618 3625	Jupiter
+A13	PerEvoque T32
+T33	Personnage 3780 3785	Vénus
+A14	PerEvoque T33
+T34	Personnage 4024 4029	Vénus
+A15	PerEvoque T34
+T35	Lieu 4046 4054	l’Olympe
+A16	LieuEvoque T35
+T36	Personnage 4122 4129	Jupiter
+A17	PerEvoque T36
+T37	Personnage 2771 2775	nana
+T38	Personnage 3058 3062	Nana
+T39	Personnage 3073 3077	Nana
+T40	Personnage 4158 4162	Iris
+T41	Personnage 4166 4174	Ganymède
+A18	PerEvoque T40
+A19	PerEvoque T41
+T42	Lieu 4059 4065	Olympe
+A20	LieuEvoque T42
+#4	AnnotatorNotes T42	Doute : inclure un Olympe de carton ? 
+T43	Personnage 4409 4419	la Faloise
+T44	Personnage 4435 4450	Clarisse Besnus
+T45	Personnage 4478 4487	Bordenave
+T46	Personnage 4617 4625	Fauchery
+T47	Personnage 4648 4656	Daguenet
+T48	Personnage 4830 4834	Lucy
+T49	Personnage 4976 4980	Lucy
+T50	Personnage 5093 5101	Fauchery
+T51	Personnage 5192 5213	e comte de Vandeuvres
+A21	Role T51
+T52	Personnage 5493 5501	Fauchery
+T53	Personnage 5504 5514	la Faloise
+T54	Personnage 5536 5541	Satin
+T55	Personnage 5551 5559	Fauchery
+T56	Personnage 5790 5799	Bordenave
+T57	Personnage 6327 6334	Jupiter
+A22	PerEvoque T57
+T58	Personnage 6456 6460	Nana
+T59	Personnage 6479 6483	Nana
+T60	Personnage 6601 6605	Nana
+T61	Personnage 4927 4937	la Faloise
+T62	Personnage 12654 12658	Lucy
+T63	Personnage 12696 12706	la Faloise
+T64	Personnage 12709 12717	Fauchery
+T65	Personnage 12628 12635	Blanche
+T66	Personnage 12555 12568	ce Labordette
+T67	Personnage 12254 12261	Auguste
+T68	Personnage 12192 12210	la comtesse Muffat
+A23	Role T68
+T69	Personnage 12216 12226	la Faloise
+T70	Personnage 12140 12149	la Tricon
+T71	Personnage 12006 12015	Fauchery,
+T72	Personnage 11659 11669	la Faloise
+T73	Personnage 11528 11543	Caroline Héquet
+T74	Personnage 11476 11480	Lucy
+T76	Personnage 7485 7492	Vulcain
+A25	PerEvoque T76
+T75	Lieu 7366 7378	du mont Etna
+A24	LieuEvoque T75
+T77	Personnage 5298 5308	les Muffat
+T78	Misc 4758 4767	la Bourse
+T79	Personnage 7635 7640	Vénus
+A26	PerEvoque T79
+T80	Personnage 7646 7650	Mars
+A27	PerEvoque T80
+T81	Personnage 7666 7671	Diane
+A28	PerEvoque T81
+T82	Personnage 7700 7705	Vénus
+A29	PerEvoque T82
+T83	Personnage 7743 7747	Nana
+T84	Personnage 8175 8180	Vénus
+A30	PerEvoque T84
+T85	Personnage 8249 8253	Nana
+T86	Personnage 8711 8715	Nana
+T87	Personnage 8798 8808	Labordette
+T88	Personnage 8976 8984	Daguenet
+T89	Personnage 9015 9019	Nana
+T90	Personnage 9204 9208	Nana
+T91	Personnage 9367 9371	Nana
+T92	Lieu 10438 10452	la Boule-Noire
+A31	ConstructionHumaine T92
+T93	Lieu 10761 10769	la Terre
+A32	Naturel T93
+T94	Personnage 10716 10720	Iris
+A33	PerEvoque T94
+T95	Personnage 10850 10857	Jupiter
+A34	PerEvoque T95
+T96	Personnage 10867 10879	Roi Dagobert
+A35	PerEvoque T96
+T97	Personnage 10944 10950	Phébus
+A36	PerEvoque T97
+T98	Personnage 11057 11061	Mars
+A37	PerEvoque T98
+T99	Personnage 11166 11173	Neptune
+A38	PerEvoque T99
+T100	Personnage 10960 10982	Postillon de Lonjumeau
+A39	PerEvoque T100
+#5	AnnotatorNotes T100	J'ai un doute... c'est le titre d'un opéra comique...
+T101	Lieu 10973 10982	Lonjumeau
+A40	LieuEvoque T101
+T102	Personnage 10986 10993	Minerve
+A41	PerEvoque T102
+T103	Personnage 942 946	Mars
+A42	PerEvoque T103
+T104	Personnage 1505 1514	Prullière
+T105	Personnage 4500 4504	Iris
+A43	PerEvoque T105
+T106	Misc 11929 11946	conseiller d’État
+#6	AnnotatorNotes T106	doute sur cette annotation. Annoter seulement état ? 
+T107	Personnage 9537 9544	Steiner

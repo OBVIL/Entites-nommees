@@ -1,0 +1,158 @@
+T1	Personnage 206 216	Labordette
+T2	Personnage 103 110	Louiset
+T3	Personnage 256 267	Rose Mignon
+T4	Personnage 385 393	Clarisse
+T5	Personnage 397 401	Gaga
+T6	Personnage 522 532	Valerio II
+T7	Personnage 546 554	Lusignan
+T8	Personnage 780 786	Mignon
+T9	Personnage 903 909	Mignon
+T10	Personnage 968 972	Nana
+T11	Personnage 1011 1015	Nana
+T12	Personnage 1304 1319	du comte Muffat
+A1	Role T12
+T13	Personnage 1597 1607	Vandeuvres
+#1	AnnotatorNotes T13	je ne suis pas sûre qu'il faille annoter celle-là, j'ai hésité avec "Misc" en prenant "l'écurie Vandeuvres", mais je ne suis pas sûre non plus que ce soit une institution...
+T14	Personnage 3120 3127	Georges
+T15	Personnage 3157 3167	Labordette
+T16	Personnage 3177 3181	Nana
+T17	Personnage 3280 3284	Gaga
+T18	Personnage 3288 3296	Clarisse
+T19	Personnage 3312 3322	la Faloise
+T20	Personnage 3444 3448	Nana
+T21	Personnage 3599 3606	Louiset
+T22	Personnage 3558 3562	Gaga
+T23	Misc 3621 3630	l’Anglais
+T24	Personnage 3657 3665	Philippe
+T25	Lieu 3783 3788	Paris
+A2	DecoupageAdmin T25
+T26	Lieu 3789 3808	au bois de Boulogne
+A3	Naturel T26
+T27	Lieu 3933 3958	l’hippodrome de Longchamp
+A4	ConstructionHumaine T27
+T28	Lieu 4685 4696	Saint-Cloud
+A5	DecoupageAdmin T28
+T29	Lieu 4700 4711	de Suresnes
+A6	DecoupageAdmin T29
+T30	Lieu 4746 4759	mont Valérien
+A7	Naturel T30
+T31	Personnage 4762 4766	Nana
+T32	Personnage 4772 4780	Philippe
+T33	Personnage 4784 4791	Georges
+T34	Personnage 4951 4959	Maréchal
+T35	Personnage 5020 5030	Labordette
+T36	Personnage 5108 5112	Gasc
+T37	Personnage 5149 5157	Lusignan
+T38	Personnage 5186 5190	Lamb
+T39	Personnage 5194 5202	Princess
+T40	Personnage 5230 5234	Lamb
+T41	Personnage 5238 5246	Princess
+T42	Personnage 5372 5376	Nana
+T43	Lieu 5485 5494	à Mabille
+A8	ConstructionHumaine T43
+T44	Personnage 6332 6336	Nana
+T45	Personnage 6769 6773	Nana
+T46	Personnage 7144 7148	Nana
+T47	Personnage 7171 7176	Price
+T48	Personnage 7313 7322	Bordenave
+T49	Personnage 7472 7481	Bordenave
+T50	Personnage 7761 7779	la comtesse Muffat
+A9	Role T50
+T51	Personnage 7703 7711	Fauchery
+T52	Personnage 7748 7756	Fauchery
+T53	Personnage 7842 7846	Rose
+T54	Personnage 7921 7931	Vandeuvres
+T55	Personnage 7974 7982	Maréchal
+T56	Personnage 8189 8199	La Faloise
+T57	Personnage 8260 8270	Frangipane
+T58	Personnage 8273 8277	Nana
+T59	Personnage 8338 8348	La Faloise
+T60	Personnage 8417 8427	Frangipane
+T61	Personnage 8429 8445	au baron Verdier
+T62	Personnage 8457 8466	The Truth
+T63	Personnage 8470 8476	Lenore
+T64	Personnage 8574 8584	Valerio II
+T65	Personnage 8598 8607	Corbreuse
+T66	Personnage 8756 8762	Hasard
+T67	Personnage 8786 8793	Méchain
+T68	Personnage 8859 8865	Hasard
+T69	Personnage 9050 9058	Lusignan
+T70	Personnage 9074 9084	la Faloise
+T71	Personnage 9092 9102	Valerio II
+T72	Personnage 9163 9168	Price
+T73	Personnage 9422 9426	Nana
+T74	Personnage 9537 9545	Lusignan
+T75	Personnage 9765 9771	Muffat
+T76	Personnage 10665 10669	Nana
+T77	Lieu 10892 10896	Bade
+T78	Lieu 11426 11434	le Havre
+A11	DecoupageAdmin T78
+T79	Lieu 11438 11447	Trouville
+A12	DecoupageAdmin T79
+A10	DecoupageAdmin T77
+T80	Lieu 11744 11757	Les Tuileries
+A13	ConstructionHumaine T80
+#2	AnnotatorNotes T80	ici c'est presque "Misc", les Tuileries comme institution (la cour)
+T81	Personnage 11989 12000	sa Juliette
+T82	Personnage 11886 11896	La Faloise
+T83	Personnage 12064 12068	Nana
+T84	Personnage 12254 12258	Nana
+T85	Personnage 12515 12523	Lusignan
+T86	Personnage 12550 12556	Spirit
+T87	Personnage 12751 12755	Nana
+T88	Lieu 13231 13238	du Bois
+A14	Naturel T88
+T89	Personnage 13375 13379;13382 13404	Nana a pouliche, cette Nana
+A15	Role T89
+T90	Personnage 13460 13465	Diane
+A16	PerEvoque T90
+T91	Misc 13544 13560	le prix Des Cars
+T92	Misc 13564 13592	la Grande Poule des Produits
+T93	Personnage 13605 13613	Lusignan
+T94	Personnage 13642 13652	Vandeuvres
+T95	Personnage 13663 13671	Lusignan
+T96	Personnage 13770 13778	Daguenet
+T97	Personnage 13926 13930	Gaga
+T98	Personnage 13931 13946	sa fille Amélie
+A17	Role T98
+T99	Personnage 14488 14498	Vandeuvres
+T100	Misc 14550 14559	l’Anglais
+T101	Personnage 14588 14597	Bordenave
+T102	Personnage 14599 14607	Lusignan
+T103	Personnage 14679 14689	la Faloise
+T104	Personnage 14622 14632	Valerio II
+T105	Personnage 14694 14698	Nana
+T106	Personnage 14866 14876	Labordette
+T107	Personnage 15049 15055	Mignon
+T108	Personnage 15140 15144	Rose
+T110	Personnage 15410 15419	Cornemuse
+T112	Personnage 15675 15679;15681 15714	Nana l’outsider de l’écurie Vandeuvres
+A18	Role T112
+T113	Personnage 15783 15787	Nana
+#3	AnnotatorNotes T113	on ne peut pas distinguer la pouliche du personnage ici, mais les animaux doivent être annotés aussi, d'où une possible confusion
+T114	Personnage 15804 15808	Nana
+T115	Personnage 16459 16463	Nana
+T116	Misc 16531 16547	le Prix Vaublanc
+T117	Personnage 16605 16615	Vandeuvres
+T118	Personnage 16678 16688	Vandeuvres
+T119	Personnage 16740 16747	Gresham
+T120	Personnage 16759 16763	Nana
+T121	Personnage 16788 16796	Lusignan
+T122	Personnage 17154 17158	Nana
+T123	Personnage 17452 17460	Maréchal
+T124	Personnage 17063 17073	Vandeuvres
+T125	Personnage 17483 17488	Bijou
+T126	Personnage 17553 17557	Nana
+T127	Personnage 17709 17718	la Tricon
+T128	Personnage 17856 17860	Nana
+T130	Personnage 3256 3266	Vandeuvres
+T132	Personnage 5411 5415	Dieu
+A19	PerEvoque T132
+T133	Personnage 5451 5455	Dieu
+A20	PerEvoque T133
+T129	Lieu 10265 10270	Paris
+A21	DecoupageAdmin T129
+T109	Lieu 15379 15396	la Ville de Paris
+A22	DecoupageAdmin T109
+#4	AnnotatorNotes T109	ça pourrait être Misc aussi ? j'ai un doute !
+T111	Personnage 16352 16362	Vandeuvres

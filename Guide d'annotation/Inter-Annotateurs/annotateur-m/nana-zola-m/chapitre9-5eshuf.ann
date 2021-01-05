@@ -1,0 +1,57 @@
+T1	Personnage 19 23	Nana
+T2	Personnage 62 72	Labordette
+T3	Personnage 316 320	Nana
+T4	Personnage 330 336	Mignon
+T5	Personnage 340 355	le comte Muffat
+A1	Role T5
+T6	Personnage 392 401	Bordenave
+T7	Personnage 535 541	Mignon
+T8	Lieu 733 738	Paris
+A2	DecoupageAdmin T8
+T9	Personnage 1466 1472	Muffat
+T10	Personnage 1388 1397	Bordenave
+T11	Personnage 1829 1835	Fontan
+T12	Personnage 1908 1914	Muffat
+T13	Personnage 2143 2151	Fauchery
+T14	Personnage 2155 2164	Bordenave
+T15	Personnage 2487 2495	Fauchery
+T16	Personnage 2663 2671	Fauchery
+T17	Personnage 2729 2735	Fontan
+T18	Personnage 2811 2820	Tardiveau
+A3	PerEvoque T18
+T19	Personnage 2822 2828	Fontan
+T20	Personnage 2836 2845	Tardiveau
+A4	PerEvoque T20
+T21	Misc 2849 2860	Marseillais
+T22	Personnage 3035 3043	Fauchery
+T23	Personnage 3235 3239	Nana
+T24	Personnage 3361 3370	Bordenave
+T25	Personnage 3447 3455	Fauchery
+T26	Personnage 3674 3683	Bordenave
+T27	Personnage 3721 3729	Fauchery
+T28	Personnage 3737 3746	Bordenave
+T29	Personnage 3791 3798	Simonne
+T30	Personnage 4558 4567	Bordenave
+T31	Personnage 4633 4641	Barillot
+T32	Personnage 5003 5010	Cossard
+T33	Personnage 5156 5165	Prullière
+T34	Personnage 5236 5240	Nana
+T35	Personnage 5337 5343	Mignon
+T36	Personnage 5581 5587	Muffat
+T37	Personnage 5684 5688	Rose
+T38	Personnage 5784 5793	Bordenave
+T39	Personnage 5826 5834	Fauchery
+T40	Personnage 5838 5844	Muffat
+T41	Personnage 5918 5926	Fauchery
+T42	Personnage 6077 6086	Bordenave
+T43	Personnage 6867 6871	Dieu
+A5	PerEvoque T43
+T44	Personnage 6910 6918	Barillot
+T45	Personnage 7029 7038	Bordenave
+T46	Personnage 7111 7119	Fauchery
+T47	Personnage 7169 7173	Rose
+T48	Personnage 7293 7302	Tardiveau
+A6	PerEvoque T48
+T49	Personnage 7327 7333	Fontan
+T50	Personnage 7900 7906	Mignon
+T51	Personnage 5723 5729	Mignon

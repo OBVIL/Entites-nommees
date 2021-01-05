@@ -1,0 +1,196 @@
+T1	Personnage 103 110	Louiset
+T2	Personnage 206 216	Labordette
+T3	Personnage 256 267	Rose Mignon
+T4	Personnage 385 393	Clarisse
+T5	Personnage 397 401	Gaga
+T6	Misc 522 532	Valerio II
+A1	PerEvoque T6
+T7	Misc 546 554	Lusignan
+A2	PerEvoque T7
+T8	Personnage 780 786	Mignon
+T9	Personnage 903 909	Mignon
+T10	Personnage 968 972	Nana
+T11	Personnage 1011 1015	Nana
+T12	Personnage 1304 1319	du comte Muffat
+A3	Role T12
+T13	Misc 1248 1255	Daumont
+A4	PerEvoque T13
+T14	Personnage 1597 1607	Vandeuvres
+T15	Lieu 1588 1607	l’écurie Vandeuvres
+A5	ConstructionHumaine T15
+T16	Personnage 3120 3127	Georges
+T17	Personnage 3157 3167	Labordette
+T18	Personnage 3177 3181	Nana
+T19	Personnage 3256 3266	Vandeuvres
+T20	Personnage 3280 3284	Gaga
+T21	Personnage 3288 3296	Clarisse
+T22	Personnage 3312 3322	la Faloise
+T23	Personnage 3558 3562	Gaga
+T24	Personnage 3444 3448	Nana
+T25	Personnage 3599 3606	Louiset
+T26	Misc 3621 3630	l’Anglais
+T27	Personnage 3657 3665	Philippe
+T28	Lieu 3783 3788	Paris
+A6	DecoupageAdmin T28
+T29	Lieu 3789 3808	au bois de Boulogne
+A7	ConstructionHumaine T29
+T30	Lieu 4685 4696	Saint-Cloud
+A8	DecoupageAdmin T30
+T31	Lieu 4703 4711	Suresnes
+A9	DecoupageAdmin T31
+T32	Lieu 4746 4759	mont Valérien
+A10	Naturel T32
+T33	Personnage 4762 4766	Nana
+T34	Personnage 4772 4780	Philippe
+T35	Personnage 4784 4791	Georges
+T36	Personnage 5020 5030	Labordette
+T37	Personnage 5108 5112	Gasc
+#1	AnnotatorNotes T6	nom cheval faut il annoter ?
+#2	AnnotatorNotes T7	nom cheval faut il annoter ? 
+T38	Misc 5149 5157	Lusignan
+T39	Misc 5186 5190	Lamb
+#3	AnnotatorNotes T39	nom de cheval ? 
+T40	Misc 5238 5246	Princess
+#4	AnnotatorNotes T40	nom de cheval ? 
+T41	Personnage 5411 5415	Dieu
+A11	PerEvoque T41
+T42	Personnage 5451 5455	Dieu
+A12	PerEvoque T42
+T43	Lieu 5487 5494	Mabille
+A13	ConstructionHumaine T43
+T44	Personnage 6332 6336	Nana
+T45	Personnage 6769 6773	Nana
+T46	Misc 7144 7148	Nana
+T47	Misc 7171 7176	Price
+#5	AnnotatorNotes T47	nom de cheval ? 
+T48	Personnage 7313 7322	Bordenave
+T49	Personnage 7703 7711	Fauchery
+T50	Personnage 7748 7756	Fauchery
+T51	Personnage 7761 7779	la comtesse Muffat
+A14	Role T51
+T52	Personnage 7921 7931	Vandeuvres
+T53	Personnage 7974 7982	Maréchal
+T54	Personnage 4951 4959	Maréchal
+T55	Lieu 3933 3958	l’hippodrome de Longchamp
+A15	ConstructionHumaine T55
+T56	Misc 5372 5376	Nana
+T57	Personnage 5496 5500	Nana
+T58	Personnage 7469 7481	un Bordenave
+#6	AnnotatorNotes T58	J'hésite à inclure l'annotation de l'article 
+T59	Personnage 8189 8199	La Faloise
+T60	Misc 8260 8270	Frangipane
+#7	AnnotatorNotes T60	nom cheval
+T61	Personnage 7842 7846	Rose
+T62	Personnage 8273 8277	Nana
+T63	Personnage 8338 8348	La Faloise
+#8	AnnotatorNotes T55	J'hésite à intégrer "l'hippodrome"
+T64	Misc 8417 8427	Frangipane
+T65	Misc 8574 8584	Valerio II
+T66	Misc 8756 8762	Hasard
+T67	Personnage 8598 8607	Corbreuse
+A16	PerEvoque T67
+T68	Personnage 8786 8793	Méchain
+A17	PerEvoque T68
+T69	Lieu 8589 8607	l’écurie Corbreuse
+#9	AnnotatorNotes T69	J'hésite sur l'annotation de cette EN
+T70	Lieu 8777 8793	l’écurie Méchain
+A18	LieuEvoque T70
+#10	AnnotatorNotes T70	J'hésite sur lannotation de cette EN
+A19	LieuEvoque T69
+T71	Personnage 8429 8445	au baron Verdier
+T72	Personnage 8457 8466	The Truth
+#11	AnnotatorNotes T72	Je ne sais pas à quoi renvoie cette EN 
+T73	Personnage 8470 8476	Lenore
+#12	AnnotatorNotes T73	Je ne sais pas à quoi renvoie cette EN 
+T74	Misc 8859 8865	Hasard
+T75	Misc 9092 9102	Valerio II
+T76	Misc 9050 9058	Lusignan
+T77	Personnage 9074 9084	la Faloise
+T78	Misc 9163 9168	Price
+T79	Misc 9422 9426	Nana
+T80	Misc 9537 9545	Lusignan
+T81	Personnage 9765 9771	Muffat
+T82	Lieu 10262 10270	le Paris
+A20	DecoupageAdmin T82
+T83	Personnage 10665 10669	Nana
+T84	Lieu 10892 10896	Bade
+A21	LieuEvoque T84
+T85	Lieu 11426 11434	le Havre
+A22	LieuEvoque T85
+T86	Lieu 11438 11447	Trouville
+A23	LieuEvoque T86
+T87	Lieu 11744 11757	Les Tuileries
+A24	LieuEvoque T87
+A25	ConstructionHumaine T87
+T88	Personnage 11886 11896	La Faloise
+T89	Personnage 12064 12068	Nana
+T90	Misc 12515 12523	Lusignan
+T91	Personnage 12751 12755	Nana
+T92	Lieu 13231 13238	du Bois
+A26	ConstructionHumaine T92
+T93	Misc 13375 13379	Nana
+#13	AnnotatorNotes T93	Autre Nana qui est un cheval ??
+T94	Misc 13394 13404	cette Nana
+#14	AnnotatorNotes T94	inclure "cette" ?
+T95	Personnage 13460 13465	Diane
+A27	PerEvoque T95
+T96	Misc 13605 13613	Lusignan
+T97	Personnage 13642 13652	Vandeuvres
+T98	Lieu 13633 13652	l’écurie Vandeuvres
+A28	LieuEvoque T98
+#15	AnnotatorNotes T98	Doute pour cette annotation
+T99	Personnage 13552 13560	Des Cars
+A29	PerEvoque T99
+#16	AnnotatorNotes T95	Faut il aussi annoter le prix en tant qu'organisation ??? 
+#17	AnnotatorNotes T99	Faut il aussi annoter le prix en tant qu'organisation ??? 
+T100	Misc 13564 13592	la Grande Poule des Produits
+#18	AnnotatorNotes T100	Faut il aussi annoter le prix en tant qu'organisation ??? 
+T101	Personnage 12254 12258	Nana
+T102	Misc 13663 13671	Lusignan
+T103	Personnage 13770 13778	Daguenet
+T104	Personnage 13926 13930	Gaga
+T105	Personnage 14488 14498	Vandeuvres
+T106	Personnage 13940 13946	Amélie
+T107	Personnage 14588 14597	Bordenave
+T108	Misc 14599 14607	Lusignan
+T109	Misc 14550 14559	l’Anglais
+T110	Misc 14622 14632	Valerio II
+T111	Personnage 14679 14689	la Faloise
+T112	Personnage 14694 14698	Nana
+T113	Personnage 14866 14876	Labordette
+T114	Personnage 15049 15055	Mignon
+T115	Personnage 15140 15144	Rose
+T116	Misc 15410 15419	Cornemuse
+T117	Lieu 15379 15396	la Ville de Paris
+A30	DecoupageAdmin T117
+T118	Misc 15368 15396	le prix de la Ville de Paris
+#19	AnnotatorNotes T118	Faut il aussi annoter le prix en tant qu'organisation ??? 
+T119	Misc 15675 15679	Nana
+T120	Personnage 15704 15714	Vandeuvres
+T121	Lieu 15695 15714	l’écurie Vandeuvres
+A31	LieuEvoque T121
+#20	AnnotatorNotes T121	Doute pour cette annotation
+T122	Misc 15783 15787	Nana
+T123	Misc 15804 15808	Nana
+T124	Misc 16459 16463	Nana
+T125	Personnage 16605 16615	Vandeuvres
+T126	Personnage 16678 16688	Vandeuvres
+T127	Personnage 17063 17073	Vandeuvres
+T128	Personnage 17452 17460	Maréchal
+T129	Personnage 17553 17557	Nana
+T130	Personnage 17483 17488	Bijou
+T131	Misc 17856 17860	Nana
+T132	Personnage 17709 17718	la Tricon
+T133	Misc 17154 17158	Nana
+T134	Misc 16740 16747	Gresham
+#21	AnnotatorNotes T134	nom de cheval ? 
+T135	Misc 16759 16763	Nana
+T136	Misc 16788 16796	Lusignan
+T137	Misc 16531 16547	le Prix Vaublanc
+#22	AnnotatorNotes T137	Faut il aussi annoter le prix en tant qu'organisation ??? 
+T138	Personnage 16539 16547	Vaublanc
+A32	PerEvoque T138
+#23	AnnotatorNotes T54	Faut il intégrer le "ce" ? 
+#24	AnnotatorNotes T46	Il me semble qu'il s'agit ici du cheval Nana ? 
+A33	Role T71
+T139	Misc 12550 12556	Spirit

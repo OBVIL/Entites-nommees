@@ -1,0 +1,138 @@
+T1	Personnage 7 15	Clarisse
+T2	Personnage 50 60	la Faloise
+T3	Personnage 76 87	madame Bron
+A1	Role T3
+T4	Personnage 125 132	Simonne
+T5	Personnage 450 461	madame Bron
+A2	Role T5
+T6	Personnage 579 587	Clarisse
+T7	Personnage 718 725	Simonne
+T8	Personnage 759 768	Prullière
+T9	Personnage 920 927	Simonne
+T10	Personnage 1016 1025	Bordenave
+T11	Personnage 986 997	Son Altesse
+T12	Personnage 1128 1139	Son Altesse
+T13	Personnage 1166 1173	Simonne
+T14	Personnage 2037 2048	madame Bron
+A3	Role T14
+T15	Personnage 2374 2384	La Faloise
+T16	Personnage 2897 2904	Simonne
+T17	Personnage 3399 3408	Bordenave
+T18	Personnage 3552 3561	Bordenave
+T19	Personnage 3430 3434	Nana
+T20	Personnage 3577 3588	Son Altesse
+T21	Lieu 3599 3623	du passage des Panoramas
+A6	ConstructionHumaine T21
+T22	Personnage 3972 3978	Fontan
+T23	Personnage 3980 3984	Bosc
+T24	Personnage 3988 3997	Prullière
+T25	Lieu 4090 4102	des Variétés
+A7	ConstructionHumaine T25
+T26	Personnage 4186 4194	Clarisse
+T27	Personnage 4235 4245	la Faloise
+T28	Personnage 4354 4365	madame Bron
+A8	Role T28
+T29	Personnage 4936 4941	Satin
+T30	Personnage 5015 5020	Satin
+T31	Personnage 5114 5123	Prullière
+T32	Personnage 5281 5289	Fauchery
+T33	Personnage 5295 5306	Rose Mignon
+T34	Personnage 5371 5382	Son Altesse
+T35	Personnage 5452 5463	Son Altesse
+T36	Personnage 5404 5415	Son Altesse
+T37	Personnage 5494 5506	le père Bosc
+A4	Role T37
+T38	Personnage 5787 5791	Dieu
+A5	PerEvoque T38
+T39	Personnage 6105 6114	Bordenave
+T40	Personnage 6116 6120	Nana
+T41	Personnage 6195 6210	le comte Muffat
+A9	Role T41
+T42	Personnage 7841 7847	Fontan
+T43	Personnage 8127 8134	Simonne
+T44	Personnage 8138 8146	Clarisse
+T45	Personnage 8171 8175	Nana
+T46	Personnage 8402 8407	Satin
+T47	Personnage 8506 8515	Prullière
+T48	Lieu 8549 8569	au café des Variétés
+A10	ConstructionHumaine T48
+T49	Personnage 8574 8581	Simonne
+T50	Personnage 8596 8600	Nana
+T51	Personnage 8616 8621	Satin
+T52	Personnage 9135 9144	Bordenave
+T53	Personnage 9448 9463	le comte Muffat
+A11	Role T53
+T54	Personnage 9467 9488	le marquis de Chouard
+A12	Role T54
+T55	Personnage 9646 9655	Bordenave
+T56	Lieu 9926 9933	Orléans
+A13	DecoupageAdmin T56
+A14	LieuEvoque T56
+T57	Personnage 10001 10014	Georges Hugon
+T58	Personnage 9975 9979	Bébé
+T59	Personnage 10088 10099	Son Altesse
+T60	Personnage 10215 10223	Fauchery
+T61	Personnage 10310 10316	Mignon
+T62	Personnage 10474 10478	Nana
+T63	Personnage 10516 10525	Bordenave
+T64	Personnage 10597 10602	Satin
+T65	Personnage 10719 10727	Fauchery
+T66	Personnage 10709 10713	bébé
+#1	AnnotatorNotes T66	J'hésite : surnom ou mot doux ? 
+T67	Personnage 7139 7143	Nana
+T68	Lieu 7145 7164	boulevard Haussmann
+A15	ConstructionHumaine T68
+T69	Personnage 10762 10769	Simonne
+T70	Personnage 10773 10781	Clarisse
+T71	Personnage 10994 11002	Barillot
+T72	Personnage 11101 11107	Mignon
+T73	Personnage 11311 11322	madame Nana
+A16	Role T73
+T74	Personnage 11570 11577	Simonne
+T75	Personnage 11582 11589	Simonne
+T76	Personnage 11698 11709	madame Bron
+A17	Role T76
+T77	Personnage 11962 11970	Clarisse
+T78	Personnage 12072 12079	Simonne
+T79	Personnage 12185 12189	Nana
+T80	Personnage 12439 12445	Mignon
+T81	Personnage 12505 12509	Rose
+T82	Personnage 12469 12476	Steiner
+#2	AnnotatorNotes T82	J'hésite à intégrer le "ce" 
+T83	Personnage 12645 12651	Mignon
+T84	Personnage 12723 12731	Fauchery
+T85	Personnage 12952 12958	Mignon
+T86	Personnage 13133 13141	Fauchery
+T87	Personnage 13307 13313	Mignon
+T88	Personnage 13978 13999	le marquis de Chouard
+A18	Role T88
+T89	Personnage 14039 14045	Muffat
+T90	Personnage 14096 14101	Vénus
+A19	PerEvoque T90
+T91	Personnage 14163 14175	Madame Jules
+A20	Role T91
+T92	Personnage 14373 14378	Vénus
+A21	PerEvoque T92
+T93	Personnage 14535 14544	Prullière
+T94	Personnage 14696 14700	Nana
+T95	Personnage 14855 14870	Le comte Muffat
+A22	Role T95
+T96	Personnage 15685 15703	la comtesse Muffat
+A23	Role T96
+T97	Personnage 15930 15934	Nana
+T98	Personnage 16104 16108	Nana
+T99	Personnage 16343 16347	Nana
+T100	Personnage 16393 16399	Muffat
+T101	Personnage 16637 16641	Nana
+T102	Personnage 16733 16742	Bordenave
+T103	Personnage 16779 16783	Nana
+T104	Personnage 16879 16883	Nana
+T105	Personnage 17024 17028	Nana
+T106	Personnage 17030 17036	Muffat
+T107	Personnage 17553 17557	Nana
+T108	Personnage 17705 17714	Bordenave
+T109	Personnage 17834 17849	le comte Muffat
+A24	Role T109
+T110	Personnage 5962 5971	Bordenave
+T111	Personnage 8825 8829	Nana
+T112	Personnage 16303 16312	Bordenave

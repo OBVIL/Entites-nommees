@@ -1,0 +1,162 @@
+T1	Lieu 105 110	Paris
+A1	DecoupageAdmin T1
+T2	Lieu 416 424	Nanterre
+A2	DecoupageAdmin T2
+T3	Lieu 319 334	pont de Neuilly
+A3	ConstructionHumaine T3
+T4	Personnage 1303 1312;1314 1342	Balthazar le cheval de madame François
+T7	Lieu 1472 1491	la rue de Longchamp
+A5	ConstructionHumaine T7
+T8	Personnage 1724 1739	Madame François
+T9	Personnage 1931 1940	Balthazar
+T10	Personnage 2440 2449	Balthazar
+T11	Personnage 2497 2512	Madame François
+T12	Personnage 2910 2925	madame François
+T13	Lieu 3208 3213	Paris
+A6	DecoupageAdmin T13
+T14	Personnage 3556 3571	Madame François
+T15	Lieu 3654 3659	Paris
+A7	DecoupageAdmin T15
+T6	Lieu 3815 3825	des Halles
+A4	ConstructionHumaine T6
+T16	Lieu 4236 4246	aux Halles
+A8	ConstructionHumaine T16
+T17	Personnage 4651 4660	Balthazar
+T18	Personnage 5179 5194	madame François
+T19	Lieu 5841 5849	Nanterre
+A9	DecoupageAdmin T19
+T20	Personnage 5863 5878	madame François
+T21	Lieu 5985 5995	aux Halles
+A10	ConstructionHumaine T21
+T22	Personnage 6043 6050	Florent
+T23	Personnage 6274 6283	Balthazar
+T24	Personnage 6341 6348	Florent
+T25	Lieu 6441 6448	Cayenne
+A11	ConstructionHumaine T25
+#1	AnnotatorNotes T25	Je choisis "Construction humaine" parce que c'est du bagne qu'il s'est échappé. Mais ça pourrait être la ville de Cayenne, donc "DécoupageAdmin"
+T26	Lieu 6525 6542	Guyane holandaise
+A12	DecoupageAdmin T26
+T27	Lieu 6846 6854	au Havre
+A13	DecoupageAdmin T27
+T28	Lieu 6937 6942	Rouen
+A14	DecoupageAdmin T28
+T29	Lieu 7051 7057	Vernon
+A15	DecoupageAdmin T29
+T30	Lieu 7300 7306	Vernon
+A16	DecoupageAdmin T30
+T31	Lieu 7691 7701	Courbevoie
+A17	DecoupageAdmin T31
+T32	Lieu 7939 7957	le pont de Neuilly
+A18	ConstructionHumaine T32
+T33	Lieu 8004 8006;8007 8012	la Seine
+A19	Naturel T33
+T34	Lieu 8181 8186	Paris
+A20	DecoupageAdmin T34
+T35	Personnage 8754 8761	Florent
+T36	Lieu 8820 8825	Paris
+A21	DecoupageAdmin T36
+T37	Lieu 10276 10281	Paris
+A22	DecoupageAdmin T37
+T38	Personnage 10257 10264	Florent
+T39	Personnage 10372 10387	madame François
+T40	Personnage 10450 10457	Florent
+T41	Personnage 10968 10983	madame François
+T42	Personnage 11120 11129	Balthazar
+T43	Personnage 11338 11345	Florent
+T44	Personnage 11671 11678	Florent
+T45	Lieu 11896 11911	rue Montorgueil
+A23	ConstructionHumaine T45
+T46	Personnage 12131 12137;12138 12146	madame François
+T47	Personnage 13293 13300	Florent
+T48	Lieu 14837 14851	Saint-Eustache
+A24	ConstructionHumaine T48
+T49	Personnage 14865 14880	madame François
+T50	Personnage 15064 15072	Lacaille
+T51	Misc 15116 15129	aux Parisiens
+T52	Personnage 15329 15337	Lacaille
+T53	Personnage 15390 15397	Florent
+T54	Personnage 15488 15493	Paris
+T55	Lieu 15528 15531;15542 15548	les Halles
+A25	ConstructionHumaine T55
+T56	Personnage 16115 16122	Florent
+T57	Lieu 16247 16266	la rue du Pont-Neuf
+A26	ConstructionHumaine T57
+T58	Lieu 16280 16288	la Seine
+A27	Naturel T58
+T59	Lieu 16316 16333	la rue Montmartre
+A28	ConstructionHumaine T59
+T60	Lieu 16339 16345;16346 16357	la rue Montorgueil
+A29	ConstructionHumaine T60
+T61	Personnage 16498 16514	mère Chantemesse
+T63	Personnage 16539 16546	Florent
+T64	Lieu 16567 16585	la rue Montorgueil
+A31	ConstructionHumaine T64
+T65	Lieu 16685 16708	le boulevard Montmartre
+A32	ConstructionHumaine T65
+T66	Misc 16803 16811	l'Élysée
+#2	AnnotatorNotes T66	ici c'est l'Elysée en tant qu'institution (la présidence de la République) donc je choisis Misc.
+T67	Lieu 17004 17019	la rue Vivienne
+A33	ConstructionHumaine T67
+T68	Lieu 18108 18123	rue Montorgueil
+A34	ConstructionHumaine T68
+T69	Personnage 18928 18935	Florent
+T70	Lieu 19081 19091	Les Halles
+A35	ConstructionHumaine T70
+T71	Personnage 19112 19127	Madame François
+T72	Personnage 19141 19160	la mère Chantemesse
+T74	Personnage 19214 19221	Florent
+T75	Lieu 19287 19301	Saint-Eustache
+A37	ConstructionHumaine T75
+T76	Lieu 19396 19410	la rue Grenéta
+A38	ConstructionHumaine T76
+T77	Lieu 20100 20132	Dépôt de la préfecture de police
+A39	ConstructionHumaine T77
+T78	Lieu 19952 19973	la rue de la Lingerie
+A40	ConstructionHumaine T78
+T79	Lieu 20181 20196	fort de Bicêtre
+A41	ConstructionHumaine T79
+T80	Lieu 16043 16045;16046 16058	la Halle au blé
+A42	ConstructionHumaine T80
+T81	Lieu 21132 21152	le pont d'Austerlitz
+A43	ConstructionHumaine T81
+T82	Lieu 21210 21218	du Havre
+A44	DecoupageAdmin T82
+T83	Lieu 21328 21343	la rue Vivienne
+A45	ConstructionHumaine T83
+T84	Lieu 21634 21639	Paris
+A46	DecoupageAdmin T84
+T85	Lieu 21640 21648	au Havre
+A47	DecoupageAdmin T85
+T86	Lieu 21876 21890;21891 21898	la frégate _le Canada_
+A48	ConstructionHumaine T86
+T87	Lieu 22090 22095	Paris
+A49	DecoupageAdmin T87
+T88	Personnage 22706 22725	La mère Chantemesse
+T90	Personnage 22996 23003	Florent
+T91	Personnage 22953 22968	madame François
+T92	Personnage 23033 23049	mère Chantemesse
+T94	Personnage 23496 23503	Florent
+T95	Lieu 23399 23404	Paris
+A52	DecoupageAdmin T95
+T96	Personnage 24227 24234	Florent
+T97	Lieu 24264 24269	Paris
+A53	DecoupageAdmin T97
+T98	Lieu 25600 25619	la rue du Pont-Neuf
+A54	DecoupageAdmin T98
+T99	Personnage 25091 25098	Florent
+T100	Personnage 25737 25744	Florent
+T101	Personnage 26510 26517	Florent
+T102	Personnage 27840 27847	Florent
+T103	Lieu 27948 27958	des Halles
+A55	ConstructionHumaine T103
+T104	Lieu 27993 28009	la rue Rambuteau
+A56	ConstructionHumaine T104
+T105	Personnage 28344 28350	Marcel
+A57	Role T4
+T5	Lieu 19000 19017	de Saint-Eustache
+A58	ConstructionHumaine T5
+A36	Role T72
+A59	Role T61
+A30	Role T88
+A50	Role T92
+T62	Personnage 1327 1342	madame François

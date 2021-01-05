@@ -1,0 +1,291 @@
+T1	Personnage 107 114	Florent
+T2	Personnage 128 145	monsieur Verlaque
+T3	Personnage 214 220	Gavard
+T4	Personnage 281 288	Florent
+T5	Lieu 459 479	le quai de l’Horloge
+A1	ConstructionHumaine T5
+T6	Personnage 672 689	monsieur Verlaque
+T7	Personnage 902 908	Gavard
+T8	Personnage 865 883	Ce pauvre Verlaque
+T9	Personnage 1160 1167	Florent
+T10	Personnage 2116 2123	Florent
+T11	Personnage 5048 5055	Florent
+T12	Personnage 5089 5106	monsieur Verlaque
+T13	Personnage 5968 5975	Florent
+T14	Lieu 6082 6091	la Guyane
+A2	DecoupageAdmin T14
+T15	Personnage 6433 6450	Monsieur Verlaque
+T16	Lieu 6657 6673	la rue Rambuteau
+A3	ConstructionHumaine T16
+T17	Personnage 7036 7053	Monsieur Verlaque
+T18	Lieu 7207 7216	Allemagne
+A4	LieuEvoque T18
+T19	Lieu 7295 7303	Hollande
+A5	LieuEvoque T19
+T20	Lieu 7309 7319	Angleterre
+A6	LieuEvoque T20
+T21	Lieu 7377 7381	Rhin
+A7	LieuEvoque T21
+T22	Personnage 8900 8917	monsieur Verlaque
+T23	Personnage 8931 8938	Florent
+T24	Personnage 9278 9285	Florent
+T25	Personnage 9353 9370	monsieur Verlaque
+T26	Lieu 10391 10399	la Seine
+A8	DecoupageAdmin T26
+#1	AnnotatorNotes T26	Ici c'est le département et pas le "lieu naturel", d'où une possible confusion avec les autres annotations de la Seine...
+T27	Personnage 10721 10728	Florent
+T28	Misc 12220 12237	la belle Normande
+T29	Personnage 12986 13003	monsieur Verlaque
+T30	Personnage 12853 12878	le cousin de madame Quenu
+T32	Misc 12629 12646	la belle Normande
+T33	Personnage 14387 14392	Logre
+T34	Personnage 14414 14431	monsieur Verlaque
+T35	Personnage 14558 14565	Florent
+T36	Lieu 14746 14752	France
+A10	DecoupageAdmin T36
+T37	Personnage 15075 15092	Monsieur Verlaque
+T38	Personnage 16045 16052	Florent
+T39	Misc 16203 16220	la belle Normande
+T40	Personnage 16313 16330	monsieur Verlaque
+T41	Lieu 16426 16433	Clamart
+A11	DecoupageAdmin T41
+T42	Personnage 16552 16559	Florent
+T43	Misc 16561 16578	La belle Normande
+T44	Personnage 16603 16610	Florent
+T45	Personnage 17348 17355	Florent
+T46	Personnage 17250 17266	la rue Rambuteau
+T47	Personnage 17691 17695	Lisa
+T48	Personnage 17893 17897	Lisa
+T49	Personnage 18067 18073	Gavard
+T50	Personnage 18169 18186	monsieur Verlaque
+T51	Personnage 18580 18587	Florent
+T52	Personnage 18808 18814	Gavard
+T53	Personnage 18694 18711	monsieur Verlaque
+T54	Personnage 19078 19085	Florent
+T55	Personnage 19437 19441	Lisa
+T56	Personnage 19528 19541	La belle Lisa
+T57	Personnage 19815 19820	Quenu
+T58	Personnage 19997 20006	Augustine
+T59	Personnage 20159 20166	Florent
+T60	Personnage 20429 20442	la belle Lisa
+T61	Personnage 20578 20584	Gavard
+T62	Personnage 20605 20623	des Quenu-Gradelle
+T63	Personnage 21029 21036	Florent
+T64	Personnage 20934 20950	monsieur Lebigre
+T65	Personnage 20654 20658	Lisa
+T66	Personnage 21185 21201	Monsieur Lebigre
+T67	Lieu 21291 21307	la rue Pirouette
+A12	ConstructionHumaine T67
+T68	Lieu 21313 21329	la rue Rambuteau
+A13	ConstructionHumaine T68
+T69	Lieu 21364 21371	Norvège
+A14	LieuEvoque T69
+T70	Personnage 21458 21476	des Quenu-Gradelle
+T71	Personnage 23033 23049	monsieur Lebigre
+T72	Personnage 23905 23921	monsieur Lebigre
+T73	Lieu 24399 24415	la rue Pirouette
+A15	ConstructionHumaine T73
+T74	Personnage 24548 24554	Gavard
+T75	Personnage 24932 24938	Gavard
+T76	Personnage 24947 24954	Florent
+T77	Personnage 24976 24992	monsieur Lebigre
+T78	Personnage 25583 25587	Rose
+T79	Personnage 25621 25627	Gavard
+T80	Personnage 25773 25777	Rose
+T81	Personnage 25936 25943	Florent
+T82	Personnage 26336 26342	Robine
+T83	Personnage 26353 26359	Gavard
+T84	Personnage 26362 26368	Robine
+T85	Personnage 26605 26611	Gavard
+T86	Personnage 26816 26822	Robine
+T87	Personnage 27019 27025	Robine
+T88	Personnage 27234 27241	Florent
+T89	Personnage 27265 27271	Gavard
+T90	Personnage 27276 27282	Robine
+T91	Lieu 27503 27518	rue Saint-Denis
+A16	DecoupageAdmin T91
+T92	Personnage 27753 27766	Madame Robine
+T93	Personnage 28287 28293	Gavard
+T94	Personnage 28332 28338	Robine
+T95	Personnage 28429 28436	Florent
+T96	Personnage 28618 28623	Logre
+T97	Personnage 28722 28727	Logre
+T98	Personnage 29186 29202	Monsieur Manoury
+T99	Personnage 29368 29374	Robine
+T100	Personnage 29399 29404	Logre
+T101	Personnage 29487 29491	Rose
+T102	Personnage 29494 29498	Rose
+T103	Personnage 29720 29726	Gavard
+T104	Personnage 29759 29763	Rose
+T105	Personnage 29832 29837	Logre
+T106	Personnage 29952 29959	Charvet
+T107	Personnage 30025 30033	Clémence
+T108	Personnage 30057 30064	Charvet
+T109	Personnage 30081 30089	Clémence
+T110	Lieu 30198 30207	rue Vavin
+A17	ConstructionHumaine T110
+T111	Lieu 30218 30231	le Luxembourg
+A18	ConstructionHumaine T111
+T112	Personnage 30597 30604	Charvet
+T113	Personnage 30539 30545	Gavard
+T114	Personnage 30659 30665	Robine
+T115	Personnage 30698 30703	Logre
+T116	Personnage 30735 30742	Charvet
+T117	Personnage 30779 30786	Charvet
+T118	Personnage 30888 30896	Clémence
+T119	Personnage 31009 31016	Florent
+T120	Personnage 31243 31247	Rose
+T121	Personnage 31339 31346	Charvet
+T122	Personnage 31369 31377	Clémence
+T123	Personnage 31602 31608	Gavard
+T124	Personnage 31618 31625	Florent
+T125	Personnage 31662 31669	Charvet
+T126	Personnage 31939 31946	Charvet
+T127	Personnage 32039 32046	Manoury
+T128	Personnage 32089 32097	Clémence
+T129	Personnage 32200 32207	Charvet
+T130	Personnage 32552 32559	Florent
+T131	Personnage 32623 32631	Clémence
+T132	Misc 32947 32959	des Chambres
+T133	Personnage 32795 32801	Gavard
+T134	Personnage 32967 32974	Charvet
+T135	Personnage 33284 33289	Logre
+T136	Personnage 33424 33431	Charvet
+T137	Personnage 33498 33504	Gavard
+T138	Personnage 33594 33602	Clémence
+T139	Personnage 33636 33642	Robine
+T140	Misc 33748 33764	Corps législatif
+T141	Personnage 33814 33821	Florent
+T142	Personnage 34078 34085	Charvet
+T143	Personnage 34241 34247	Robine
+T144	Personnage 34351 34357	Gavard
+T145	Personnage 34421 34428	Charvet
+T146	Personnage 34573 34581	Clémence
+T147	Personnage 34676 34683	Florent
+T148	Personnage 34727 34735	Lacaille
+T149	Personnage 34740 34749;34760 34783	Alexandre l’ami de Claude Lantier
+T150	Personnage 34762 34765	ami
+A19	Role T150
+T151	Personnage 34769 34783	Claude Lantier
+T152	Personnage 35004 35011	Charvet
+T153	Personnage 35096 35102	Gavard
+T154	Personnage 35162 35171	Alexandre
+T155	Personnage 35245 35253	Lacaille
+T156	Lieu 35342 35347	Paris
+A20	DecoupageAdmin T156
+T157	Personnage 35448 35454	Robine
+T158	Personnage 35619 35626	Florent
+T159	Personnage 35684 35702	mademoiselle Saget
+T160	Personnage 35800 35804	Rose
+T161	Personnage 36363 36370	Florent
+T162	Personnage 36414 36418	Rose
+T163	Lieu 36512 36522	aux Halles
+A21	ConstructionHumaine T163
+T164	Personnage 36621 36634	madame Lecœur
+T165	Personnage 36641 36653	la Sarriette
+T166	Personnage 36810 36828	mademoiselle Saget
+T167	Personnage 36766 36770	Rose
+T168	Personnage 36877 36893	monsieur Lebigre
+T169	Personnage 37042 37048	Gavard
+T170	Personnage 37104 37111	Florent
+T171	Personnage 37186 37194	Lacaille
+T172	Personnage 37236 37252	monsieur Lebigre
+T173	Personnage 37559 37575	Monsieur Lebigre
+T174	Personnage 37715 37719	Rose
+T175	Personnage 37860 37866	Gavard
+T176	Personnage 38038 38045	Florent
+T177	Personnage 38134 38139	Logre
+T178	Personnage 38163 38170	Charvet
+T179	Personnage 38287 38296	Augustine
+T180	Personnage 38964 38971	Florent
+T181	Personnage 39468 39477	Augustine
+T182	Personnage 39821 39830	Augustine
+T183	Personnage 39864 39871	Florent
+T184	Lieu 40149 40159	des Halles
+A22	ConstructionHumaine T184
+T185	Lieu 40061 40069	la Seine
+A23	Naturel T185
+T186	Lieu 40097 40113	la rue de Rivoli
+A24	ConstructionHumaine T186
+T187	Lieu 40569 40579	des Halles
+A25	ConstructionHumaine T187
+T188	Lieu 40631 40636	Paris
+A26	DecoupageAdmin T188
+T189	Personnage 41093 41100	Auguste
+T190	Personnage 41106 41115	Augustine
+T191	Personnage 41239 41246	Florent
+T192	Personnage 41320 41331	les Méhudin
+T193	Personnage 41438 41451	la belle Lisa
+T194	Misc 41397 41414	La belle Normande
+T195	Personnage 41500 41511	Les Méhudin
+T196	Lieu 41524 41529	Rouen
+A27	DecoupageAdmin T196
+T197	Personnage 41531 41548	La mère de Louise
+T199	Lieu 41595 41600	Paris
+A29	DecoupageAdmin T199
+T200	Lieu 42478 42501	le marché des Innocents
+A30	ConstructionHumaine T200
+T201	Lieu 42534 42551	dames de la Halle
+A31	ConstructionHumaine T201
+T202	Personnage 42678 42687	Charles X
+A32	PerEvoque T202
+T203	Personnage 42694 42708	Louis-Philippe
+A33	PerEvoque T203
+T204	Personnage 42762 42777	La mère Méhudin
+T205	Lieu 42870 42879	Saint-Leu
+A34	DecoupageAdmin T205
+T206	Personnage 43087 43099	Mère de Dieu
+A35	PerEvoque T206
+T207	Personnage 42857 42866	la Vierge
+A36	PerEvoque T207
+T208	Personnage 43102 43117	La mère Méhudin
+T209	Personnage 43367 43377;43379 43385	La cadette Claire
+T210	Personnage 43441 43447	Louise
+T211	Personnage 43605 43611	Louise
+T212	Personnage 43631 43637	Claire
+T213	Personnage 43919 43925	Claire
+T214	Misc 44690 44700	un Murillo
+T215	Personnage 44762 44776	Claude Lantier
+T216	Misc 44778 44788	un Murillo
+T217	Misc 45178 45184;45186 45203	Louise la belle Normande
+T218	Lieu 45284 45299	la Halle au blé
+A37	ConstructionHumaine T218
+T219	Personnage 45468 45479	des Méhudin
+T220	Misc 45496 45513	la belle Normande
+T222	Misc 41853 41870	la belle Normande
+T223	Misc 46376 46393	la belle Normande
+T224	Misc 46827 46844	la belle Normande
+T225	Personnage 45598 45609	Les Méhudin
+T226	Personnage 45641 45658	monsieur Verlaque
+T227	Personnage 45676 45683	Florent
+T228	Personnage 46149 46156	Florent
+T229	Personnage 46709 46716	Florent
+T230	Lieu 46977 46993	la rue Rambuteau
+A38	ConstructionHumaine T230
+T231	Personnage 47257 47264	Florent
+T232	Personnage 47344 47351	Florent
+T233	Misc 47383 47400	la belle Normande
+T234	Personnage 48017 48024	Florent
+T235	Misc 48043 48060	La belle Normande
+T236	Personnage 48847 48862	la mère Méhudin
+T237	Personnage 49142 49149	Florent
+T238	Personnage 49367 49382	La mère Méhudin
+T239	Misc 49430 49447	la belle Normande
+T240	Personnage 49533 49540	Florent
+T241	Lieu 50523 50531	la Halle
+A39	ConstructionHumaine T241
+T242	Lieu 50460 50481	la rue de l’estrapade
+A40	ConstructionHumaine T242
+T243	Personnage 50896 50902	Gavard
+T244	Personnage 11992 11999	Florent
+T245	Personnage 12273 12280	Florent
+A41	Role T30
+T31	Personnage 32081 32086	Logre
+T246	Misc 38734 38752	la Clef des songes
+A9	Role T197
+A28	Role T204
+A42	Role T209
+A43	Role T236
+A44	Role T238
+T198	Personnage 50225 50236	des Méhudin
+#2	AnnotatorNotes T21	pourrait aussi être "lieu naturel"

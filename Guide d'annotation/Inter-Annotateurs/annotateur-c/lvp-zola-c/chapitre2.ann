@@ -1,0 +1,518 @@
+T1	Personnage 5 12	Florent
+T2	Lieu 45 50	Paris
+A1	DecoupageAdmin T2
+T3	Lieu 90 98	le Vigan
+A2	DecoupageAdmin T3
+T4	Lieu 105 112	le Gard
+A3	DecoupageAdmin T4
+T5	Misc 150 160	un Normand
+T7	Lieu 174 180	Yvetot
+A4	DecoupageAdmin T7
+T8	Lieu 227 234	le Midi
+A5	DecoupageAdmin T8
+T9	Personnage 547 554	Florent
+T10	Misc 845 859	ces Provençaux
+T11	Personnage 928 933	Quenu
+T12	Personnage 1406 1413	Florent
+T13	Lieu 1421 1429	au Vigan
+A6	DecoupageAdmin T13
+T14	Personnage 1585 1590	Quenu
+T15	Personnage 2012 2019	Florent
+T16	Personnage 2146 2151	Quenu
+T17	Personnage 2538 2545	Florent
+T18	Lieu 3000 3005	Paris
+A7	DecoupageAdmin T18
+T19	Lieu 3042 3050	au Vigan
+A8	DecoupageAdmin T19
+T20	Lieu 3524 3529	Paris
+A9	DecoupageAdmin T20
+T21	Misc 3587 3603	l'École de droit
+T22	Personnage 3690 3695	Quenu
+T23	Lieu 3697 3714	rue Royer-Collard
+A10	ConstructionHumaine T23
+T24	Lieu 3727 3747	la rue Saint-Jacques
+A11	ConstructionHumaine T24
+T25	Personnage 4155 4162	Florent
+T26	Personnage 4564 4571	Florent
+T27	Personnage 4706 4711	Quenu
+T29	Personnage 4940 4947	Florent
+T30	Personnage 5002 5007	Quenu
+T31	Personnage 5522 5527	Quenu
+T32	Personnage 5646 5653	Florent
+T33	Misc 5811 5821	la Faculté
+T34	Lieu 6111 6120;6121 6132	la rue de l'Estrapade
+A13	ConstructionHumaine T34
+T35	Personnage 6269 6274	Quenu
+T36	Personnage 6387 6392	Quenu
+T37	Personnage 6523 6530	Florent
+T38	Personnage 7318 7323	Quenu
+T39	Personnage 7593 7600	Florent
+T40	Personnage 7984 7991	Florent
+T41	Lieu 7794 7814	la rue Saint-Jacques
+A14	ConstructionHumaine T41
+T42	Personnage 7886 7892	Gavard
+T43	Personnage 8160 8166	Gavard
+T44	Personnage 8265 8270	Quenu
+T45	Personnage 8681 8686	Quenu
+T46	Personnage 9440 9446	Gavard
+T47	Personnage 9572 9577	Quenu
+T48	Personnage 9877 9884	Florent
+T49	Lieu 10097 10117	la rue Royer-Collard
+A15	ConstructionHumaine T49
+T50	Personnage 10258 10265	Florent
+T51	Personnage 10346 10351	Quenu
+T52	Misc 10850 10857	Normand
+T53	Lieu 10969 10974	Paris
+A16	DecoupageAdmin T53
+T54	Lieu 11031 11044	rue Pirouette
+A17	ConstructionHumaine T54
+T55	Lieu 11051 11073	le quartier des Halles
+A18	DecoupageAdmin T55
+T56	Personnage 10999 11010	un Gradelle
+T57	Personnage 11265 11270	Quenu
+T58	Personnage 11333 11340	Florent
+T59	Personnage 11741 11748	Florent
+T60	Lieu 13134 13154	la rue Saint-Jacques
+A19	ConstructionHumaine T60
+T61	Lieu 13303 13325	le quartier Mouffetard
+A20	DecoupageAdmin T61
+T62	Lieu 13237 13257	la barrière d’Italie
+A21	ConstructionHumaine T62
+#1	AnnotatorNotes T62	Barrière de la place d'Italie ? Je ne sais pas s'il faut inclure "barrière"
+T63	Lieu 13529 13534	Paris
+A22	DecoupageAdmin T63
+T64	Lieu 14062 14069	Bicêtre
+A23	ConstructionHumaine T64
+#2	AnnotatorNotes T64	Hôpital
+T65	Personnage 14072 14077	Quenu
+T66	Lieu 14213 14236	au cimetière Montmartre
+A24	ConstructionHumaine T66
+T67	Personnage 14642 14658	l’oncle Gradelle
+A25	Role T67
+T68	Personnage 14726 14733	Florent
+T69	Personnage 14740 14756	l’oncle Gradelle
+A26	Role T69
+T70	Personnage 14912 14919	Florent
+T71	Personnage 14976 14981	Quenu
+T72	Lieu 15297 15317	la rue Royer-Collard
+A27	ConstructionHumaine T72
+T73	Personnage 15544 15551	Florent
+T74	Lieu 15574 15581	Bicêtre
+A28	ConstructionHumaine T74
+T75	Personnage 15722 15730	Gradelle
+T76	Lieu 15817 15824	Cayenne
+A29	LieuEvoque T76
+A30	ConstructionHumaine T76
+T77	Personnage 15862 15867	Quenu
+T78	Personnage 16290 16306	l’oncle Gradelle
+A31	Role T78
+T79	Lieu 16826 16845	a rue Royer-Collard
+A32	ConstructionHumaine T79
+T80	Personnage 16923 16928	Quenu
+T81	Personnage 17057 17062	Quenu
+T82	Personnage 17162 17169	Florent
+T83	Personnage 17246 17262	l’oncle Gradelle
+A33	Role T83
+T84	Lieu 17468 17478	rue Cuvier
+A34	ConstructionHumaine T84
+T86	Lieu 17572 17580	Plassans
+A36	LieuEvoque T86
+#3	AnnotatorNotes T86	C'est un lieu évoqué dans ce volume de Zola mais il fait partie d'un autre volume du cycle des Rougon
+T88	Lieu 17605 17609	Midi
+A37	DecoupageAdmin T88
+A38	LieuEvoque T88
+T89	Personnage 17775 17779	Lisa
+T90	Personnage 18284 18288	Lisa
+T91	Lieu 18332 18345	la rue Cuvier
+A39	ConstructionHumaine T91
+T92	Personnage 18362 18370	Gradelle
+T93	Lieu 18492 18505	rue Pirouette
+A40	ConstructionHumaine T93
+T94	Personnage 19051 19059	Gradelle
+T95	Personnage 19061 19066	Quenu
+T96	Personnage 19236 19240	Lisa
+T97	Lieu 19284 19292	Plassans
+A41	DecoupageAdmin T97
+A42	LieuEvoque T97
+T98	Personnage 19267 19279	des Macquart
+A43	PerEvoque T98
+T99	Personnage 19772 19777	Quenu
+T100	Personnage 19843 19847	Lisa
+T101	Personnage 20159 20167	Macquart
+A44	PerEvoque T101
+T102	Personnage 20185 20193	Macquart
+A45	PerEvoque T102
+T103	Personnage 20233 20245	une Macquart
+T104	Personnage 20678 20700	le charcutier Gradelle
+A46	Role T104
+T105	Personnage 20702 20706	Lisa
+T106	Personnage 21263 21267	Lisa
+T107	Personnage 21302 21318	L’oncle Gradelle
+A47	Role T107
+T108	Personnage 21381 21386	Quenu
+T109	Personnage 21588 21593	Quenu
+T110	Personnage 21690 21694	Lisa
+T111	Personnage 21798 21802	Lisa
+T112	Personnage 22141 22158	mademoiselle Lisa
+T113	Personnage 22172 22186	monsieur Quenu
+T114	Personnage 22189 22194	Quenu
+T115	Personnage 22225 22229	Lisa
+T116	Personnage 22636 22653	mademoiselle Lisa
+T117	Personnage 22835 22839	Lisa
+T118	Personnage 22861 22866	Quenu
+T119	Lieu 23299 23303	Midi
+A48	DecoupageAdmin T119
+T120	Personnage 24118 24134	l’oncle Gradelle
+A49	Role T120
+T121	Personnage 24634 24651	mademoiselle Lisa
+T122	Personnage 24665 24679	monsieur Quenu
+T123	Personnage 24692 24708	l’oncle Gradelle
+A50	Role T123
+T124	Personnage 24818 24822	Lisa
+T125	Personnage 25154 25159	Quenu
+T126	Personnage 25244 25248	Lisa
+T128	Personnage 25375 25383	Gradelle
+T129	Personnage 25472 25476	Lisa
+T130	Personnage 25493 25498	Quenu
+T131	Personnage 26350 26355	Quenu
+T132	Personnage 26714 26730	l’oncle Gradelle
+A52	Role T132
+T133	Personnage 26818 26822	Lisa
+T134	Personnage 26829 26834	Quenu
+T135	Personnage 26886 26890	Lisa
+T136	Personnage 26902 26907	Quenu
+T137	Personnage 27234 27239	Quenu
+T138	Personnage 27267 27271	Lisa
+T139	Personnage 27988 27992	Lisa
+T140	Personnage 28441 28445	Lisa
+T141	Personnage 28748 28752	Lisa
+T142	Personnage 29142 29147	Quenu
+T143	Personnage 29282 29287	Quenu
+T144	Personnage 29537 29541	Lisa
+T145	Personnage 29938 29942	Lisa
+T146	Lieu 30297 30313	La rue Pirouette
+A53	ConstructionHumaine T146
+T147	Lieu 30211 30219	Suresnes
+A54	DecoupageAdmin T147
+T148	Personnage 30410 30426	l’oncle Gradelle
+A55	Role T148
+T149	Personnage 31454 31459	Quenu
+T150	Lieu 31796 31809	rue Rambuteau
+A56	ConstructionHumaine T150
+T151	Lieu 31836 31856	Les Halles centrales
+A57	ConstructionHumaine T151
+T152	Lieu 31956 31961	Paris
+T153	Personnage 31963 31968	Quenu
+T154	Personnage 32085 32089	Lisa
+T155	Lieu 33122 33138	la rue Pirouette
+A58	ConstructionHumaine T155
+T156	Personnage 33240 33244	Lisa
+T157	Personnage 33479 33492	la belle Lisa
+T158	Personnage 34320 34325	Quenu
+T159	Personnage 34540 34544	Lisa
+T160	Personnage 34992 34996	Lisa
+T161	Lieu 35044 35049	Paris
+T162	Personnage 35125 35132	Saccard
+T163	Personnage 36313 36317	Lisa
+T164	Personnage 36600 36605	Quenu
+T165	Personnage 36672 36679	Florent
+T166	Lieu 36842 36857	l’île du Diable
+A59	Naturel T166
+T167	Personnage 37073 37080	Florent
+T168	Lieu 37094 37115	la Guyane hollandaise
+A60	DecoupageAdmin T168
+T170	Personnage 37175 37180	Quenu
+T171	Personnage 37245 37249	Lisa
+T172	Personnage 37269 37276	Florent
+T173	Lieu 37473 37493	la rue Royer-Collard
+A62	ConstructionHumaine T173
+T174	Personnage 37622 37629	Florent
+T169	Lieu 37167 37173	France
+A61	DecoupageAdmin T169
+T175	Personnage 37787 37794	Florent
+T176	Personnage 37838 37842	Lisa
+T177	Personnage 37885 37890	Quenu
+T178	Personnage 38036 38042	Gavard
+T179	Personnage 38131 38135	Lisa
+T180	Personnage 38266 38271	Quenu
+T181	Personnage 38311 38318	Florent
+T182	Personnage 38557 38561	Lisa
+T183	Personnage 38793 38798	Quenu
+T184	Personnage 38835 38839	Lisa
+T185	Personnage 39960 39965	Quenu
+T186	Personnage 39972 39976	Lisa
+T187	Misc 39859 39868	Gutenberg
+T188	Personnage 40028 40033	Quenu
+T189	Personnage 40045 40049	Lisa
+T190	Personnage 40673 40677	Lisa
+T191	Personnage 40716 40732	l’oncle Gradelle
+A63	Role T191
+T192	Personnage 40956 40963	Florent
+T193	Personnage 40967 40972	Quenu
+T194	Personnage 40984 40988	Lisa
+T195	Personnage 41191 41198	Florent
+T196	Personnage 41291 41295	Lisa
+T197	Personnage 41413 41420	Florent
+T198	Personnage 41526 41540	oncle Gradelle
+A64	Role T198
+T199	Personnage 41711 41718	Florent
+T200	Personnage 41739 41744	Quenu
+T201	Personnage 42010 42017	Florent
+T202	Personnage 42026 42030	Lisa
+T203	Personnage 42936 42941	Quenu
+T204	Personnage 43133 43140	Florent
+T205	Personnage 43304 43308	Lisa
+T206	Personnage 43798 43805	Florent
+T207	Personnage 43988 43992	Lisa
+T208	Personnage 44323 44328	Quenu
+T209	Personnage 44364 44371	Florent
+T210	Personnage 44385 44401	l’oncle Gradelle
+A65	Role T210
+T211	Personnage 44492 44508	l’oncle Gradelle
+A66	Role T211
+T212	Personnage 44562 44567	Quenu
+T213	Personnage 44592 44596	Lisa
+T214	Personnage 44800 44807	Florent
+T215	Personnage 45101 45106	Quenu
+T216	Personnage 45533 45537	Lisa
+T217	Personnage 45885 45892	Florent
+T218	Lieu 45973 45979	France
+A67	DecoupageAdmin T218
+T219	Lieu 46061 46068	Surinam
+A68	DecoupageAdmin T219
+A69	LieuEvoque T219
+T220	Personnage 46131 46138	Florent
+T221	Personnage 46160 46179	Florent Laquerrière
+T222	Lieu 46254 46262	Amérique
+A71	LieuEvoque T222
+A70	DecoupageAdmin T222
+T223	Lieu 46212 46217	Paris
+A72	DecoupageAdmin T223
+T224	Personnage 46313 46317	Lisa
+T225	Personnage 46627 46632	Quenu
+T226	Personnage 46495 46513	les Quenu-Gradelle
+T227	Personnage 46773 46777	Lisa
+T228	Personnage 46925 46932	Florent
+T229	Personnage 47052 47057	Quenu
+T230	Personnage 47110 47114	Lisa
+T231	Personnage 47302 47307	Quenu
+T232	Personnage 47872 47879	Florent
+T233	Personnage 48101 48105	Léon
+T234	Personnage 48339 48346	Florent
+T235	Personnage 48367 48371	Léon
+T236	Personnage 48673 48688	Auguste Landois
+T237	Lieu 48699 48705	Troyes
+A73	DecoupageAdmin T237
+A74	LieuEvoque T237
+T238	Lieu 48924 48929	Paris
+T239	Lieu 48994 49000	Troyes
+A75	DecoupageAdmin T239
+A76	LieuEvoque T239
+T240	Personnage 49026 49043	Augustine Landois
+T241	Lieu 49168 49173	Paris
+T242	Lieu 49254 49266	la Champagne
+A78	DecoupageAdmin T242
+T243	Personnage 49312 49319	Auguste
+T244	Personnage 49327 49334	Florent
+T245	Personnage 49370 49382	madame Quenu
+A79	Role T245
+T246	Personnage 49418 49435	Augustine Landois
+T247	Lieu 49662 49671	Plaisance
+A77	LieuEvoque T247
+T248	Lieu 49700 49705	Paris
+T249	Lieu 49879 49889	Saint-Ouen
+A80	DecoupageAdmin T249
+A81	DecoupageAdmin T247
+A82	DecoupageAdmin T248
+A83	DecoupageAdmin T241
+A84	DecoupageAdmin T238
+T250	Personnage 50037 50049	madame Quenu
+A85	Role T250
+T251	Personnage 50233 50240	Florent
+T252	Personnage 50271 50280	Augustine
+T253	Personnage 50406 50413	Florent
+T254	Personnage 50462 50469	Auguste
+T256	Personnage 50493 50502	Augustine
+T257	Personnage 50524 50531	Florent
+T258	Personnage 50582 50586	Lisa
+T259	Lieu 50712 50734	le quartier des Écoles
+A86	DecoupageAdmin T259
+T260	Personnage 50768 50772	Lisa
+T261	Personnage 51469 51476	Florent
+T262	Personnage 51423 51429	Gavard
+T263	Personnage 51666 51672	Gavard
+T264	Personnage 51806 51815	Charles X
+A87	PerEvoque T264
+T265	Personnage 51939 51953	Louis-Philippe
+A88	PerEvoque T265
+T266	Personnage 52269 52281	Napoléon III
+A89	PerEvoque T266
+T267	Personnage 52344 52352	de Morny
+A90	PerEvoque T267
+T268	Lieu 52611 52632	la place du Carrousel
+A91	ConstructionHumaine T268
+T269	Lieu 52542 52555	aux Tuileries
+T270	Personnage 52678 52684	Gavard
+T271	Lieu 53156 53165	Tuileries
+#4	AnnotatorNotes T271	à annoter dans expression ? 
+T272	Personnage 53591 53598	Florent
+T273	Lieu 53609 53616	Cayenne
+A92	LieuEvoque T273
+A93	ConstructionHumaine T273
+T274	Personnage 53840 53846	Gavard
+T275	Personnage 53854 53861	Florent
+T276	Personnage 54522 54529	Florent
+T277	Personnage 54564 54571	Florent
+T278	Personnage 54585 54592	Florent
+T279	Lieu 54723 54740	rue Saint-Jacques
+A94	ConstructionHumaine T279
+T280	Personnage 54694 54700	Gavard
+T281	Lieu 54989 54995	Orient
+A95	LieuEvoque T281
+#5	AnnotatorNotes T281	à annoter ? 
+T282	Lieu 55512 55533	rue de la Cossonnerie
+A96	ConstructionHumaine T282
+T283	Lieu 55216 55222	Crimée
+A97	LieuEvoque T283
+T284	Personnage 55438 55452	Quenu-Gradelle
+T285	Lieu 55549 55559	les Halles
+A98	ConstructionHumaine T285
+T286	Personnage 56067 56074	Florent
+T287	Personnage 56474 56481	Florent
+T288	Personnage 56901 56907	Gavard
+T289	Personnage 57018 57024	Gavard
+T290	Personnage 57533 57541	Marjolin
+T291	Lieu 57604 57614	des Halles
+A99	ConstructionHumaine T291
+T292	Personnage 57619 57626	Florent
+T293	Personnage 58463 58469	Gavard
+T294	Personnage 58707 58720	Madame Lecœur
+A100	Role T294
+T295	Lieu 58921 58931	aux Halles
+A101	ConstructionHumaine T295
+T296	Lieu 59403 59413	des Halles
+A102	ConstructionHumaine T296
+T297	Personnage 59437 59444	Sarriet
+T298	Personnage 59500 59512	la Sarriette
+T299	Personnage 59527 59539	la Sarriette
+T300	Lieu 59836 59848	Ménilmontant
+A103	DecoupageAdmin T300
+T301	Lieu 60220 60235	rue Vauvilliers
+A104	ConstructionHumaine T301
+T302	Lieu 60343 60355	la Sarriette
+A105	ConstructionHumaine T302
+T303	Personnage 60505 60519	monsieur Jules
+A106	Role T303
+T304	Personnage 60586 60592	Gavard
+T305	Personnage 60602 60614	la Sarriette
+T306	Personnage 60784 60791	Florent
+T307	Personnage 60907 60915	Marjolin
+T308	Personnage 61004 61008	Lisa
+T309	Personnage 61194 61200	Gavard
+T310	Personnage 61203 61207	Lisa
+T311	Personnage 61262 61269	Florent
+T312	Personnage 61402 61410	Marjolin
+T313	Personnage 61415 61430	Monsieur Gavard
+A107	Role T313
+T314	Personnage 61776 61791	monsieur Gavard
+A108	Role T314
+T315	Personnage 61823 61827	Lisa
+T316	Personnage 61895 61903	Marjolin
+T317	Personnage 62079 62094	monsieur Gavard
+A109	Role T317
+T318	Personnage 62167 62178	madame Lisa
+A110	Role T318
+T319	Personnage 62401 62412	madame Lisa
+A111	Role T319
+T320	Personnage 63057 63065	Marjolin
+T321	Lieu 62251 62261	des Halles
+A112	ConstructionHumaine T321
+T322	Personnage 60037 60051	monsieur Jules
+A113	Role T322
+A114	PerEvoque T322
+T323	Lieu 60156 60166	aux Halles
+A115	ConstructionHumaine T323
+T324	Personnage 58199 58212	madame Lecœur
+A116	Role T324
+T325	Personnage 63323 63329	Cadine
+T326	Personnage 63562 63577	monsieur Gavard
+A117	Role T326
+T327	Personnage 63637 63645	Marjolin
+T328	Personnage 63697 63710	La belle Lisa
+T329	Lieu 64057 64062	Arles
+A118	DecoupageAdmin T329
+A119	LieuEvoque T329
+T330	Lieu 64069 64073	Lyon
+A120	DecoupageAdmin T330
+A121	LieuEvoque T330
+T331	Lieu 64421 64425	York
+A122	LieuEvoque T331
+T332	Personnage 64748 64754	Gavard
+T333	Lieu 65090 65100	des Halles
+A123	ConstructionHumaine T333
+T334	Personnage 65533 65540	Florent
+T335	Personnage 65808 65812	Lisa
+T336	Personnage 66279 66283	Lisa
+T337	Personnage 66586 66592	Gavard
+T338	Personnage 66619 66624	Quenu
+T339	Personnage 66731 66738	Florent
+T340	Personnage 66754 66758	Lisa
+T341	Personnage 66781 66786	Quenu
+T342	Personnage 66866 66873	Florent
+T343	Personnage 67127 67145	les Quenu-Gradelle
+T344	Personnage 67414 67418	Lisa
+T345	Personnage 66997 67015	mademoiselle Saget
+A124	Role T345
+T346	Lieu 67627 67636	Cherbourg
+A125	LieuEvoque T346
+T347	Lieu 67973 67991	la rue Saint-Denis
+A126	ConstructionHumaine T347
+T348	Lieu 67994 68022	la rue Jean-Jacques Rousseau
+T349	Lieu 68030 68049	la rue Saint-Honoré
+A127	ConstructionHumaine T349
+T350	Lieu 68052 68069	la rue Mauconseil
+A128	ConstructionHumaine T350
+A129	ConstructionHumaine T348
+T351	Personnage 68363 68368	Quenu
+T352	Lieu 67481 67497	la rue Pirouette
+A130	ConstructionHumaine T352
+T353	Personnage 68421 68437	l’oncle Gradelle
+A131	Role T353
+T354	Personnage 68544 68560	l’oncle Gradelle
+A132	Role T354
+T355	Personnage 68568 68577	les Quenu
+T356	Personnage 68707 68714	Florent
+T357	Personnage 69229 69241	madame Quenu
+A133	Role T357
+T358	Personnage 69501 69519	mademoiselle Saget
+A134	Role T358
+T359	Personnage 69871 69878	Florent
+T360	Personnage 69914 69920	Gavard
+T361	Personnage 70123 70127	Lisa
+T362	Personnage 18142 18146	Lisa
+T363	Personnage 19100 19105	Quenu
+T364	Personnage 28545 28550	Quenu
+T365	Personnage 29302 29307	Quenu
+T366	Personnage 30087 30092	Quenu
+T367	Personnage 47455 47459	Lisa
+T368	Misc 52898 52914	Corps législatif
+T6	Personnage 162 170	un Quenu
+T87	Personnage 48858 48865	Florent
+T255	Personnage 50476 50484	un Quenu
+T369	Personnage 50504 50512	une Lisa
+T370	Lieu 64341 64347	Italie
+A135	DecoupageAdmin T370
+A136	LieuEvoque T370
+T28	Lieu 4884 4886;4887 4904	la rue Royer-Collard
+A12	ConstructionHumaine T28
+T371	Personnage 11384 11392	Gradelle
+T85	Lieu 17485 17506	du Jardin des Plantes
+A35	ConstructionHumaine T85
+A137	Role T112
+A138	Role T113
+A139	Role T116
+A140	Role T121
+A141	Role T122
+T127	Personnage 25306 25323	son frère Florent
+A51	Role T127
+#6	AnnotatorNotes T127	faut il annoter le possessif ? 

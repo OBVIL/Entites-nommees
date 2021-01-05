@@ -1,0 +1,89 @@
+T1	Lieu 239 251	aux Variétés
+A1	ConstructionHumaine T1
+T2	Personnage 258 278	Le comte de Bismarck
+A2	Role T2
+T3	Lieu 430 439	la Prusse
+A3	DecoupageAdmin T3
+T4	Personnage 299 317	madame Du Joncquoy
+T5	Lieu 442 447	Paris
+A4	DecoupageAdmin T5
+T6	Personnage 619 629	Vandeuvres
+T7	Personnage 662 670	Fauchery
+T8	Personnage 820 827	Steiner
+T9	Personnage 868 878	Vandeuvres
+T10	Personnage 948 952	Dieu
+A5	PerEvoque T10
+T11	Lieu 1207 1212	Paris
+A6	DecoupageAdmin T11
+T12	Personnage 1288 1306	Madame Du Joncquoy
+T13	Lieu 1362 1371	en Orient
+A7	DecoupageAdmin T13
+T14	Personnage 1408 1419	Nazar-Eddin
+A8	PerEvoque T14
+T15	Personnage 2035 2057	la baronne de Fougeray
+A9	Role T15
+T16	Misc 2078 2092	aux Carmélites
+#1	AnnotatorNotes T16	On considère que c'est une institution ?
+T17	Personnage 2346 2366	monsieur de Bismarck
+T18	Personnage 2125 2142;2144 2171	Madame Chantereau un peu cousine des Fougeray
+A10	Role T18
+T19	Personnage 2278 2295	Monsieur Fauchery
+T20	Personnage 2439 2457	madame Du Joncquoy
+T21	Lieu 2581 2588	Bourges
+A11	DecoupageAdmin T21
+T22	Personnage 2487 2509	monsieur de Vandeuvres
+T23	Misc 2603 2619	le roi de Prusse
+T24	Lieu 2641 2645	Bade
+A12	DecoupageAdmin T24
+T25	Personnage 2749 2767	madame Du Joncquoy
+T26	Personnage 2829 2839	Vandeuvres
+T27	Personnage 2854 2862	Fauchery
+T28	Personnage 2938 2948	Vandeuvres
+T29	Personnage 3111 3128	la baronne Decker
+A13	Role T29
+T30	Lieu 3181 3189	Viroflay
+A14	DecoupageAdmin T30
+T31	Personnage 3191 3201	Vandeuvres
+T33	Personnage 3496 3503	Steiner
+T34	Personnage 3514 3521	Léonide
+T35	Lieu 3547 3556	Montauban
+A16	DecoupageAdmin T35
+T36	Lieu 3572 3597	le château de Beaurecueil
+A17	ConstructionHumaine T36
+T37	Personnage 3779 3786	Léonide
+T38	Personnage 3885 3893	Fauchery
+T39	Personnage 3951 3966	au comte Muffat
+A18	Role T39
+T40	Personnage 3991 4001	La Faloise
+T41	Personnage 4087 4097	Vandeuvres
+T42	Misc 4138 4149	les Anglais
+T43	Misc 4242 4252	les Russes
+T44	Lieu 4190 4203	en Angleterre
+A19	DecoupageAdmin T44
+T45	Personnage 4591 4605	Laure Piédefer
+T46	Lieu 4558 4576	la rue des Martyrs
+A20	ConstructionHumaine T46
+T47	Personnage 4728 4733	Laure
+T48	Personnage 4759 4777	la comtesse Sabine
+A21	Role T48
+T49	Personnage 4935 4948	Georges Hugon
+T50	Personnage 5167 5186	madame de Chezelles
+T51	Personnage 5233 5237	Nana
+T52	Personnage 5264 5274	Vandeuvres
+T53	Lieu 5724 5737	aux Fondettes
+A22	ConstructionHumaine T53
+T54	Personnage 5781 5788	Léonide
+T55	Misc 5859 5875	le shah de Perse
+T56	Personnage 5905 5915	Vandeuvres
+T57	Personnage 5978 6000	cette dame Du Joncquoy
+T59	Personnage 6167 6184	madame Chantereau
+T60	Personnage 6375 6382	Léonide
+T61	Personnage 1017 1027	Vandeuvres
+T62	Personnage 1083 1091	Fauchery
+T63	Personnage 2159 2171	des Fougeray
+T32	Personnage 3355 3359	Dieu
+A15	PerEvoque T32
+T64	Lieu 3710 3722	au Lion-d’Or
+A23	ConstructionHumaine T64
+T65	Personnage 5501 5511	Vandeuvres
+T58	Personnage 6031 6038	Estelle

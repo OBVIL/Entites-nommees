@@ -1,0 +1,142 @@
+T1	Personnage 166 189	M. Hector de la Faloise
+T2	Lieu 241 246	Paris
+A1	DecoupageAdmin T2
+T3	Personnage 33 43	la Faloise
+T4	Personnage 303 309	Hector
+T5	Personnage 355 364	Bordenave
+T6	Personnage 558 564	Hector
+T7	Personnage 658 669	Rose Mignon
+T8	Personnage 690 695	Diane
+A2	PerEvoque T8
+T9	Personnage 985 990	Vénus
+A3	PerEvoque T9
+T10	Personnage 942 946	Mars
+A4	PerEvoque T10
+T11	Personnage 1105 1112	Steiner
+T12	Personnage 1187 1196	Prullière
+T13	Personnage 1240 1263	un Mars de la Courtille
+A5	PerEvoque T13
+T14	Personnage 1361 1366	Diane
+A6	PerEvoque T14
+T15	Personnage 1404 1409	Diane
+A7	PerEvoque T15
+T16	Personnage 1723 1731	Fauchery
+T17	Personnage 2008 2015	Blanche
+T18	Personnage 2019 2023	Lucy
+T19	Personnage 2202 2224	Le comte de Vandeuvres
+A8	Role T19
+T20	Personnage 2232 2239	Blanche
+T21	Personnage 2273 2277	Nana
+T22	Personnage 2771 2775	nana
+T23	Personnage 2921 2925	Nana
+T24	Personnage 2933 2937	Nana
+T25	Personnage 3058 3062	Nana
+T26	Personnage 3073 3077	Nana
+T27	Personnage 3299 3304	Junon
+A9	PerEvoque T27
+T28	Personnage 3327 3334	Jupiter
+A10	PerEvoque T28
+T29	Personnage 3434 3438	Mars
+A11	PerEvoque T29
+T30	Personnage 3374 3379	Diane
+A12	PerEvoque T30
+T31	Personnage 3392 3397	Vénus
+A13	PerEvoque T31
+T32	Personnage 3482 3489	Vulcain
+A14	PerEvoque T32
+T33	Personnage 3618 3625	Jupiter
+A15	PerEvoque T33
+T34	Personnage 3780 3785	Vénus
+A16	PerEvoque T34
+T35	Personnage 4014 4029	la Blonde Vénus
+A17	PerEvoque T35
+T36	Lieu 4046 4054	l’Olympe
+A18	LieuEvoque T36
+T38	Personnage 4122 4129	Jupiter
+A20	PerEvoque T38
+T39	Personnage 4409 4419	la Faloise
+T42	Personnage 4500 4504	Iris
+A22	PerEvoque T42
+T43	Personnage 4617 4625	Fauchery
+T44	Personnage 4648 4656	Daguenet
+T45	Personnage 4830 4834	Lucy
+T46	Personnage 4927 4937	la Faloise
+T47	Personnage 4976 4980	Lucy
+T48	Personnage 5093 5101	Fauchery
+T49	Personnage 5191 5213	le comte de Vandeuvres
+A23	Role T49
+T50	Personnage 5298 5308	les Muffat
+T51	Personnage 5504 5514	la Faloise
+T52	Personnage 5551 5559	Fauchery
+T53	Personnage 5790 5799	Bordenave
+T54	Personnage 6327 6334	Jupiter
+A24	PerEvoque T54
+T55	Personnage 6456 6460	Nana
+T56	Personnage 6479 6483	Nana
+T57	Personnage 7635 7640	Vénus
+A25	PerEvoque T57
+T58	Personnage 7646 7650	Mars
+A26	PerEvoque T58
+T59	Personnage 7666 7671	Diane
+T60	Personnage 7700 7705	Vénus
+T61	Personnage 7743 7747	Nana
+T62	Personnage 8175 8180	Vénus
+A27	PerEvoque T62
+T63	Personnage 8249 8253	Nana
+T64	Personnage 8711 8715	Nana
+T65	Personnage 8798 8808	Labordette
+T66	Personnage 8976 8984	Daguenet
+T67	Personnage 9015 9019	Nana
+T68	Personnage 9204 9208	Nana
+T69	Personnage 9367 9371	Nana
+T70	Personnage 9537 9544	Steiner
+T71	Lieu 10438 10452	la Boule-Noire
+A28	ConstructionHumaine T71
+T73	Personnage 10716 10720	Iris
+A30	PerEvoque T73
+T74	Personnage 11057 11061	Mars
+A31	PerEvoque T74
+T76	Personnage 11166 11173	Neptune
+A32	PerEvoque T76
+T77	Personnage 11476 11480	Lucy
+T78	Personnage 11528 11543	Caroline Héquet
+T79	Personnage 11659 11669	la Faloise
+T80	Lieu 11671 11676	Paris
+A33	DecoupageAdmin T80
+T81	Personnage 12216 12226	la Faloise
+T82	Personnage 12006 12014	Fauchery
+T83	Personnage 12140 12149	la Tricon
+T84	Personnage 12558 12568	Labordette
+T85	Personnage 12628 12635	Blanche
+T86	Personnage 12654 12658	Lucy
+T87	Personnage 12696 12706	la Faloise
+T88	Personnage 12709 12717	Fauchery
+T89	Personnage 12254 12261	Auguste
+T90	Personnage 1505 1514	Prullière
+T37	Lieu 4059 4065	Olympe
+A19	LieuEvoque T37
+T91	Personnage 4158 4162	Iris
+A34	PerEvoque T91
+T92	Personnage 4166 4174	Ganymède
+A35	PerEvoque T92
+T40	Personnage 4435 4450	Clarisse Besnus
+T41	Personnage 4478 4487	Bordenave
+T93	Misc 4758 4767	la Bourse
+T94	Lieu 7369 7378	mont Etna
+A21	LieuEvoque T94
+T95	Personnage 7485 7492	Vulcain
+A36	PerEvoque T95
+T96	Personnage 7521 7526	Diane
+A37	PerEvoque T96
+T97	Personnage 12192 12210	la comtesse Muffat
+A38	Role T97
+T98	Personnage 10850 10857	Jupiter
+A39	PerEvoque T98
+T99	Personnage 10867 10879	Roi Dagobert
+A40	PerEvoque T99
+T100	Personnage 10944 10950	Phébus
+A41	PerEvoque T100
+T101	Lieu 10973 10982	Lonjumeau
+T102	Personnage 10986 10993	Minerve
+A43	PerEvoque T102
+T75	Personnage 10685 10703	la bande des dieux

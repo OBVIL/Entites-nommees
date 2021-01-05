@@ -1,0 +1,111 @@
+T1	Personnage 149 156	Georges
+T2	Personnage 229 251	monsieur de Vandeuvres
+A1	Role T2
+T3	Personnage 343 361	M. Théophile Venot
+A2	Role T3
+T4	Personnage 367 379	madame Hugon
+A3	Role T4
+T5	Personnage 428 438	les Muffat
+T6	Personnage 712 720	Daguenet
+T7	Personnage 747 754	Estelle
+T8	Personnage 766 774	Fauchery
+T9	Personnage 1145 1153	Fauchery
+T10	Personnage 1203 1210	Georges
+T11	Personnage 1216 1224	Daguenet
+T12	Personnage 1706 1721	le comte Muffat
+A4	Role T12
+T13	Personnage 1567 1575	un Venot
+T14	Personnage 1587 1607	un Venot gigantesque
+T15	Personnage 2065 2071	Sabine
+T16	Lieu 2168 2181	aux Fondettes
+A5	LieuEvoque T16
+T17	Personnage 2351 2358	Georges
+T18	Personnage 2596 2600	Nana
+T19	Personnage 2602 2612	Vandeuvres
+T20	Misc 1272 1284	les Jésuites
+#1	AnnotatorNotes T20	Cas délicat : à annoter ? 
+T21	Personnage 2659 2663	Nana
+T22	Personnage 2818 2821	Zoé
+T23	Personnage 3141 3153	madame Hugon
+A6	Role T23
+T24	Personnage 3281 3288	Georges
+T25	Personnage 3387 3403	monsieur Steiner
+A7	Role T25
+T26	Lieu 3623 3631	la Choue
+A8	LieuEvoque T26
+T27	Lieu 3644 3652	Gumières
+A9	LieuEvoque T27
+T28	Personnage 2506 2513	Estelle
+T29	Personnage 3794 3798	Nana
+T30	Lieu 3989 4000	la Mignotte
+A11	ConstructionHumaine T30
+A12	DecoupageAdmin T27
+A13	ConstructionHumaine T26
+#2	AnnotatorNotes T26	J'ai un doute : la choue = un bâtiment ou un terrain ? 
+T31	Personnage 4035 4039	Nana
+T32	Personnage 4110 4114	Nana
+T33	Personnage 4232 4239	Estelle
+T34	Personnage 4275 4283	M. Venot
+T35	Personnage 4301 4316	le comte Muffat
+A14	Role T35
+T36	Personnage 5051 5061	Labordette
+T37	Personnage 5101 5112	Maria Blond
+T38	Lieu 5283 5290	Chamont
+A15	DecoupageAdmin T38
+T39	Lieu 5293 5304	la Mignotte
+A16	ConstructionHumaine T39
+T40	Personnage 5454 5461	Steiner
+T41	Personnage 5494 5501	Georges
+T42	Personnage 5644 5648	Nana
+T43	Personnage 5976 5979	Zoé
+T44	Lieu 6075 6082	Orléans
+A10	LieuEvoque T44
+T45	Personnage 6310 6314	Nana
+T46	Personnage 6562 6566	Nana
+T47	Personnage 6576 6583	Georges
+T48	Personnage 6680 6683	Zoé
+T49	Personnage 6960 6964	Nana
+T50	Personnage 7155 7159	Dieu
+A17	PerEvoque T50
+T51	Personnage 7281 7288	Georges
+T52	Personnage 7658 7662	Gaga
+T53	Personnage 7699 7703	Irma
+T54	Personnage 8286 8293	Chamont
+A18	DecoupageAdmin T54
+A19	DecoupageAdmin T44
+T55	Personnage 8493 8509	Madame d’Anglars
+A20	Role T55
+T56	Personnage 8532 8538	Mignon
+T57	Personnage 8604 8609	Henri
+T58	Personnage 8613 8620	Charles
+T59	Personnage 8650 8654	Lucy
+T60	Personnage 8679 8687	Fauchery
+T61	Personnage 8708 8726	la comtesse Sabine
+A21	Role T61
+T62	Lieu 8828 8845	la rue Miromesnil
+A22	ConstructionHumaine T62
+T63	Personnage 8847 8855	Daguenet
+T64	Personnage 8877 8884	Estelle
+T65	Personnage 9011 9017	Muffat
+T66	Personnage 9021 9028	Chouard
+T67	Personnage 9076 9086	Vandeuvres
+T68	Personnage 9926 9936	cette Irma
+#3	AnnotatorNotes T68	J'hésite à mettre cette 
+T69	Personnage 11145 11149	Gaga
+T70	Personnage 11152 11163	Maria Blond
+T71	Personnage 11167 11177	Tatan Néné
+T72	Personnage 11351 11355	Gaga
+T73	Personnage 11481 11485	Nana
+T74	Personnage 12429 12433	Zizi
+T75	Personnage 12990 12997	Steiner
+T76	Personnage 13290 13305	le comte Muffat
+A23	Role T76
+T77	Personnage 13454 13460	Mignon
+T78	Personnage 13549 13556	Georges
+T79	Personnage 13655 13659	Nana
+T80	Personnage 14253 14257	Nana
+T81	Personnage 14312 14319	Georges
+T82	Personnage 14397 14404	Georges
+T83	Lieu 13946 13965	l’abbaye de Chamont
+A24	ConstructionHumaine T83
+T84	Personnage 5142 5146	Lucy

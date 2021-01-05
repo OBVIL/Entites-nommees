@@ -1,0 +1,59 @@
+T1	Personnage 4 8	Rose
+T2	Personnage 11 15	Rose
+T3	Lieu 80 88	la Gaîté
+A1	ConstructionHumaine T3
+T4	Personnage 492 496	Lucy
+T5	Personnage 506 517	Maria Blond
+T6	Personnage 653 664	Léa de Horn
+T7	Personnage 722 736	Louis-Philippe
+A2	PerEvoque T7
+T8	Personnage 376 391	le comte Muffat
+A3	Role T8
+T9	Personnage 1051 1065	Louis-Philippe
+A4	PerEvoque T9
+T10	Personnage 1383 1399	Blanche de Sivry
+T11	Lieu 1743 1749	Berlin
+A5	LieuEvoque T11
+T12	Lieu 1754 1760	Berlin
+A6	LieuEvoque T12
+T13	Lieu 1765 1771	Berlin
+A7	LieuEvoque T13
+T14	Personnage 1821 1825	Lucy
+T15	Personnage 1878 1889	Rose Mignon
+T16	Lieu 1942 1948	Berlin
+A8	LieuEvoque T16
+T17	Lieu 1953 1959	Berlin
+A9	LieuEvoque T17
+T18	Lieu 1964 1970	Berlin
+A10	LieuEvoque T18
+T19	Personnage 1987 1991	Lucy
+T20	Personnage 2051 2055	Rose
+T21	Personnage 2109 2113	Lucy
+T22	Personnage 2117 2125	Caroline
+T23	Personnage 2179 2185	Fontan
+T24	Personnage 2281 2285	Nana
+T25	Personnage 2382 2386	Lucy
+T26	Lieu 2414 2445	la rue du Faubourg-Saint-Honoré
+A11	ConstructionHumaine T26
+T27	Personnage 2455 2470	Caroline Héquet
+T28	Personnage 2608 2616	Caroline
+T29	Lieu 2689 2702	aux Tuileries
+A12	ConstructionHumaine T29
+T30	Lieu 2722 2731	la France
+A13	DecoupageAdmin T30
+T31	Personnage 2803 2811	Clarisse
+T32	Personnage 2883 2890	Simonne
+T33	Personnage 3034 3038	Nana
+T34	Lieu 3061 3067	Berlin
+T35	Lieu 3072 3078	Berlin
+A14	LieuEvoque T35
+T36	Lieu 3083 3089	Berlin
+A15	LieuEvoque T36
+T37	Personnage 3155 3159	Nana
+T38	Personnage 3203 3209	Muffat
+T39	Lieu 3556 3562	Berlin
+A16	LieuEvoque T39
+T40	Lieu 3567 3573	Berlin
+A17	LieuEvoque T40
+T41	Lieu 3578 3584	Berlin
+A18	LieuEvoque T41

@@ -1,0 +1,66 @@
+T1	Personnage 65 73	Fauchery
+T2	Personnage 181 187	Muffat
+T3	Personnage 261 267	Muffat
+T4	Personnage 333 341	Fauchery
+T5	Personnage 701 709	Fauchery
+T6	Personnage 793 811	madame Du Joncquoy
+T7	Personnage 1140 1144	Nana
+T8	Personnage 1338 1346	Daguenet
+T9	Personnage 1359 1363	Paul
+T10	Lieu 1710 1715	Paris
+A1	DecoupageAdmin T10
+T11	Personnage 1731 1735	Nana
+T12	Lieu 1768 1780	aux Variétés
+A2	ConstructionHumaine T12
+T13	Personnage 2162 2166	Nana
+T14	Personnage 2341 2349	Daguenet
+T15	Personnage 2631 2639	Daguenet
+T16	Personnage 2658 2670	madame Hugon
+T17	Personnage 2891 2894	Zoé
+T18	Personnage 3101 3119	Madame Du Joncquoy
+T19	Personnage 3189 3206	Madame Chantereau
+T20	Personnage 3437 3441	Dieu
+A3	PerEvoque T20
+T21	Personnage 3463 3471	M. Venot
+T22	Personnage 4690 4698	Daguenet
+T26	Personnage 6021 6025	Nana
+T27	Personnage 6132 6143	Rose Mignon
+T28	Personnage 6609 6616	Georges
+T29	Personnage 6879 6887	Philippe
+T30	Personnage 6858 6865	Steiner
+T31	Personnage 6867 6877	la Faloise
+T32	Personnage 7469 7473	Nana
+T33	Personnage 7992 7996	Nana
+T34	Lieu 9238 9243	Gênes
+A7	LieuEvoque T34
+T35	Personnage 8811 8829	la comtesse Muffat
+A8	Role T35
+T36	Personnage 9288 9295	Boucher
+A9	PerEvoque T36
+T37	Lieu 9356 9379	du château de Dampierre
+A10	ConstructionHumaine T37
+T38	Personnage 9510 9516	Sabine
+T39	Personnage 9792 9798	Sabine
+T40	Personnage 9970 9980	la Faloise
+T41	Personnage 9956 9966	Foucarmont
+T42	Personnage 9924 9931	Steiner
+T43	Personnage 9820 9838	madame Du Joncquoy
+T44	Personnage 10188 10196	Fauchery
+T45	Personnage 10354 10362	Philippe
+T46	Personnage 10503 10513	Foucarmont
+T47	Personnage 10686 10694	Fauchery
+T48	Personnage 10660 10675	la Blonde Vénus
+A11	PerEvoque T48
+T49	Personnage 11126 11134	Fauchery
+T50	Personnage 11168 11174	Muffat
+T51	Personnage 11232 11250	la comtesse Sabine
+A12	Role T51
+T52	Personnage 11389 11392	Zoé
+T53	Personnage 11468 11486	madame Du Joncquoy
+T54	Personnage 11502 11519	madame Chantereau
+T23	Personnage 5478 5482	Dieu
+A4	PerEvoque T23
+T24	Personnage 5488 5492	Dieu
+A5	PerEvoque T24
+T25	Personnage 5498 5502	Dieu
+A6	PerEvoque T25

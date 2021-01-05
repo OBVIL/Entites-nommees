@@ -1,0 +1,168 @@
+T1	Personnage 126 129	Zoé
+T2	Personnage 247 254	Brébant
+T3	Personnage 380 384	Nana
+T4	Personnage 190 197	Brébant
+T5	Personnage 888 900	Lucy Stewart
+T6	Personnage 926 933	Steiner
+T7	Personnage 937 944	Blanche
+T8	Personnage 1048 1054	Mignon
+T9	Personnage 1831 1840	Bordenave
+T10	Personnage 1913 1917	Nana
+T11	Personnage 2325 2335	Vandeuvres
+T12	Personnage 2356 2365	Bordenave
+T13	Personnage 2380 2384	Rose
+T14	Personnage 2392 2396	Lucy
+T15	Misc 2626 2644	d’ananas Pompadour
+T16	Personnage 3826 3833	Steiner
+T17	Personnage 3837 3843	Mignon
+T18	Personnage 3933 3939	Mignon
+T19	Personnage 3969 3973	Nana
+T20	Personnage 3985 3989	Rose
+T21	Personnage 4122 4129	Steiner
+T22	Personnage 4178 4182	Rose
+T23	Personnage 4231 4235	Nana
+T24	Personnage 4267 4278	Rose Mignon
+T25	Personnage 4254 4261	Auguste
+T26	Personnage 4284 4301	monsieur Fauchery
+A1	Role T26
+T27	Personnage 4371 4379	Clarisse
+T28	Personnage 4555 4565	Labordette
+T29	Personnage 3868 3872	Rose
+T30	Personnage 4829 4833	Dieu
+A2	PerEvoque T30
+T31	Personnage 4773 4777	Dieu
+A3	PerEvoque T31
+T32	Personnage 4857 4865	Daguenet
+T33	Personnage 5041 5049	Daguenet
+T34	Personnage 5053 5060	Georges
+T35	Personnage 5360 5364	Nana
+T36	Personnage 4646 4654	mon Mimi
+T37	Misc 4977 4988	du Léoville
+T38	Personnage 5436 5447	Rose Mignon
+T39	Personnage 5537 5545	Fauchery
+T40	Personnage 5560 5566	Mignon
+T41	Personnage 5612 5622	Vandeuvres
+T42	Personnage 5744 5748	Dieu
+A4	PerEvoque T42
+T43	Personnage 5790 5795	Isaac
+A5	PerEvoque T43
+T44	Lieu 5729 5735	Alsace
+A6	DecoupageAdmin T44
+A7	LieuEvoque T44
+T45	Personnage 5708 5715	Abraham
+A8	PerEvoque T45
+T46	Personnage 5978 5988	Labordette
+T47	Personnage 6035 6045	la Faloise
+T48	Personnage 6616 6620	Nana
+T49	Personnage 6711 6718	Blanche
+T50	Personnage 6904 6912	Fauchery
+T51	Lieu 6429 6435	France
+A9	DecoupageAdmin T51
+T52	Lieu 6752 6758	Italie
+A10	DecoupageAdmin T52
+A11	LieuEvoque T52
+T53	Personnage 6743 6758	le roi d’Italie
+A12	Role T53
+A13	PerEvoque T53
+T54	Personnage 6924 6939	Victor-Emmanuel
+A14	PerEvoque T54
+T55	Personnage 6959 6974	Louise Violaine
+T56	Personnage 6978 6981	Léa
+T57	Lieu 7012 7020	Autriche
+A15	DecoupageAdmin T57
+A16	LieuEvoque T57
+T58	Personnage 6999 7020	l’empereur d’Autriche
+A17	Role T58
+A18	PerEvoque T58
+T59	Personnage 7060 7071	Maria Blond
+T60	Personnage 7124 7134	la Faloise
+T61	Personnage 7211 7215	Rose
+T62	Personnage 7253 7261	Fauchery
+T63	Personnage 7358 7367	Bordenave
+T64	Personnage 7406 7415	Bordenave
+T65	Personnage 7542 7552	Foucarmont
+T66	Personnage 7617 7627	Labordette
+T67	Personnage 7911 7918	Simonne
+T68	Personnage 8204 8208	Nana
+T69	Personnage 8212 8223	Rose Mignon
+T70	Personnage 8513 8522	Bordenave
+T71	Personnage 8614 8631	Simonne Cabiroche
+T72	Personnage 8666 8673	Simonne
+T73	Personnage 8837 8846	Bordenave
+T74	Personnage 9294 9298	Nana
+T75	Personnage 9393 9400	Georges
+T76	Personnage 9606 9615	Bordenave
+T77	Personnage 9617 9623	Mignon
+T78	Personnage 9625 9635	Labordette
+T79	Personnage 9800 9815	le comte Muffat
+A19	Role T79
+T80	Personnage 9697 9719	au comte de Vandeuvres
+A20	Role T80
+T81	Personnage 9817 9821	Nana
+T82	Personnage 9908 9918	Labordette
+T83	Personnage 10104 10108	Nana
+T84	Personnage 10366 10370	Gaga
+T85	Personnage 10374 10385	Rose Mignon
+T86	Personnage 10395 10404	Bordenave
+T87	Personnage 10570 10580	Foucarmont
+T88	Personnage 10647 10662	Louise Violaine
+T89	Personnage 10857 10867	Labordette
+T90	Personnage 10939 10949	Labordette
+T91	Personnage 11033 11040	Steiner
+T92	Personnage 11249 11256	Blanche
+T93	Personnage 11290 11294	Nana
+T94	Personnage 11327 11331	Rose
+T95	Personnage 11335 11343	Fauchery
+T96	Personnage 11386 11390	Rose
+T97	Lieu 11848 11870	du boulevard Haussmann
+A21	ConstructionHumaine T97
+T98	Lieu 12091 12096	Paris
+A22	DecoupageAdmin T98
+T99	Personnage 12243 12254	Rose Mignon
+T100	Personnage 12633 12644	Rose Mignon
+T101	Personnage 12851 12858	Steiner
+T102	Personnage 12980 12984	Nana
+T103	Personnage 13054 13058	Lucy
+T104	Personnage 13082 13086	Rose
+T105	Personnage 13098 13102	Léon
+T106	Personnage 13258 13262	Rose
+T107	Personnage 13303 13307	Léon
+T108	Personnage 13312 13316	Nana
+T109	Personnage 13424 13428	Léon
+T110	Misc 13503 13515	la Deslignac
+#1	AnnotatorNotes T110	doute sur cette annotation
+T111	Misc 13879 13891	du Meursault
+T112	Misc 13901 13914	du Chambertin
+T113	Misc 13918 13929	du Léoville
+T114	Personnage 13980 13987	Georges
+T115	Personnage 14023 14031	Daguenet
+T116	Personnage 14145 14157	Lucy Stewart
+T117	Lieu 14215 14230	la gare du Nord
+A23	ConstructionHumaine T117
+T118	Personnage 14370 14385	Caroline Héquet
+T119	Lieu 14393 14401	Bordeaux
+A24	DecoupageAdmin T119
+A25	LieuEvoque T119
+T120	Personnage 15032 15048	Blanche de Sivry
+T121	Personnage 15066 15082	Jacqueline Baudu
+T122	Misc 15251 15261	des Russes
+T123	Personnage 15308 15316	Daguenet
+T124	Personnage 15348 15363	Clarisse Besnus
+T125	Lieu 15388 15407	Saint-Aubin-sur-Mer
+A26	DecoupageAdmin T125
+A27	LieuEvoque T125
+T126	Personnage 15451 15468	Simonne Cabiroche
+T127	Lieu 15501 15526	du faubourg Saint-Antoine
+A28	ConstructionHumaine T127
+T128	Personnage 15588 15599	Maria Blond
+T129	Personnage 15604 15619	Louise Violaine
+T130	Personnage 15624 15635	Léa de Horn
+T131	Personnage 15688 15698	Tatan Néné
+T132	Lieu 15751 15763	la Champagne
+A29	DecoupageAdmin T132
+A30	LieuEvoque T132
+T133	Personnage 15776 15783	Georges
+T134	Personnage 3768 3772	Dieu
+T135	Personnage 3750 3754	Dieu
+A31	PerEvoque T135
+T136	Personnage 39 49	Vandeuvres
