@@ -10,3 +10,5 @@ Corpus annoté disponible sur Brat via :
 http://psig.huma-num.fr/brat/#/nana-zola-v3/
 
 http://psig.huma-num.fr/brat/#/le-ventre-de-paris-zola-v3/
+
+Bel ami...?
