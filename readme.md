@@ -7,7 +7,7 @@ Le travail effectué consiste à
 2. créer un corpus de référence à partir, dans un premier temps, d'une annotation manuelle de trois romans: Le ventre de Paris de Zola, Nana de Zola et Bel ami de Maupassant.
 3. tester et évaluer trois modèles de REN: Spacy, Stanza et L3i NERC-EL.
 
-### Arbre de fichier
+### Arbre de fichiers
 ```
 ├── Corpus de re201ference        <- contient les romans en format texte
 │   ├── Maupassant-Bel-ami
