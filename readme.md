@@ -7,3 +7,38 @@ Le travail effectué consiste à
 2. créer un corpus gold standard à partir d'une annotation manuelle de trois romans: Le ventre de Paris de Zola, Nana de Zola et Bel ami de Maupassant.
 3. tester et évaluer trois modèles de REN: Spacy, Stanza et L3i NERC-EL.
 
+### Arbre de fichier
+├── Corpus\ de\ re?\201fe?\201rence <- contient les romans en format texte
+│   ├── Maupassant-Bel-ami
+│   ├── Zola-LVP
+│   └── Zola-Nana
+├── Evaluation 						<- les fichiers concernés avec comparison entre les predictions et realité. 
+│   ├── L3i\ NERC-EL
+│   │   ├── Gold
+│   │   ├── Predictions
+│   │   └── Predictions_vs_Gold		<- fichiers tsv énumérants les predictions et vrai balises pour chaque mot
+│   └── Spacy-Stanza
+│       ├── Bel-Ami-Maupassant
+│       │   ├── LOC
+│       │   ├── MISC
+│       │   └── PER
+│       ├── LVP-Zola
+│       │   ├── LOC
+│       │   ├── MISC
+│       │   └── PER
+│       └── Nana-Zola
+│           ├── LOC
+│           ├── MISC
+│           └── PER
+├── Guide\ d'annotation
+│   └── Inter-Annotateurs
+│       ├── annotateur-c
+│       │   ├── lvp-zola-c
+│       │   └── nana-zola-c
+│       └── annotateur-m
+│           ├── lvp-zola-m
+│           └── nana-zola-m
+├── Publication
+└── Scripts
+    ├── conversion 					<- touts les scripts sur conversion des formats
+    └── evaluation  				<- touts les scripts pour mesurant le suces
