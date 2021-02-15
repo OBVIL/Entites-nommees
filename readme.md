@@ -8,7 +8,7 @@ Le travail effectué consiste à
 3. tester et évaluer trois modèles de REN: Spacy, Stanza et L3i NERC-EL.
 
 ### Arbre de fichier
-'''
+```
 ├── Corpus de re201ference <- contient les romans en format texte
 │   ├── Maupassant-Bel-ami
 │   ├── Zola-LVP
@@ -43,4 +43,4 @@ Le travail effectué consiste à
 └── Scripts
     ├── conversion                     <- touts les scripts sur conversion des formats
     └── evaluation                  <- touts les scripts pour mesurant le suces
-    '''
+    ```
