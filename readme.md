@@ -9,15 +9,15 @@ Le travail effectué consiste à
 
 ### Arbre de fichier
 ```
-├── Corpus de re201ference <- contient les romans en format texte
+├── Corpus de re201ference        <- contient les romans en format texte
 │   ├── Maupassant-Bel-ami
 │   ├── Zola-LVP
 │   └── Zola-Nana
-├── Evaluation                         <- les fichiers concernés avec comparison entre les predictions et realité. 
+├── Evaluation                    <- les fichiers concernés avec comparison entre les predictions et realité. 
 │   ├── L3i\ NERC-EL
 │   │   ├── Gold
 │   │   ├── Predictions
-│   │   └── Predictions_vs_Gold        <- fichiers tsv énumérants les predictions et vrai balises pour chaque mot
+│   │   └── Predictions_vs_Gold   <- fichiers tsv énumérants les predictions et vrai balises pour chaque mot
 │   └── Spacy-Stanza
 │       ├── Bel-Ami-Maupassant
 │       │   ├── LOC
@@ -41,6 +41,6 @@ Le travail effectué consiste à
 │           └── nana-zola-m
 ├── Publication
 └── Scripts
-    ├── conversion                     <- touts les scripts sur conversion des formats
-    └── evaluation                  <- touts les scripts pour mesurant le suces
+    ├── conversion                 <- touts les scripts sur conversion des formats
+    └── evaluation                 <- touts les scripts pour mesurant le suces
 ```
