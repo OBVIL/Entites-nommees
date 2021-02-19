@@ -19,8 +19,21 @@ import os, glob
 import re
 import csv
 
-corpus = "lvp"
-outfile = os.path.join("output", corpus) + '.csv'
+
+# Initialize the parser
+parser = argparse.ArgumentParser(
+    description="Convertir la sortie de Brat en un csv utilisable par le script"
+)
+
+# Add the positional parameters
+parser.add_argument('input', help="The input folder")
+parser.add_argument('output', help="The output file")
+arguments = parser.parse_args()
+
+#corpus = "lvp"
+#outfile = os.path.join("output", corpus) + '.csv'
+outfile = arguments.parser
+
 map_tag = {
     'Personnage': 0,
     'Lieu': 1,
@@ -30,7 +43,7 @@ map_tag = {
 
 annotations = []
 csv_header = ['token']
-for corpus_annotateur in os.listdir(corpus):
+for corpus_annotateur in os.listdir(arguments.input):
 
     path_corpus = os.path.join(corpus, corpus_annotateur)
 
