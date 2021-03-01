@@ -1,5 +1,6 @@
 import sys
 from nltk import agreement
+import argparse
 
 """
     Calcul du score inter-annotateur
@@ -19,7 +20,6 @@ from nltk import agreement
     "NE 5";3;4
 
     Voir l'exemple 'Kappa.csv'.
-    Pour l'instant le fichier d'entrée est hardcodé à la ligne 45 (input_file)
 
     https://learnaitech.com/how-to-compute-inter-rater-reliablity-metrics-cohens-kappa-fleisss-kappa-cronbach-alpha-kripndorff-alpha-scotts-pi-inter-class-correlation-in-python/
 
@@ -51,7 +51,12 @@ else:
 """
 # Modifier le nom du fichier ici
 #input_file = "Kappa.csv"
-input_file = "output/lvp.csv"
+parser = argparse.ArgumentParser(
+    description="Calcul du score inter-annotateur. "
+)
+parser.add_argument('input', help="The input file")
+arguments = parser.parse_args()
+input_file = arguments.input
 
 # Le séparateur par défaut est le point-virgule
 # changer pour ne pas hardcoder ensuite

@@ -18,7 +18,7 @@ import sys
 import os, glob
 import re
 import csv
-
+import argparse
 
 # Initialize the parser
 parser = argparse.ArgumentParser(
@@ -32,7 +32,8 @@ arguments = parser.parse_args()
 
 #corpus = "lvp"
 #outfile = os.path.join("output", corpus) + '.csv'
-outfile = arguments.parser
+outfile = arguments.output
+corpus = arguments.input
 
 map_tag = {
     'Personnage': 0,
@@ -43,7 +44,7 @@ map_tag = {
 
 annotations = []
 csv_header = ['token']
-for corpus_annotateur in os.listdir(arguments.input):
+for corpus_annotateur in os.listdir(corpus):
 
     path_corpus = os.path.join(corpus, corpus_annotateur)
 
