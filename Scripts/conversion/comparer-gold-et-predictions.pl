@@ -14,7 +14,7 @@ use strict;
 use warnings;
 
 
-
+my @files = glob("$ARGV[0]/*");
 
 foreach (@ARGV) {
 	# go through all the files in * from the command line
