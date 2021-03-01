@@ -45,11 +45,12 @@ Le travail effectué consiste à
     └── evaluation                 <- touts les scripts pour mesurant le suces
 ```
 ### Les Scripts
+
 #### brat-to-csv-interAnnotateurs.py
 Convertir la sortie de Brat en un csv utilisable par le script
 de calcul du score inter-annotateurs.
 Sous-entend que les fichiers sont dans un dossier avec pour nom le titre du corpus.
-À lancer: <code> python brat-to-csv-interAnnotateurs.py <corpus_dossier> <output_fichier></code>
+À lancer: <code> python brat-to-csv-interAnnotateurs.py <dossier_corpus> <fichier_output></code>
 
 Et à l'intérieur, les dossiers extraits de Brat au format "nomCorpus-auteur-nomAnnotateur"
 Par example:
@@ -66,6 +67,29 @@ lvp
 ```
 #### calcul-score.py
 Calcul du score inter-annotateur. Prend en entrée les fichiers créés par brat-to-csv-interAnnotateurs.py.
-À lancer: <code>python calcul-score.py input_file</code>
+À lancer: <code>python calcul-score.py <input_file></code>
 
-#### 
+#### evaluer_predictions.py
+Ce script utilise nervaluate pour calculer la précision et le rappel
+du marquage automatique des entités nommées par rapport à un étalon-or. 
+Il faut fournir les fichiers à évaluer sous la forme suivante:
+```
+TOKEN   NE-COARSE-LIT   GOLD
+Deux    O   O
+mois    O   O
+```
+Les fichiers sous cette forme peuvent être creer par comparer-gold-et-predictions.pl.
+Usage: <code>python evaluer-predictions.py <dossier_input> <fichier_output></code>
+
+### comparer-gold-et-predictions.pl
+Regroupez les annotations de l'étalon-or avec les prévisions. Générer des fichiers TSV.
+il faut que les fichiers sont rangés dans les dossiers intitulés Gold\_X et Predictions\_X.
+Par example:
+```
+input_dossier
+├── Predictions_LVP
+|   └── Predictions_chapitre1.bios.tsv
+└── Gold_LVP
+    └── Gold_chapitre1.bios.tsv
+ ```
+ Usage: <code>perl stitch.pl <input_dossier> </code>

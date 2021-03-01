@@ -1,7 +1,12 @@
-# Stitch together the gold standard annotations with predictions. Generate TSV files.
-# requires all files present, in folders labeled Gold_X and Predictions_X
-# also requires target folders in the format Gold_vs_Predictions_X
-# usage: 'perl stitch.pl *' from the command line.
+# Regroupez les annotations de l'étalon-or avec les prévisions. Générer des fichiers TSV.
+# il faut que les fichiers sont rangés dans les dossiers intitulés Gold_X et Predictions_X.
+# Par example:
+#input_dossier
+#├── Predictions_LVP
+#|   └── Predictions_chapitre1.bios.tsv
+#└── Gold_LVP
+#    └── Gold_chapitre1.bios.tsv
+# usage: 'perl stitch.pl input_dossier'
 # TSV format: TOKEN	PREDICTION	GOLD	VALIDITY
 #				de		O		O		1
 
