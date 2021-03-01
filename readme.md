@@ -45,7 +45,7 @@ Le travail effectué consiste à
     └── evaluation                 <- touts les scripts pour mesurant le suces
 ```
 ### Les Scripts
-# brat-to-csv-interAnnotateurs.py
+#### brat-to-csv-interAnnotateurs.py
 Convertir la sortie de Brat en un csv utilisable par le script
 de calcul du score inter-annotateurs.
 Sous-entend que les fichiers sont dans un dossier avec pour nom le titre du corpus.
@@ -64,4 +64,8 @@ lvp
     ├── chapitre1.ann
     ├── chapitre1.txt
 ```
+#### calcul-score.py
+Calcul du score inter-annotateur. Prend en entrée les fichiers créés par brat-to-csv-interAnnotateurs.py.
+À lancer: <code>python calcul-score.py input_file</code>
 
+#### 
