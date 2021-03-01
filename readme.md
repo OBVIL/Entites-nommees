@@ -80,7 +80,7 @@ input_dossier
 └── Gold_LVP
     └── Gold_chapitre1.bios.tsv
  ```
- Usage: <code>perl stitch.pl <input_dossier> </code>
+ Usage: <code>perl comparer-gold-et-predictions.pl <input_dossier> </code>
  Les fichiers de sortie sont déposés dans le même dossier où se trouvent les dossiers d'entrée.
 
 #### evaluer_predictions.py
