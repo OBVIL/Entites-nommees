@@ -44,3 +44,24 @@ Le travail effectué consiste à
     ├── conversion                 <- touts les scripts sur conversion des formats
     └── evaluation                 <- touts les scripts pour mesurant le suces
 ```
+### Les Scripts
+# brat-to-csv-interAnnotateurs.py
+Convertir la sortie de Brat en un csv utilisable par le script
+de calcul du score inter-annotateurs.
+Sous-entend que les fichiers sont dans un dossier avec pour nom le titre du corpus.
+À lancer: <code> python brat-to-csv-interAnnotateurs.py <corpus_dossier> <output_fichier></code>
+
+Et à l'intérieur, les dossiers extraits de Brat au format "nomCorpus-auteur-nomAnnotateur"
+Par example:
+<code> python brat-to-csv-interAnnotateurs.py ../lvp ../lvp/output.csv</code>
+```
+lvp
+├── lvp-zola-camille
+│   ├── chapitre1.ann
+│   ├── chapitre1.txt
+   └── chapitre6.txt
+└── lvp-zola-marguerite
+    ├── chapitre1.ann
+    ├── chapitre1.txt
+```
+
