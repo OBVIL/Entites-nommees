@@ -135,7 +135,8 @@ Le format d'entrée, est le conll définit par Inception:
 Vérifier la variable TAGSET en bas du fichier, pour faire correspondre les tags avec le bon chiffre. C'est à dire, qu'il faut modifier le nom des tags en accord avec son jeu de données.
 Le chiffre est juste une équivalence pour scikit-learn.
 Si par exemple, le jeu de données contient les tags "Personnage" et "Lieu" alors:
-```    TAGSET = {
+```
+    TAGSET = {
         '_': 0,
         'Personnage': 1,
         'Lieu': 2
