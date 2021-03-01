@@ -56,12 +56,12 @@ Et à l'intérieur, les dossiers extraits de Brat au format "nomCorpus-auteur-no
 Par example:
 <code> python brat-to-csv-interAnnotateurs.py ../lvp ../lvp/output.csv</code>
 ```
-lvp
-├── lvp-zola-camille
+XXX
+├── XXX-zola-camille
 │   ├── chapitre1.ann
 │   ├── chapitre1.txt
    └── chapitre6.txt
-└── lvp-zola-marguerite
+└── XXX-zola-marguerite
     ├── chapitre1.ann
     ├── chapitre1.txt
 ```
