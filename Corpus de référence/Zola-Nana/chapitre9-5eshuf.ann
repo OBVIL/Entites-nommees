@@ -48,8 +48,7 @@ T62	Personnage 7327 7333	Fontan
 T64	Personnage 7900 7906	Mignon
 T67	Personnage 5723 5729	Mignon
 T4	Personnage 340 355	le comte Muffat
-A6	Fonction T4
-A10	LieuEvoque T9
 T6	Personnage 6867 6871	Dieu
 A1	PerEvoque T6
 T10	Personnage 6929 6933	Bosc
+A2	Role T4

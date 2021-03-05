@@ -1,6 +1,5 @@
 T4	Personnage 299 317	madame Du Joncquoy
 T3	Lieu 430 439	la Prusse
-A3	LieuEvoque T3
 T5	Personnage 619 629	Vandeuvres
 T6	Personnage 662 670	Fauchery
 T7	Personnage 820 827	Steiner
@@ -11,28 +10,17 @@ T2	Lieu 442 447	Paris
 T11	Lieu 1207 1212	Paris
 T12	Personnage 1288 1307	Madame Du Joncquoy,
 T14	Lieu 1365 1371	Orient
-A2	LieuEvoque T14
-T16	Lieu 1958 1963	Paris
-T17	Lieu 2078 2092	aux Carmélites
-A5	LieuEvoque T17
-T18	Personnage 2017 2057	la fille aînée de la baronne de Fougeray
-A6	Fonction T18
+T17	Misc 2078 2092	aux Carmélites
 T19	Personnage 2125 2142	Madame Chantereau
 T20	Personnage 2151 2171	cousine des Fougeray
-A7	Fonction T20
 T21	Personnage 2278 2295	Monsieur Fauchery
 T22	Personnage 2346 2366	monsieur de Bismarck
 A8	PerEvoque T22
 T23	Personnage 2439 2457	madame Du Joncquoy
 T24	Personnage 2487 2509	monsieur de Vandeuvres
 T26	Lieu 2641 2645	Bade
-A9	LieuEvoque T26
 T27	Lieu 2581 2588	Bourges
-A10	LieuEvoque T27
 T28	Personnage 2749 2768	madame Du Joncquoy.
-T29	Personnage 2803 2824	ministre des Finances
-A11	Fonction T29
-A12	PerEvoque T29
 T30	Personnage 2829 2839	Vandeuvres
 T31	Personnage 2854 2862	Fauchery
 T32	Personnage 2938 2948	Vandeuvres
@@ -57,13 +45,10 @@ A20	PerEvoque T41
 T42	Personnage 3885 3893	Fauchery
 T44	Personnage 3991 4001	La Faloise
 T45	Personnage 4087 4097	Vandeuvres
-T46	Personnage 4138 4149	les Anglais
-A21	PerEvoque T46
+T46	Misc 4138 4149	les Anglais
 T47	Lieu 4193 4203	Angleterre
-T48	Personnage 4242 4252	les Russes
-A23	PerEvoque T48
+T48	Misc 4242 4252	les Russes
 T50	Personnage 4591 4605	Laure Piédefer
-A25	PerEvoque T50
 T51	Personnage 4759 4777	la comtesse Sabine
 T52	Personnage 4935 4948	Georges Hugon
 T53	Personnage 5167 5186	madame de Chezelles
@@ -72,29 +57,30 @@ T55	Personnage 5264 5274	Vandeuvres
 T56	Personnage 5501 5511	Vandeuvres
 T57	Personnage 5781 5788	Léonide
 T58	Personnage 5859 5875	le shah de Perse
-A26	Fonction T58
 A27	PerEvoque T58
 T59	Lieu 5724 5737	aux Fondettes
-A28	LieuEvoque T59
 T60	Personnage 5905 5915	Vandeuvres
 T61	Personnage 6375 6382	Léonide
 T63	Personnage 6031 6038	Estelle
-A30	PerEvoque T63
-T64	Personnage 5978 6000	cette dame Du Joncquoy
-A31	PerEvoque T64
 T13	Lieu 239 251	aux Variétés
 T1	Personnage 258 278	Le comte de Bismarck
-A1	Fonction T1
 T15	Personnage 1408 1419	Nazar-Eddin
 A4	PerEvoque T15
-A32	LieuEvoque T16
 T65	Personnage 3355 3359	Dieu
 A33	PerEvoque T65
 T43	Personnage 3951 3966	au comte Muffat
-A34	Fonction T43
 A22	DecoupageAdmin T47
 T49	Lieu 4558 4576	la rue des Martyrs
-A24	LieuEvoque T49
 A35	ConstructionHumaine T49
 T66	Personnage 4728 4733	Laure
 T62	Personnage 6167 6184	madame Chantereau
+A1	Role T1
+T18	Personnage 2035 2057	la baronne de Fougeray
+A6	Role T18
+A5	Role T20
+A7	Role T43
+A26	Role T58
+T16	Misc 1955 1971	le Paris mondain
+T29	Personnage 5989 6000	Du Joncquoy
+A11	PerEvoque T29
+A2	DecoupageAdmin T3

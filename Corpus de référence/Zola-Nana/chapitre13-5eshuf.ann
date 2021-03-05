@@ -26,9 +26,6 @@ T25	Personnage 7244 7252	M. Venot
 T26	Personnage 7049 7053	Nana
 T27	Personnage 8314 8318	Nana
 T28	Personnage 8373 8377	Nana
-T29	Lieu 8737 8747	États-Unis
-A5	DecoupageAdmin T29
-A6	LieuEvoque T29
 T30	Personnage 8914 8918	Nana
 T31	Personnage 9594 9604	Labordette
 T32	Personnage 9608 9614	Mignon
@@ -48,15 +45,10 @@ T37	Personnage 10306 10316	la Faloise
 T47	Personnage 13306 13314	Fauchery
 T48	Personnage 13368 13374	Muffat
 T49	Personnage 13415 13418	Zoé
-T50	Personnage 13727 13739	comte Muffat
-T51	Personnage 13820 13830	petit mufe
-T10	Personnage 3816 3826	petit mufe
-T9	Personnage 4048 4058	petit mufe
 T52	Personnage 13878 13888	petit mufe
 T53	Personnage 14080 14086	Muffat
 T54	Lieu 14112 14121	Normandie
 A7	DecoupageAdmin T54
-A8	LieuEvoque T54
 T55	Personnage 14173 14177	Nana
 T56	Lieu 14337 14351	rue Miromesnil
 T57	Lieu 14363 14381	avenue de Villiers
@@ -71,14 +63,10 @@ T66	Personnage 16641 16649	Daguenet
 T67	Personnage 13146 13153	Georges
 T68	Personnage 13163 13167	Nana
 A10	PerEvoque T16
-A12	PerEvoque T2
 T69	Personnage 2179 2183	Nana
 T70	Personnage 2568 2589	le marquis de Chouard
-A13	Fonction T70
 A11	PerEvoque T12
 T14	Personnage 5019 5021;5028 5039	la maman Hugon
-A2	Fonction T14
-A15	PerEvoque T20
 T18	Personnage 6147 6151	Dieu
 A16	PerEvoque T18
 T71	Personnage 6225 6229	Dieu
@@ -93,3 +81,13 @@ T74	Personnage 12112 12116	Nana
 T75	Personnage 12569 12574	Satin
 T58	Lieu 14460 14475	la rue Cardinet
 A20	ConstructionHumaine T58
+A13	Role T70
+A2	Role T14
+A21	Role T1
+T29	Lieu 8733 8747	aux États-Unis
+A5	DecoupageAdmin T29
+T10	Personnage 3812 3826	mon petit mufe
+T9	Personnage 4044 4058	mon petit mufe
+T50	Personnage 13724 13739	le comte Muffat
+A22	Role T50
+T51	Personnage 13816 13830	ton petit mufe

@@ -4,7 +4,6 @@ T3	Personnage 261 267	Muffat
 T4	Personnage 333 341	Fauchery
 T7	Personnage 701 709	Fauchery
 T8	Personnage 793 811	madame Du Joncquoy
-A3	Fonction T8
 T9	Personnage 1140 1144	Nana
 T10	Personnage 1338 1346	Daguenet
 T11	Personnage 1359 1363	Paul
@@ -38,7 +37,6 @@ T33	Personnage 6879 6887	Philippe
 T34	Personnage 7469 7473	Nana
 T35	Personnage 7992 7996	Nana
 T36	Personnage 8811 8829	la comtesse Muffat
-A9	Fonction T36
 T38	Lieu 9238 9243	Gênes
 A11	LieuEvoque T38
 T39	Personnage 9510 9516	Sabine
@@ -56,7 +54,6 @@ T49	Personnage 10686 10694	Fauchery
 T50	Personnage 11126 11134	Fauchery
 T51	Personnage 11168 11174	Muffat
 T52	Personnage 11232 11250	la comtesse Sabine
-A14	Fonction T52
 T53	Personnage 11389 11392	Zoé
 T54	Personnage 11468 11486	madame Du Joncquoy
 T55	Personnage 11502 11519	madame Chantereau
@@ -64,3 +61,5 @@ T5	Lieu 1768 1780	aux Variétés
 A1	ConstructionHumaine T5
 T6	Lieu 9356 9379	du château de Dampierre
 A2	ConstructionHumaine T6
+A9	Role T36
+A10	Role T52

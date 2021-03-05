@@ -3,12 +3,9 @@ T1	Personnage 11 15	Rose
 T3	Lieu 80 88	la Gaîté
 A1	ConstructionHumaine T3
 T4	Personnage 376 391	le comte Muffat
-A2	Fonction T4
 T5	Personnage 492 496	Lucy
 T6	Personnage 506 517	Maria Blond
 T7	Personnage 653 664	Léa de Horn
-T8	Personnage 709 736	ministres de Louis-Philippe
-A3	Fonction T8
 T9	Personnage 1051 1065	Louis-Philippe
 A4	PerEvoque T9
 T10	Personnage 1383 1399	Blanche de Sivry
@@ -72,3 +69,6 @@ A30	LieuEvoque T41
 T42	Lieu 3578 3584	Berlin
 A31	DecoupageAdmin T42
 A32	LieuEvoque T42
+A2	Role T4
+T8	Personnage 722 736	Louis-Philippe
+A3	PerEvoque T8
