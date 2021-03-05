@@ -10,7 +10,6 @@ T8	Personnage 2538 2545	Florent
 T9	Lieu 3524 3529	Paris
 T12	Lieu 174 180	Yvetot
 T13	Personnage 928 933	Quenu
-A7	PerEvoque T13
 T15	Lieu 90 98	le Vigan
 T18	Personnage 2012 2019	Florent
 T20	Personnage 3690 3695	Quenu
@@ -80,9 +79,7 @@ T79	Personnage 17246 17262	l’oncle Gradelle
 T80	Lieu 17468 17478	rue Cuvier
 A29	ConstructionHumaine T80
 T81	Lieu 15817 15824	Cayenne
-A30	LieuEvoque T81
 T84	Lieu 17572 17580	Plassans
-A33	LieuEvoque T84
 T83	Personnage 17775 17779	Lisa
 T85	Personnage 18142 18146	Lisa
 T86	Personnage 18362 18370	Gradelle
@@ -92,11 +89,9 @@ T89	Personnage 19051 19059	Gradelle
 T90	Personnage 19061 19066	Quenu
 T91	Personnage 19236 19240	Lisa
 T93	Lieu 19284 19292	Plassans
-A38	LieuEvoque T93
 T94	Personnage 19772 19777	Quenu
 T95	Personnage 19843 19847	Lisa
 T97	Personnage 20185 20193	Macquart
-A41	PerEvoque T97
 T98	Personnage 20233 20245	une Macquart
 T99	Personnage 20702 20706	Lisa
 T100	Personnage 20678 20700	le charcutier Gradelle
@@ -140,7 +135,6 @@ T140	Personnage 29938 29942	Lisa
 T141	Lieu 30297 30313	La rue Pirouette
 A51	ConstructionHumaine T141
 T142	Lieu 30211 30219	Suresnes
-A52	LieuEvoque T142
 T143	Personnage 30087 30092	Quenu
 T144	Personnage 30955 30960	Quenu
 T145	Personnage 30410 30426	l’oncle Gradelle
@@ -167,13 +161,11 @@ T163	Personnage 37073 37080	Florent
 T164	Personnage 37175 37180	Quenu
 T165	Lieu 36842 36857	l’île du Diable
 A57	Naturel T165
-A58	LieuEvoque T165
 T166	Lieu 37167 37173	France
 T167	Lieu 37473 37493	la rue Royer-Collard
 A59	ConstructionHumaine T167
 T168	Lieu 37094 37115	la Guyane hollandaise
 A60	DecoupageAdmin T168
-A61	LieuEvoque T168
 T169	Personnage 37245 37249	Lisa
 T170	Personnage 37269 37276	Florent
 T171	Personnage 37622 37629	Florent
@@ -205,7 +197,6 @@ T198	Personnage 68568 68577	les Quenu
 T200	Lieu 68052 68069	la rue Mauconseil
 A68	ConstructionHumaine T200
 T201	Lieu 67627 67636	Cherbourg
-A69	LieuEvoque T201
 T202	Lieu 67481 67497	la rue Pirouette
 A70	ConstructionHumaine T202
 T203	Personnage 67414 67418	Lisa
@@ -235,17 +226,13 @@ T226	Personnage 44592 44596	Lisa
 T227	Personnage 44800 44807	Florent
 T228	Personnage 44385 44401	l’oncle Gradelle
 T229	Personnage 44492 44508	l’oncle Gradelle
-A73	Fonction T229
 T230	Personnage 45101 45106	Quenu
 T231	Personnage 45533 45537	Lisa
 T232	Personnage 45885 45892	Florent
 T233	Lieu 45973 45979	France
 T234	Personnage 46131 46138	Florent
-A74	PerEvoque T234
 T235	Personnage 46160 46179	Florent Laquerrière
-A75	PerEvoque T235
 T236	Lieu 46061 46068	Surinam
-A76	LieuEvoque T236
 T237	Lieu 46212 46217	Paris
 T238	Lieu 46254 46262	Amérique
 T239	Personnage 46313 46317	Lisa
@@ -262,13 +249,10 @@ T249	Personnage 48339 48346	Florent
 T250	Personnage 48367 48371	Léon
 T251	Personnage 48673 48688	Auguste Landois
 T252	Lieu 48699 48705	Troyes
-A77	LieuEvoque T252
 T253	Lieu 48924 48929	Paris
 T254	Lieu 48994 49000	Troyes
 T256	Lieu 49168 49173	Paris
 T257	Lieu 49254 49266	la Champagne
-A80	DecoupageAdmin T257
-A81	LieuEvoque T257
 T258	Personnage 49312 49319	Auguste
 T259	Personnage 49327 49334	Florent
 T260	Personnage 49370 49382	madame Quenu
@@ -276,7 +260,6 @@ T261	Personnage 49418 49435	Augustine Landois
 T255	Lieu 49662 49671	Plaisance
 T263	Lieu 49700 49705	Paris
 T264	Lieu 49879 49889	Saint-Ouen
-A78	LieuEvoque T264
 T265	Personnage 50037 50049	madame Quenu
 T266	Personnage 50271 50280	Augustine
 T267	Personnage 50406 50413	Florent
@@ -306,7 +289,6 @@ A87	ConstructionHumaine T284
 T286	Personnage 52678 52684	Gavard
 T287	Personnage 53591 53598	Florent
 T288	Lieu 53609 53616	Cayenne
-A89	LieuEvoque T288
 A90	ConstructionHumaine T288
 T289	Personnage 53840 53846	Gavard
 T290	Personnage 53854 53861	Florent
@@ -314,11 +296,6 @@ T291	Personnage 54564 54571	Florent
 T292	Personnage 54585 54592	Florent
 T293	Personnage 54694 54700	Gavard
 T294	Personnage 54522 54529	Florent
-T295	Lieu 55216 55222	Crimée
-A91	LieuEvoque T295
-T296	Lieu 54989 54995	Orient
-A92	LieuEvoque T296
-#6	AnnotatorNotes T296	Faut-il l'indexer comme un lieu ? oui lieuEvoq
 T297	Lieu 54723 54740	rue Saint-Jacques
 A93	ConstructionHumaine T297
 T298	Lieu 55512 55533	rue de la Cossonnerie
@@ -369,7 +346,6 @@ T337	Personnage 62401 62412	madame Lisa
 T339	Personnage 63057 63065	Marjolin
 T340	Personnage 63562 63577	monsieur Gavard
 T341	Personnage 63637 63645	Marjolin
-T342	Personnage 63706 63710	Lisa
 T343	Personnage 63790 63797	Florent
 T344	Lieu 64069 64073	Lyon
 A103	LieuEvoque T344
@@ -387,7 +363,6 @@ T352	Lieu 65090 65100	des Halles
 A107	ConstructionHumaine T352
 T353	Personnage 66279 66283	Lisa
 A108	ConstructionHumaine T15
-T3	Lieu 1424 1429	Vigan
 T19	Personnage 3605 3612	Florent
 T355	Personnage 6523 6530	Florent
 T356	Lieu 10097 10117	la rue Royer-Collard
@@ -406,11 +381,8 @@ A19	DecoupageAdmin T360
 A20	LieuEvoque T360
 T16	Personnage 1585 1590	Quenu
 T17	Personnage 2146 2151	Quenu
-T82	Lieu 17605 17609	Midi
-A32	DecoupageAdmin T82
-T10	Personnage 150 160	un Normand
+T10	Misc 150 160	un Normand
 T11	Personnage 162 170	un Quenu
-T14	Personnage 845 859	ces Provençaux
 T113	Lieu 3042 3050	au Vigan
 A35	DecoupageAdmin T113
 T354	Personnage 4564 4571	Florent
@@ -419,33 +391,23 @@ T46	Personnage 10999 11010	un Gradelle
 T357	Lieu 11051 11073	le quartier des Halles
 T358	Lieu 14213 14236	au cimetière Montmartre
 A5	ConstructionHumaine T358
-A13	PerEvoque T79
 T71	Lieu 17485 17506	du Jardin des Plantes
 A24	ConstructionHumaine T71
-A43	LieuEvoque T82
 T362	Personnage 19100 19105	Quenu
 T96	Personnage 20159 20167	Macquart
-A39	PerEvoque T100
 T363	Personnage 24818 24822	Lisa
-T120	Personnage 25310 25323	frère Florent
 T364	Personnage 28441 28445	Lisa
 T365	Personnage 29299 29307	Ce Quenu
-A45	LieuEvoque T167
 T366	Personnage 38266 38271	Quenu
 A49	DecoupageAdmin T236
-A109	LieuEvoque T238
 T368	Personnage 46773 46777	Lisa
 T369	Personnage 50233 50240	Florent
 T299	Personnage 55434 55452	aux Quenu-Gradelle
-A110	LieuEvoque T316
-A111	PerEvoque T329
 T370	Personnage 61262 61269	Florent
-A112	PerEvoque T334
 T338	Lieu 62251 62261	des Halles
 A102	ConstructionHumaine T338
 T371	Lieu 63774 63784	des Halles
 A113	ConstructionHumaine T371
-A114	PerEvoque T211
 T194	Lieu 67973 67991	la rue Saint-Denis
 A63	ConstructionHumaine T194
 T195	Lieu 67994 68022	la rue Jean-Jacques Rousseau
@@ -454,15 +416,12 @@ T199	Lieu 68030 68049	la rue Saint-Honoré
 A67	ConstructionHumaine T199
 T372	Personnage 68363 68368	Quenu
 T92	Personnage 19267 19279	des Macquart
-A37	PerEvoque T92
-A40	Role T120
 A48	Role T117
 T373	Lieu 3000 3005	Paris
 A115	DecoupageAdmin T373
 T374	Misc 3587 3603	l'École de droit
 T375	Misc 5811 5821	la Faculté
 T62	Lieu 14062 14069	Bicêtre
-A6	LieuEvoque T62
 A8	ConstructionHumaine T62
 A21	Role T65
 A22	Role T67
@@ -472,18 +431,14 @@ A34	Role T100
 A42	Role T104
 A44	Role T114
 A47	Role T121
-T376	Misc 27155 27161	Banque
 A50	Role T145
 T150	Personnage 33479 33492	la belle Lisa
 T367	Misc 39856 39868	un Gutenberg
 A46	Role T186
 A53	Role T212
-A62	PerEvoque T212
 A71	Role T228
 T377	Personnage 48858 48865	Florent
 T262	Personnage 49026 49043	Augustine Landois
-A72	PerEvoque T270
-A82	PerEvoque T271
 T378	Misc 52895 52914	au Corps législatif
 T285	Lieu 53152 53165	des Tuileries
 A88	ConstructionHumaine T285
@@ -493,3 +448,38 @@ T309	Personnage 58199 58212	madame Lecœur
 A66	Role T197
 A65	Role T196
 A31	DecoupageAdmin T81
+A97	DecoupageAdmin T2
+T3	Lieu 1421 1429	au Vigan
+A7	DecoupageAdmin T3
+A117	DecoupageAdmin T48
+A119	DecoupageAdmin T357
+A118	DecoupageAdmin T61
+A6	DecoupageAdmin T93
+A40	DecoupageAdmin T158
+A61	Role T229
+A62	DecoupageAdmin T253
+A73	DecoupageAdmin T254
+A120	DecoupageAdmin T256
+A80	DecoupageAdmin T255
+A121	DecoupageAdmin T263
+A122	DecoupageAdmin T275
+T342	Personnage 63697 63710	La belle Lisa
+A72	DecoupageAdmin T346
+A82	DecoupageAdmin T345
+A123	DecoupageAdmin T344
+A124	DecoupageAdmin T347
+T120	Personnage 25310 25323	frère Florent
+A13	Role T120
+T82	Lieu 17602 17609	du Midi
+A32	DecoupageAdmin T82
+A30	DecoupageAdmin T142
+A33	DecoupageAdmin T84
+A38	DecoupageAdmin T201
+A39	DecoupageAdmin T252
+A43	DecoupageAdmin T257
+A45	DecoupageAdmin T238
+A52	DecoupageAdmin T316
+A58	DecoupageAdmin T264
+T14	Misc 849 859	Provençaux
+T295	Misc 55203 55222	la guerre de Crimée
+T296	Misc 54979 54995	l’armée d’Orient

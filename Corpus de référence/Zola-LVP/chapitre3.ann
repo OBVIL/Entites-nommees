@@ -215,15 +215,11 @@ A57	ConstructionHumaine T107
 T109	Lieu 42478 42501	le marché des Innocents
 A56	ConstructionHumaine T109
 T114	Personnage 42762 42777	La mère Méhudin
-A59	Fonction T114
 A61	DecoupageAdmin T224
 T134	Personnage 43102 43117	La mère Méhudin
-A63	Fonction T134
 T203	Lieu 44641 44651	les Halles
 A66	ConstructionHumaine T203
 T205	Personnage 45186 45203	la belle Normande
-T210	Lieu 45284 45292	la Halle
-A69	ConstructionHumaine T210
 T211	Personnage 45468 45479	des Méhudin
 T212	Personnage 45496 45513	la belle Normande
 T214	Personnage 45598 45609	Les Méhudin
@@ -232,9 +228,7 @@ T218	Personnage 46827 46844	la belle Normande
 T219	Personnage 47383 47400	la belle Normande
 T220	Personnage 48043 48060	La belle Normande
 T223	Personnage 48847 48862	la mère Méhudin
-A86	Fonction T223
 T225	Personnage 49367 49382	La mère Méhudin
-A89	Fonction T225
 T232	Personnage 49430 49447	la belle Normande
 T233	Personnage 50225 50236	des Méhudin
 T236	Lieu 50523 50531	la Halle
@@ -249,12 +243,9 @@ A106	Naturel T21
 A109	LieuEvoque T21
 T34	Lieu 13268 13278	des Halles
 A115	ConstructionHumaine T34
-A117	LieuEvoque T43
 A122	DecoupageAdmin T77
 A123	LieuEvoque T77
-T237	Personnage 42844 42866	confrérie de la Vierge
-T165	Personnage 34760 34783	l’ami de Claude Lantier
-A9	Fonction T165
+T237	Misc 42844 42866	confrérie de la Vierge
 T14	Lieu 6069 6091	des côtes de la Guyane
 A60	Naturel T14
 T26	Lieu 10391 10399	la Seine
@@ -287,14 +278,9 @@ T239	Lieu 50460 50481	la rue de l’estrapade
 A16	ConstructionHumaine T239
 T243	Personnage 43087 43099	Mère de Dieu
 A18	PerEvoque T243
-T247	Lieu 40334 40379	des pavillons de la boucherie et de la Vallée
-A19	ConstructionHumaine T247
-T248	Personnage 44693 44700	Murillo
-A20	PerEvoque T248
-T251	Personnage 44781 44788	Murillo
-A21	PerEvoque T251
+T248	Misc 44693 44700	Murillo
+T251	Misc 44781 44788	Murillo
 A22	LieuEvoque T26
-A23	PerEvoque T72
 T178	Lieu 36512 36522	aux Halles
 A6	ConstructionHumaine T178
 T202	Lieu 40149 40159	des Halles
@@ -302,7 +288,17 @@ A17	ConstructionHumaine T202
 T204	Lieu 40569 40579	des Halles
 A13	ConstructionHumaine T204
 T78	Personnage 41542 41548	Louise
-T226	Personnage 43367 43385	La cadette, Claire
-A24	Fonction T226
 T32	Personnage 12866 12878	madame Quenu
-A25	PerEvoque T32
+T165	Personnage 34769 34783	Claude Lantier
+T253	Misc 39300 39318	la Clef des songes
+T247	Lieu 40370 40379	la Vallée
+A9	ConstructionHumaine T247
+A19	DecoupageAdmin T215
+A26	DecoupageAdmin T217
+A24	Role T114
+T226	Personnage 43379 43385	Claire
+T210	Lieu 45284 45299	la Halle au blé
+A27	ConstructionHumaine T210
+A28	Role T223
+A29	Role T225
+A20	LieuEvoque T43
