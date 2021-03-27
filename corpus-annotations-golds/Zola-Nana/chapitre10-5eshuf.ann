@@ -3,11 +3,9 @@ T2	Personnage 433 436	Zoé
 T3	Personnage 532 535	Zoé
 T4	Personnage 1128 1132	Nana
 T6	Personnage 1392 1407	le comte Muffat
-A1	Fonction T6
 T7	Personnage 1473 1477	Nana
 T8	Personnage 1583 1593	Vandeuvres
 T9	Personnage 1597 1611	les fils Hugon
-A2	Fonction T9
 T10	Personnage 3153 3157	Nana
 T11	Personnage 3453 3458	Satin
 T12	Lieu 3290 3297	Chamont
@@ -21,7 +19,6 @@ T16	Lieu 3979 3990	Batignolles
 A6	ConstructionHumaine T16
 T17	Personnage 4006 4011	Louis
 T18	Personnage 4444 4456	madame Lerat
-A7	Fonction T18
 T19	Lieu 4514 4532	avenue de Villiers
 A8	ConstructionHumaine T19
 T20	Personnage 4822 4826	Nana
@@ -41,16 +38,14 @@ A12	DecoupageAdmin T30
 T31	Personnage 6439 6443	Nana
 T32	Personnage 6647 6651	Nana
 T33	Personnage 6705 6718	La mère Boche
-A11	Fonction T33
 T34	Lieu 7172 7196	la rue de la Goutte-d’Or
 A13	ConstructionHumaine T34
 T35	Personnage 7837 7841	Nana
 T36	Personnage 7926 7934	François
 T37	Personnage 8118 8132	les fils Hugon
-A14	Fonction T37
 T38	Personnage 8151 8166	le comte Muffat
-A15	Fonction T38
 T39	Personnage 8207 8210	Zoé
 T40	Personnage 8364 8368	Nana
 T5	Personnage 990 1000	les Muffat
-A16	PerEvoque T5
+A1	Role T6
+A15	Role T38

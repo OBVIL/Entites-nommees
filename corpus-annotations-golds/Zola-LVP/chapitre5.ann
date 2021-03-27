@@ -5,7 +5,6 @@ T3	Personnage 203 220	La belle Normande
 T6	Personnage 497 501	Lisa
 T7	Personnage 738 744	Gavard
 T8	Personnage 1045 1059	l’abbé Roustan
-A4	Fonction T8
 T9	Lieu 1064 1078	Saint-Eustache
 A5	ConstructionHumaine T9
 T10	Personnage 1387 1393	Gavard
@@ -18,28 +17,21 @@ T15	Personnage 2317 2337	la belle charcutière
 T16	Lieu 2563 2590	la chapelle de sainte Agnès
 A9	ConstructionHumaine T16
 T17	Personnage 2888 2902	l’abbé Roustan
-A10	Fonction T17
 T18	Personnage 2938 2953	monsieur l’abbé
-A11	Fonction T18
 T19	Personnage 3877 3893	monsieur Lebigre
-A12	Fonction T19
 T20	Personnage 4406 4420	l’abbé Roustan
-A13	Fonction T20
 T21	Lieu 4322 4349	la chapelle de sainte Agnès
 A14	ConstructionHumaine T21
 T22	Personnage 5265 5269	Lisa
 T23	Personnage 6088 6094	Claire
-T24	Personnage 6064 6086	la cadette des Méhudin
 T25	Personnage 6561 6572	les Méhudin
 T26	Personnage 6599 6605	Claire
 T27	Lieu 6792 6819	la chapelle de sainte Agnès
 A15	ConstructionHumaine T27
 T28	Personnage 6872 6886	L’abbé Roustan
-A16	Fonction T28
 T29	Personnage 7014 7026	madame Quenu
 T30	Personnage 7506 7510	Lisa
 T31	Personnage 7536 7550	l’abbé Roustan
-A17	Fonction T31
 T32	Personnage 8149 8153	Dieu
 A18	PerEvoque T32
 T35	Personnage 9731 9738	Pauline
@@ -67,11 +59,9 @@ A3	ConstructionHumaine T5
 T13	Personnage 8349 8361	madame Quenu
 T33	Personnage 9623 9637	monsieur Quenu
 T39	Lieu 11054 11061	Cayenne
-A19	LieuEvoque T39
 T55	Personnage 11742 11746	Lisa
 T56	Personnage 12630 12639	Augustine
 T50	Personnage 12930 12946	monsieur Lebigre
-A21	LieuEvoque T54
 A24	DecoupageAdmin T39
 T57	Personnage 14016 14023	Florent
 T58	Lieu 14392 14397	Paris
@@ -81,7 +71,6 @@ T60	Personnage 14212 14223	les Méhudin
 T61	Personnage 16088 16095	Florent
 T62	Personnage 16456 16460	Lisa
 T63	Personnage 17123 17139	l’oncle Gradelle
-A26	Fonction T63
 T64	Personnage 17291 17296	Quenu
 T65	Personnage 17343 17350	Florent
 T66	Personnage 17666 17675	Augustine
@@ -143,20 +132,17 @@ T117	Personnage 30441 30448	Pauline
 T118	Personnage 30925 30943	mademoiselle Saget
 T119	Personnage 31339 31346	Pauline
 T120	Personnage 31615 31629	cousin Florent
-A39	Fonction T120
 T121	Personnage 31652 31670	Mademoiselle Saget
 T122	Personnage 31841 31846	Muche
 T123	Personnage 31860 31865	Muche
 T124	Personnage 32014 32025	ami Florent
-A40	Fonction T124
 T125	Personnage 32167 32174	Pauline
 T126	Personnage 32428 32442	cousin Florent
-A41	Fonction T126
 T127	Personnage 32578 32584	Mouton
 T128	Personnage 32602 32608	Mouton
 T129	Personnage 32713 32731	Mademoiselle Saget
 T130	Personnage 32878 32885	Pauline
-T131	Personnage 33033 33049	la rue Pirouette
+T131	Lieu 33033 33049	la rue Pirouette
 T132	Personnage 33051 33056	Muche
 T133	Personnage 33171 33175	Lisa
 T134	Personnage 33418 33423	Muche
@@ -179,10 +165,8 @@ A46	DecoupageAdmin T145
 A47	LieuEvoque T145
 T146	Lieu 36601 36609	Provence
 A48	LieuEvoque T146
-T147	Lieu 36853 36861	Chinoise
-A49	LieuEvoque T147
-T149	Lieu 36883 36894	Montmorency
-A51	LieuEvoque T149
+T147	Misc 36853 36861	Chinoise
+T149	Misc 36883 36894	Montmorency
 T151	Personnage 38636 38648	La Sarriette
 T152	Personnage 40334 40346	la Sarriette
 T153	Personnage 40451 40469	mademoiselle Saget
@@ -205,7 +189,6 @@ T168	Personnage 43816 43829	madame Lecœur
 T169	Personnage 44028 44040	La Sarriette
 T170	Personnage 44648 44666	Mademoiselle Saget
 T171	Personnage 44742 44754	oncle Gavard
-A54	Fonction T171
 T172	Personnage 44757 44770	Madame Lecœur
 T173	Personnage 45103 45121	mademoiselle Saget
 T174	Personnage 45316 45334	Mademoiselle Saget
@@ -217,8 +200,6 @@ T177	Lieu 45896 45905	Normandie
 A57	DecoupageAdmin T177
 A58	LieuEvoque T177
 T47	Personnage 12191 12202	ami Florent
-A50	Fonction T47
-T116	Personnage 30353 30357;30369 30376	deux Méhudin
 T148	Lieu 3550 3564	la rue du Jour
 A59	ConstructionHumaine T148
 T178	Lieu 3661 3671	des Halles
@@ -231,36 +212,48 @@ T181	Lieu 7314 7328	la rue du Jour
 A63	ConstructionHumaine T181
 T34	Personnage 10003 10009	Vierge
 A7	PerEvoque T34
-A64	PerEvoque T40
 T44	Lieu 11206 11216	des Halles
-A20	LieuEvoque T44
 A65	ConstructionHumaine T44
-A66	PerEvoque T46
-A67	PerEvoque T56
-A68	PerEvoque T50
 T182	Lieu 13295 13305	des Halles
 A69	ConstructionHumaine T182
 T183	Lieu 13547 13557	les Halles
 A70	ConstructionHumaine T183
 T184	Personnage 13661 13665	Lisa
-A71	PerEvoque T59
-A72	PerEvoque T60
 T185	Lieu 15273 15278	Paris
 A73	LieuEvoque T185
 T186	Lieu 15470 15486	l’Hôtel de Ville
 A74	ConstructionHumaine T186
 T187	Personnage 15504 15511	Florent
 T188	Personnage 15799 15803	Lisa
-A75	PerEvoque T63
 T189	Lieu 18894 18904	des Halles
 A76	ConstructionHumaine T189
 T83	Lieu 21628 21638	des Halles
-A29	LieuEvoque T83
-A77	LieuEvoque T84
 T93	Lieu 23448 23471	du quartier Saint-Denis
 T190	Personnage 25529 25534	Muche
 T109	Lieu 27324 27347	du square des Innocents
 T112	Lieu 29127 29137	des Halles
 A35	ConstructionHumaine T112
 T191	Lieu 36458 36467	Montreuil
-A37	LieuEvoque T191
+A4	Role T17
+A10	Role T8
+A11	Role T18
+A12	Role T28
+A13	Role T31
+T24	Personnage 6075 6086	des Méhudin
+A16	Role T47
+A17	Role T63
+A19	DecoupageAdmin T93
+A20	DecoupageAdmin T109
+T116	Personnage 30369 30376	Méhudin
+A26	Role T120
+A39	Role T124
+A40	Role T126
+A41	ConstructionHumaine T131
+A37	DecoupageAdmin T146
+T150	Misc 36929 36942	les Anglaises
+T195	Misc 37466 37477	les canadas
+T192	Misc 37610 37622	l’angleterre
+T193	Misc 46821 46834	des hollandes
+T194	Misc 46733 46743	un chester
+T196	Misc 47375 47389	Des Port-Salut
+A21	ConstructionHumaine T83

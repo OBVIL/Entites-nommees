@@ -4,7 +4,6 @@ T3	Personnage 344 351	Louiset
 T4	Personnage 400 409	Prullière
 T5	Personnage 542 547	Satin
 T6	Personnage 563 584	le marquis de Chouard
-A1	Fonction T6
 T7	Personnage 746 751	Satin
 T8	Personnage 1164 1168	Nana
 T9	Personnage 1249 1258	la Tricon
@@ -28,7 +27,6 @@ T25	Personnage 4317 4321	Nana
 T26	Personnage 4919 4923	Nana
 T27	Personnage 5046 5050	Bosc
 T28	Personnage 5089 5101	madame Lerat
-A5	Fonction T28
 T29	Personnage 5253 5257	Nana
 T30	Personnage 5646 5655	Bordenave
 T31	Personnage 5874 5881	Simonne
@@ -61,11 +59,13 @@ T57	Personnage 10886 10890	Bosc
 A9	PerEvoque T56
 #4	AnnotatorNotes T56	Je pense qu'on fait référence à cette actrice réellement existée: https://fr.wikipedia.org/wiki/Mademoiselle_Mars
 T17	Personnage 2073 2088	du comte Muffat
-A2	Fonction T17
 T58	Personnage 6101 6107	Fontan
 T51	Personnage 9377 9382	Laure
-A6	PerEvoque T51
 T52	Lieu 9410 9425	rue des Martyrs
 A7	ConstructionHumaine T52
 T59	Personnage 10019 10025	diable
 A10	PerEvoque T59
+T60	Lieu 5614 5626	des Variétés
+A1	ConstructionHumaine T60
+A2	Role T6
+A5	Role T17

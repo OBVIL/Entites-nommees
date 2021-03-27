@@ -65,8 +65,7 @@ T59	Personnage 12076 12084	Marjolin
 T60	Lieu 12496 12513	le quartier Latin
 A14	ConstructionHumaine T60
 T61	Lieu 12518 12538	la rue Saint-Jacques
-A15	LieuEvoque T61
-T62	Personnage 12541 12556	la rue Dauphine
+T62	Lieu 12541 12556	la rue Dauphine
 T63	Lieu 12567 12580	au Luxembourg
 A17	ConstructionHumaine T63
 T64	Personnage 12582 12590	Marjolin
@@ -158,15 +157,12 @@ A25	ConstructionHumaine T139
 T110	Lieu 27083 27089	Halles
 A31	ConstructionHumaine T110
 T17	Personnage 2737 2744	Thérèse
-T93	Lieu 21559 21562;21571 21577	les Halles
-A26	ConstructionHumaine T93
 T2	Lieu 49 72	au marché des Innocents
 A1	ConstructionHumaine T2
 T3	Lieu 1214 1224	des Halles
 A2	ConstructionHumaine T3
 T48	Lieu 8599 8609	des Halles
 A5	ConstructionHumaine T48
-A20	LieuEvoque T78
 T89	Lieu 19177 19187	des Halles
 A12	ConstructionHumaine T89
 T92	Lieu 21103 21123	des Halles centrales
@@ -175,3 +171,31 @@ T94	Lieu 24057 24060;24069 24075	les Halles
 A27	ConstructionHumaine T94
 T102	Lieu 34188 34208	des Halles centrales
 A29	ConstructionHumaine T102
+A33	Role T7
+A41	Role T9
+A42	Role T11
+A43	Role T12
+A44	Role T14
+A45	Role T23
+A46	Role T29
+A47	Role T33
+A48	Role T38
+A49	Role T51
+A50	Role T52
+A51	Role T55
+A52	ConstructionHumaine T62
+A53	Role T68
+A54	ConstructionHumaine T88
+T93	Lieu 21559 21577	les grandes Halles
+A26	ConstructionHumaine T93
+T128	Lieu 21601 21619	les grandes Halles
+A55	ConstructionHumaine T128
+A56	Role T98
+A57	Role T99
+A58	Role T105
+A59	DecoupageAdmin T130
+A60	Role T20
+A61	Role T42
+A62	Role T66
+A15	ConstructionHumaine T61
+A20	DecoupageAdmin T78

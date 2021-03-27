@@ -23,9 +23,7 @@ T29	Personnage 6274 6283	Balthazar
 T30	Personnage 6341 6348	Florent
 T31	Lieu 6382 6387	Paris
 T32	Lieu 6441 6448	Cayenne
-A13	LieuEvoque T32
 T33	Lieu 6522 6542	la Guyane holandaise
-A14	ConstructionHumaine T33
 T34	Lieu 6846 6854	au Havre
 T35	Lieu 6937 6942	Rouen
 T36	Lieu 6974 6979	Rouen
@@ -36,8 +34,6 @@ T40	Lieu 7691 7701	Courbevoie
 T41	Lieu 7730 7735	Paris
 T42	Lieu 7939 7957	le pont de Neuilly
 A15	ConstructionHumaine T42
-T43	Lieu 8007 8012	Seine
-A16	Naturel T43
 T44	Lieu 8181 8186	Paris
 T45	Personnage 8754 8761	Florent
 T46	Lieu 8820 8825	Paris
@@ -72,7 +68,6 @@ T82	Lieu 19081 19091	Les Halles
 A33	ConstructionHumaine T82
 T83	Personnage 19112 19127	Madame François
 T84	Personnage 19141 19160	la mère Chantemesse
-A34	Fonction T84
 T85	Personnage 19214 19221	Florent
 T86	Lieu 5766 5771	Paris
 T97	Personnage 21424 21431	Florent
@@ -113,7 +108,6 @@ T23	Lieu 16316 16333	la rue Montmartre
 A11	ConstructionHumaine T23
 T56	Lieu 16339 16345;16346 16357	la rue Montorgueil
 A18	ConstructionHumaine T56
-A21	Fonction T73
 T66	Lieu 16567 16585	la rue Montorgueil
 A22	ConstructionHumaine T66
 T67	Lieu 16685 16708	le boulevard Montmartre
@@ -141,10 +135,7 @@ T60	Lieu 14837 14851	Saint-Eustache
 A20	ConstructionHumaine T60
 T15	Lieu 316 334	au pont de Neuilly
 A38	ConstructionHumaine T15
-A39	ConstructionHumaine T34
-T87	Personnage 15116 15129	aux Parisiens
-T90	Lieu 20165 20196	une casemate du fort de Bicêtre
-A37	ConstructionHumaine T90
+T87	Misc 15116 15129	aux Parisiens
 T91	Lieu 21640 21648	au Havre
 A40	DecoupageAdmin T91
 A41	DecoupageAdmin T98
@@ -152,6 +143,36 @@ A42	ConstructionHumaine T101
 T92	Lieu 22598 22608	des Halles
 A43	ConstructionHumaine T92
 T93	Personnage 22706 22725	La mère Chantemesse
-A45	Fonction T93
 T94	Lieu 27948 27958	des Halles
 A46	ConstructionHumaine T94
+A47	DecoupageAdmin T17
+A48	DecoupageAdmin T18
+A49	DecoupageAdmin T86
+A50	DecoupageAdmin T25
+A51	DecoupageAdmin T32
+A14	DecoupageAdmin T33
+A53	DecoupageAdmin T35
+A39	DecoupageAdmin T34
+A54	DecoupageAdmin T36
+A55	DecoupageAdmin T37
+A56	DecoupageAdmin T31
+A57	DecoupageAdmin T38
+A58	DecoupageAdmin T39
+A59	DecoupageAdmin T40
+A60	DecoupageAdmin T41
+A61	DecoupageAdmin T44
+A62	DecoupageAdmin T46
+A63	DecoupageAdmin T48
+T95	Lieu 16046 16058	Halle au blé
+A64	ConstructionHumaine T95
+T43	Lieu 8004 8006;8007 8012	la Seine
+A16	Naturel T43
+A21	Role T73
+A34	Role T84
+T90	Lieu 20178 20196	du fort de Bicêtre
+A37	ConstructionHumaine T90
+A45	Role T93
+A66	DecoupageAdmin T107
+A67	DecoupageAdmin T109
+A68	DecoupageAdmin T111
+T96	Misc 20097 20132	au Dépôt de la préfecture de police

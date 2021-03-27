@@ -58,7 +58,6 @@ T51	Personnage 8505 8512	Florent
 T52	Personnage 8760 8767	Florent
 T54	Personnage 9464 9470	Claude
 T55	Lieu 9562 9569	Cayenne
-A19	LieuEvoque T55
 T56	Personnage 9772 9779	Florent
 T57	Personnage 9910 9916	Claude
 T58	Lieu 10058 10075	le Palais-Bourbon
@@ -122,27 +121,22 @@ T113	Personnage 20115 20133	mademoiselle Saget
 T114	Lieu 4142 4147	Paris
 A25	DecoupageAdmin T114
 T31	Personnage 3356 3368	ami Marjolin
-T81	Personnage 9448 9454	Diable
-A26	PerEvoque T81
-T99	Personnage 18470 18472;18481 18488	la Méhudin
-T102	Personnage 14124 14126;14135 14142	la Méhudin
 T3	Lieu 547 564	du Palais-Bourbon
 A1	ConstructionHumaine T3
 T14	Lieu 1182 1198	du nord de Paris
-A16	LieuEvoque T114
 T53	Lieu 8913 8926	des Tuileries
 A18	ConstructionHumaine T53
-A27	LieuEvoque T53
-A28	PerEvoque T63
-A29	PerEvoque T75
-A30	PerEvoque T89
-A31	PerEvoque T108
-A32	PerEvoque T111
 T115	Lieu 1120 1132	Gros-Caillou
-A33	LieuEvoque T115
 A17	Role T31
 T12	Lieu 2972 2982	aux Halles
 A14	DecoupageAdmin T12
 T24	Lieu 3115 3124	la Vallée
-A8	LieuEvoque T24
 A34	Role T91
+A35	DecoupageAdmin T2
+T27	Misc 220 239	Le Corps législatif
+A36	ConstructionHumaine T4
+A37	ConstructionHumaine T5
+A38	ConstructionHumaine T16
+A39	Naturel T19
+T102	Personnage 14135 14142	Méhudin
+T99	Personnage 18481 18488	Méhudin

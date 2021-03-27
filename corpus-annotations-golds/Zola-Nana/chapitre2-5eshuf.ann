@@ -37,8 +37,6 @@ T38	Personnage 5514 5527	madame Maloir
 T39	Personnage 5590 5594	Nana
 T40	Personnage 5997 6005	Daguenet
 T41	Personnage 6007 6020	Madame Maloir
-T43	Personnage 6607 6625	marquis de Chouard
-A3	Fonction T43
 T45	Personnage 6739 6752	monsieur Paul
 T46	Personnage 6942 6946	Nana
 T47	Personnage 7001 7014	madame Maloir
@@ -59,13 +57,13 @@ T62	Personnage 10486 10490	Nana
 T63	Personnage 10537 10550	madame Maloir
 T64	Personnage 10660 10663	Zoé
 T10	Personnage 1585 1606	le marquis de Chouard
-A1	Fonction T10
 T11	Personnage 1610 1625	le comte Muffat
-A2	Fonction T11
 T42	Lieu 6341 6353	aux Variétés
 T65	Personnage 6604 6625	du marquis de Chouard
-A6	Fonction T65
 T44	Personnage 6629 6656	du comte Muffat de Beuville
-A4	Fonction T44
 T59	Personnage 9746 9761	Le comte Muffat
-A5	Fonction T59
+A1	Role T10
+A2	Role T11
+A3	Role T65
+A4	Role T44
+A5	Role T59
