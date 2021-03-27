@@ -9,41 +9,29 @@ Le travail effectué consiste à
 
 ### Arbre de fichiers
 ```
-├── Corpus de re201ference        <- contient les romans en format texte
+├── corpus-annotations-golds		<-contient les textes et annotations finis
 │   ├── Maupassant-Bel-ami
 │   ├── Zola-LVP
 │   └── Zola-Nana
-├── Evaluation                    <- les fichiers concernés avec comparison entre les predictions et realité. 
-│   ├── L3i\ NERC-EL
-│   │   ├── Gold
-│   │   ├── Predictions
-│   │   └── Predictions_vs_Gold   <- fichiers tsv énumérants les predictions et vrai balises pour chaque mot
-│   └── Spacy-Stanza
+├── corpus-plusieurs-annotateurs	<-les annotations des annotateurs plusiers pour comparison
+│   ├── lvp
+│   │   ├── lvp-zola-c
+│   │   └── lvp-zola-m
+│   └── nana
+│       ├── nana-zola-c
+│       └── nana-zola-m
+├── evaluation						<-les annotations automatiques, et scores de précision
+│   ├── L3i_NERC-EL
+│   │   └── comparer-predictions-et-gold <-fichiers avec annotations golds et automatiques en format tsv
+│   └── Spacy-Stanza				<-scores de précision et rapell générés précédemment
 │       ├── Bel-Ami-Maupassant
-│       │   ├── LOC
-│       │   ├── MISC
-│       │   └── PER
 │       ├── LVP-Zola
-│       │   ├── LOC
-│       │   ├── MISC
-│       │   └── PER
 │       └── Nana-Zola
-│           ├── LOC
-│           ├── MISC
-│           └── PER
-├── Guide\ d'annotation
-│   └── Inter-Annotateurs
-│       ├── annotateur-c
-│       │   ├── lvp-zola-c
-│       │   └── nana-zola-c
-│       └── annotateur-m
-│           ├── lvp-zola-m
-│           └── nana-zola-m
-├── Publication
-└── Scripts
-    ├── conversion                 <- touts les scripts sur conversion des formats
-    └── evaluation                 <- touts les scripts pour mesurant le suces
+├── guide-de-annotation				<-lien vers les instructions données aux annotateurs
+├── publications
+└── scripts							<-scripts qui génèrent des scores et predictions, et convertissent entre les fichiers fomats
 ```
+
 ### Les Scripts
 
 #### brat-to-csv-interAnnotateurs.py
@@ -65,10 +53,6 @@ XXX
     ├── chapitre1.ann
     ├── chapitre1.txt
 ```
-#### calcul-score.py
-Calcul du score inter-annotateur. Prend en entrée les fichiers créés par brat-to-csv-interAnnotateurs.py.
-À lancer: <code>python calcul-score.py <input_file></code>
-
 #### comparer-gold-et-predictions.pl
 Regroupez les annotations de l'étalon-or avec les prévisions. Générer des fichiers TSV.
 il faut que les fichiers sont rangés dans les dossiers intitulés Gold\_X et Predictions\_X.
@@ -82,18 +66,21 @@ input_dossier
  ```
  Usage: <code>perl comparer-gold-et-predictions.pl <input_dossier> </code>
  Les fichiers de sortie sont déposés dans le même dossier où se trouvent les dossiers d'entrée.
+Par défaut, le contenu du fichier evaluation/L3i_NERC-EL/comparer-predictions-et-gold/ est converti.
 
 #### evaluer_predictions.py
 Ce script utilise nervaluate pour calculer la précision et le rappel
 du marquage automatique des entités nommées par rapport à un étalon-or. 
 Il faut fournir les fichiers à évaluer sous la forme suivante:
 ```
-TOKEN   NE-COARSE-LIT   GOLD
-Deux    O   O
-mois    O   O
+TOKEN   NE-COARSE-LIT   GOLD	VALIDITY
+Deux    O   O	1
+mois    O   O	1
 ```
 Les fichiers sous cette forme peuvent être creer par comparer-gold-et-predictions.pl.
 Usage: <code>python evaluer-predictions.py <dossier_input> <fichier_output></code>
+Par défaut, le contenu du fichier <code>/evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_vs_Gold_belAmi/</code> sont évalués.
+
 
 #### metrics.py
 Calcul des métriques précision / rappel / fmesure sur deux textes donnés.

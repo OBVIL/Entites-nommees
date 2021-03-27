@@ -3,9 +3,9 @@ Ce script utilise nervaluate pour calculer la précision et le rappel
 du marquage automatique des entités nommées par rapport à un étalon-or. 
 Il recherche un dossier appelé "Predictions", qui doit contenir tous les fichiers à évaluer sous la forme suivante:
 
-TOKEN   NE-COARSE-LIT   GOLD
-Deux    O   O
-mois    O   O
+TOKEN   NE-COARSE-LIT   GOLD   VALIDITY
+Deux    O   O   1
+mois    O   O   1
 ...
 
 Les scores sont générés pour chaque fichier et enregistrés dans un dossier appelé "Scores".
@@ -15,16 +15,20 @@ Les scores sont générés pour chaque fichier et enregistrés dans un dossier a
 import os
 import glob
 from nervaluate import Evaluator
+import argparse
 
+# Initialize the parser
 parser = argparse.ArgumentParser(
-    description="Calculer la précision et le rappel du marquage automatique des entités nommées par rapport à un étalon-or."
+    description="utilise nervaluate pour calculer la précision et le rappel"
 )
-parser.add_argument('input', help="The input dossier")
-parser.add_argument('output', help="The output file")
 
+# Add the positional parameters
+parser.add_argument('input', help="The input folder", default="../evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_vs_Gold_belAmi/*", nargs='?', const="../evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_vs_Gold_belAmi/*")
+parser.add_argument('output', help="The output ", default="../precision-et-rappel.csv", nargs='?', const="../precision-et-rappel.csv")
 arguments = parser.parse_args()
-input_dossier = os.listdir(arguments.input)
+
 output_file = arguments.output
+corpus = arguments.input
 
 def pretty_print(result, outfile=None):
     """Affichage plus beau que par défaut"""
@@ -44,8 +48,8 @@ def pretty_print(result, outfile=None):
     for i, row in enumerate(grid):
         print(y_name[i], *map(str, row), sep='\t', file=outfile)
 
-for input_file in input_dossier:
-    '''Passez en boucle dans le dossier'''
+for input_file in glob.iglob(corpus):
+    '''Passez en boucle dans le dossier "Prédictions"'''
     st_annotation = []
     gold_annotation = []
     # load the predictions and gold standard tags
@@ -55,7 +59,7 @@ for input_file in input_dossier:
             if not line:
                 continue
             try:
-                token, stanza, gold = line.split('\t')
+                token, stanza, gold, validity = line.split('\t')
             except ValueError:
                 print(line)
             stanza = stanza.upper()
