@@ -1,0 +1,11 @@
+Measure	ent_type	partial	strict	exact
+correct	0	12	0	12
+incorrect	12	0	12	0
+partial	0	0	0	0
+missed	34	34	34	34
+spurious	61	61	61	61
+possible	46	46	46	46
+actual	73	73	73	73
+precision	0.0	0.164	0.0	0.164
+recall	0.0	0.261	0.0	0.261
+f1	0	0.202	0	0.202
