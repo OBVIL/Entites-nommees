@@ -20,6 +20,7 @@ Le travail effectué consiste à
 │   └── nana
 │       ├── nana-zola-c
 │       └── nana-zola-m
+├── documents						<-les instructions données aux annotateurs
 ├── evaluation						<-les annotations automatiques, et scores de précision
 │   ├── L3i_NERC-EL
 │   │   └── comparer-predictions-et-gold <-fichiers avec annotations golds et automatiques en format tsv
@@ -27,7 +28,6 @@ Le travail effectué consiste à
 │       ├── Bel-Ami-Maupassant
 │       ├── LVP-Zola
 │       └── Nana-Zola
-├── guide-de-annotation				<-lien vers les instructions données aux annotateurs
 ├── publications
 └── scripts							<-scripts qui génèrent des scores et predictions, et convertissent entre les fichiers fomats
 ```
@@ -53,6 +53,10 @@ XXX
     ├── chapitre1.ann
     ├── chapitre1.txt
 ```
+#### calcul-score.py
+Calcul du score inter-annotateur. Prend en entrée les fichiers créés par brat-to-csv-interAnnotateurs.py.
+À lancer: <code>python calcul-score.py input_file </code>
+
 #### comparer-gold-et-predictions.pl
 Regroupez les annotations de l'étalon-or avec les prévisions. Générer des fichiers TSV.
 il faut que les fichiers sont rangés dans les dossiers intitulés Gold\_X et Predictions\_X.
