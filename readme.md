@@ -5,7 +5,7 @@ Ce travail, effectué entre 2019 et 2020 est amorcé par Motasem Alrahabi (OBVIL
 Le travail effectué consiste à 
 1. Définir un guide d'annotation manuelle des entités nommées pour les textes littéraire (romans...),
 2. créer un corpus de référence à partir, dans un premier temps, d'une annotation manuelle de trois romans: Le ventre de Paris de Zola, Nana de Zola et Bel ami de Maupassant,
-3. Evaluer l'accord inter-annotateur sur un sous-ensemble du corpus avec deux annotateurs externes experts du domaine littéraire,
+3. Evaluer l'accord inter-annotateur sur un sous-ensemble du corpus avec deux annotateurs experts du domaine littéraire en vue d'assurer une homogénéité au niveau des annotations,
 4. tester et évaluer trois modèles de REN: Spacy, Stanza et L3i NERC-EL.
 
 ### Arbre de fichiers
