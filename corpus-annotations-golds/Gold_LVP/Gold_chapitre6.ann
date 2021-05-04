@@ -1,0 +1,142 @@
+T1	Personnage 51 58	Florent
+T2	Lieu 183 188	Paris
+T4	Lieu 757 772	la rue de Lille
+T5	Lieu 774 796	la rue de l’Université
+T6	Lieu 798 817	la rue de Bourgogne
+A2	ConstructionHumaine T6
+T7	Lieu 819 841	la rue Saint-Dominique
+A3	ConstructionHumaine T7
+T9	Lieu 999 1014	le quai d’Orsay
+A5	ConstructionHumaine T9
+T10	Personnage 521 528	Florent
+T11	Lieu 1150 1166	le Champ-de-Mars
+A6	ConstructionHumaine T11
+T13	Lieu 1217 1229	la Madeleine
+A7	ConstructionHumaine T13
+T15	Lieu 1323 1357	les rues du faubourg Saint-Germain
+A9	ConstructionHumaine T15
+T8	Lieu 862 887	l’esplanade des Invalides
+A4	ConstructionHumaine T8
+T16	Lieu 1383 1401	les Champs-Élysées
+T17	Lieu 1688 1707	la rue de Bourgogne
+A10	ConstructionHumaine T17
+T18	Lieu 1711 1733	la rue de l’Université
+A11	ConstructionHumaine T18
+T19	Lieu 1783 1791	la Seine
+T20	Lieu 2251 2274	le jardin des Tuileries
+A12	ConstructionHumaine T20
+T21	Lieu 2601 2617	la rue de Rivoli
+A13	ConstructionHumaine T21
+T22	Personnage 2685 2700	madame François
+T23	Personnage 2955 2962	Florent
+T25	Lieu 2987 3005	la rue Vauvilliers
+A15	ConstructionHumaine T25
+T26	Personnage 3030 3044	Claude Lantier
+T28	Personnage 3193 3201	Marjolin
+T29	Personnage 3204 3211	Florent
+T30	Personnage 3321 3327	Claude
+T32	Personnage 3724 3739	monsieur Gavard
+T33	Personnage 4015 4021	Claude
+T34	Personnage 4246 4254	Marjolin
+T35	Personnage 4423 4431	Marjolin
+T36	Personnage 4436 4442	Cadine
+T37	Personnage 5031 5037	Claude
+T38	Personnage 5183 5189	Cadine
+T39	Personnage 5614 5621	Florent
+T40	Personnage 6006 6012	Cadine
+T41	Personnage 6320 6326	Claude
+T42	Personnage 6355 6361	Cadine
+T43	Personnage 6653 6661	Marjolin
+T44	Personnage 6686 6694	Marjolin
+T45	Personnage 6751 6757	Claude
+T46	Personnage 6761 6768	Florent
+T47	Personnage 7588 7596	Marjolin
+T48	Personnage 7974 7980	Cadine
+T49	Personnage 8260 8268	Marjolin
+T50	Personnage 8477 8483	Claude
+T51	Personnage 8505 8512	Florent
+T52	Personnage 8760 8767	Florent
+T54	Personnage 9464 9470	Claude
+T55	Lieu 9562 9569	Cayenne
+T56	Personnage 9772 9779	Florent
+T57	Personnage 9910 9916	Claude
+T58	Lieu 10058 10075	le Palais-Bourbon
+A20	DecoupageAdmin T58
+T59	Lieu 10082 10100	les Champs-Élysées
+A21	ConstructionHumaine T59
+T60	Lieu 10388 10407	la rue du Pont-Neuf
+A22	ConstructionHumaine T60
+T61	Personnage 10477 10484	Auguste
+T62	Personnage 10684 10691	Florent
+T63	Personnage 10792 10810	les Quenu-Gradelle
+T64	Personnage 10925 10941	monsieur Florent
+T65	Personnage 10830 10837	Auguste
+T67	Personnage 11189 11200	la Normande
+T66	Personnage 11048 11061	La belle Lisa
+T68	Personnage 11604 11617	la belle Lisa
+T69	Personnage 11666 11671	Quenu
+T70	Personnage 11821 11828	Auguste
+T71	Personnage 11906 11911	Quenu
+T72	Personnage 12043 12050	Auguste
+T73	Personnage 12085 12090	Quenu
+T74	Lieu 12360 12373	rue Pirouette
+A23	ConstructionHumaine T74
+T75	Personnage 12347 12358	les Méhudin
+T76	Personnage 12480 12487	Florent
+T77	Personnage 12518 12535	la belle Normande
+T78	Personnage 12654 12665	Les Méhudin
+T79	Personnage 12954 12965	la Normande
+T80	Personnage 14106 14113	Florent
+T82	Personnage 14441 14448	Florent
+T83	Personnage 14684 14691	Florent
+T84	Personnage 14859 14866	Florent
+T85	Personnage 15664 15669	Muche
+T86	Personnage 15862 15873	la Normande
+T87	Personnage 15896 15901	Muche
+T88	Personnage 16248 16259	la Normande
+T89	Personnage 16509 16514	Muche
+T90	Personnage 16721 16739	mademoiselle Saget
+T91	Personnage 16839 16854	la mère Méhudin
+T92	Personnage 17396 17402	Claire
+T93	Personnage 17611 17622	la Normande
+T94	Personnage 17567 17585	Mademoiselle Saget
+T95	Personnage 17799 17805	Claire
+T96	Personnage 18053 18064	la Normande
+T97	Personnage 18101 18107	Claire
+T98	Personnage 18452 18457	Muche
+T100	Personnage 18498 18516	mademoiselle Saget
+T101	Personnage 18548 18554	Claire
+T103	Personnage 18683 18694	La Normande
+T104	Personnage 18730 18748	mademoiselle Saget
+T105	Personnage 19150 19161	la Normande
+T106	Personnage 19363 19381	Mademoiselle Saget
+T107	Lieu 19437 19453	la rue Pirouette
+A24	ConstructionHumaine T107
+T108	Personnage 19514 19528	Quenu-Gradelle
+T109	Personnage 19600 19604	Lisa
+T110	Personnage 19659 19664	Quenu
+T111	Personnage 19809 19820	les Méhudin
+T112	Personnage 20085 20096	la Normande
+T113	Personnage 20115 20133	mademoiselle Saget
+T114	Lieu 4142 4147	Paris
+A25	DecoupageAdmin T114
+T31	Personnage 3356 3368	ami Marjolin
+T3	Lieu 547 564	du Palais-Bourbon
+A1	ConstructionHumaine T3
+T14	Lieu 1182 1198	du nord de Paris
+T53	Lieu 8913 8926	des Tuileries
+A18	ConstructionHumaine T53
+T115	Lieu 1120 1132	Gros-Caillou
+A17	Role T31
+T12	Lieu 2972 2982	aux Halles
+A14	DecoupageAdmin T12
+T24	Lieu 3115 3124	la Vallée
+A34	Role T91
+A35	DecoupageAdmin T2
+T27	Misc 220 239	Le Corps législatif
+A36	ConstructionHumaine T4
+A37	ConstructionHumaine T5
+A38	ConstructionHumaine T16
+A39	Naturel T19
+T102	Personnage 14135 14142	Méhudin
+T99	Personnage 18481 18488	Méhudin
