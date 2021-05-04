@@ -21,16 +21,16 @@ Le travail effectué consiste à
 │   └── nana
 │       ├── nana-zola-c
 │       └── nana-zola-m
-├── documents						<-les instructions données aux annotateurs
-├── evaluation						<-les annotations automatiques, et scores de précision
+├── documents				<-les instructions données aux annotateurs
+├── evaluation				<-les annotations automatiques, et scores de précision
 │   ├── L3i_NERC-EL
 │   │   └── comparer-predictions-et-gold <-fichiers avec annotations golds et automatiques en format tsv
-│   └── Spacy-Stanza				<-scores de précision et rapell générés précédemment
+│   └── Spacy-Stanza			<-scores de précision et rapell générés précédemment
 │       ├── Bel-Ami-Maupassant
 │       ├── LVP-Zola
 │       └── Nana-Zola
 ├── publications
-└── scripts							<-scripts qui génèrent des scores et predictions, et convertissent entre les fichiers fomats
+└── scripts				<-scripts qui génèrent des scores et predictions, et convertissent entre les fichiers fomats
 ```
 
 ### Les Scripts
