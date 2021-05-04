@@ -3,9 +3,10 @@ Ce dépôt contient toutes les données du projet des Entités nommées du labex
 Ce travail, effectué entre 2019 et 2020 est amorcé par Motasem Alrahabi (OBVIL), en collaboration avec Carmen Brando (EHESS), Francesca Frontini (ILC, Italie) et des membres de l'équipe OBVIL: Romain Jalabert, Arthur Provenier, Marguerite Bordry, Camille Koskas et James Gawley.
 
 Le travail effectué consiste à 
-1. mettre en place un guide d'annotation manuelle pour les entités nommées pour les textes littéraire (romans...)
-2. créer un corpus de référence à partir, dans un premier temps, d'une annotation manuelle de trois romans: Le ventre de Paris de Zola, Nana de Zola et Bel ami de Maupassant.
-3. tester et évaluer trois modèles de REN: Spacy, Stanza et L3i NERC-EL.
+1. Définir un guide d'annotation manuelle des entités nommées pour les textes littéraire (romans...),
+2. créer un corpus de référence à partir, dans un premier temps, d'une annotation manuelle de trois romans: Le ventre de Paris de Zola, Nana de Zola et Bel ami de Maupassant,
+3. Evaluer l'accord inter-annotateur sur un sous-ensemble du corpus avec deux annotateurs experts du domaine littéraire en vue d'assurer une homogénéité au niveau des annotations,
+4. tester et évaluer trois modèles de REN: Spacy, Stanza et L3i NERC-EL.
 
 ### Arbre de fichiers
 ```
