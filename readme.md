@@ -11,9 +11,9 @@ Le travail effectué consiste à
 ### Arbre de fichiers
 ```
 ├── corpus-annotations-golds		<-contient les textes et annotations finis
-│   ├── Maupassant-Bel-ami
-│   ├── Zola-LVP
-│   └── Zola-Nana
+│   ├── Gold_belAmi
+│   ├── Gold_LVP
+│   └── Gold-Nana
 ├── corpus-plusieurs-annotateurs	<-les annotations des annotateurs plusiers pour comparison
 │   ├── lvp
 │   │   ├── lvp-zola-c
@@ -35,30 +35,49 @@ Le travail effectué consiste à
 
 ### Les Scripts
 
-#### brat-to-csv-interAnnotateurs.py
+#### 0-transformer-brat-a-bios.pl
+Transformer les fichiers dans /corpus-annotations-gold du format .ann en format .bios.tsv. 
+Ceci n'est nécessaire que lorsque les annotations gold pour LVP et Nana ont été mises à jour. 
+L'option --replace supprime automatiquement les anciens fichiers .bios.tsv 
+situé sous évaluation/L3i-NERC-EL/comparateur-prédictions-et-or afin que 
+ils puissent être utilisé par le script "comparer-gold-et-predictions.pl".
+
+À lancer: <code> perl 0-transformer-brat-a-bios.pl <dossier_corpus> [OPTIONS]</code>
+Par example:
+<code> perl 0-transformer-brat-a-bios.pl corpus-annotations-golds/Gold_LVP/* --replace</code>
+
+#### 1-convertir-conll2002-a-csv.py
 Convertir la sortie de Brat en un csv utilisable par le script
 de calcul du score inter-annotateurs.
 Sous-entend que les fichiers sont dans un dossier avec pour nom le titre du corpus.
-À lancer: <code> python brat-to-csv-interAnnotateurs.py <dossier_corpus> <fichier_output></code>
-
-Et à l'intérieur, les dossiers extraits de Brat au format "nomCorpus-auteur-nomAnnotateur"
-Par example:
-<code> python brat-to-csv-interAnnotateurs.py ../lvp ../lvp/output.csv</code>
+Et à l'intérieur, les dossiers extraits de Connll 2002 au format "nomCorpus-auteur-nomAnnotateur"
 ```
-XXX
-├── XXX-zola-camille
-│   ├── chapitre1.ann
-│   ├── chapitre1.txt
-   └── chapitre6.txt
-└── XXX-zola-marguerite
-    ├── chapitre1.ann
-    ├── chapitre1.txt
+lvp
+├── lvp-zola-camille
+│   ├── chapitre1.conll
+│   ├── chapitre2.conll
+└── lvp-zola-marguerite
+    ├── chapitre1.conll
+    ├── chapitre2.conll
 ```
-#### calcul-score.py
-Calcul du score inter-annotateur. Prend en entrée les fichiers créés par brat-to-csv-interAnnotateurs.py.
-À lancer: <code>python calcul-score.py input_file </code>
 
-#### comparer-gold-et-predictions.pl
+À lancer: <code> perl 1-convertir-conll2002-a-csv.py <dossier_input> <dossier_output> </code>
+
+#### 2-calcul-accord-interannotateur-de-csv.py
+Calcul du score inter-annotateur. Prend en entrée les fichiers créés par 1-convertir-conll2002-a-csv.py.
+À lancer: <code>python 1-convertir-conll2002-a-csv.py input_file </code>
+
+#### 3-annotate-Spacy.py
+Utilizer Spacy pour generer les annotations automatiques ([voir le Spacy documentation](https://spacy.io/usage/linguistic-features#own-annotations)).
+Les texts sont rangés dans evaluations/Spacy-Stanza/texts/, est les resultats du scripts 
+seront être laissés dans les dossiers nommés apres les corpus, sous evaluations/Spacy-Stanza/.
+À lancer: <code>python 3-annotate-Spacy.py</code>
+
+#### 4-annotate-Stanza.py
+Exactment le même comme 3-annotate-Spacy.py, mais avec Stanza en place de Spacy.
+À lancer: <code>python 4-annotate-Stanza.py</code>
+
+#### 5-generer-tsv-avec-gold-et-predictions.pl
 Regroupez les annotations de l'étalon-or avec les prévisions. Générer des fichiers TSV.
 il faut que les fichiers sont rangés dans les dossiers intitulés Gold\_X et Predictions\_X.
 Par example:
@@ -69,11 +88,11 @@ input_dossier
 └── Gold_LVP
     └── Gold_chapitre1.bios.tsv
  ```
- Usage: <code>perl comparer-gold-et-predictions.pl <input_dossier> </code>
+ Usage: <code>perl 5-generer-tsv-avec-gold-et-predictions.pl <input_dossier> </code>
  Les fichiers de sortie sont déposés dans le même dossier où se trouvent les dossiers d'entrée.
 Par défaut, le contenu du fichier evaluation/L3i_NERC-EL/comparer-predictions-et-gold/ est converti.
 
-#### evaluer_predictions.py
+#### 6-evaluer-predictions-de-tsv.py
 Ce script utilise nervaluate pour calculer la précision et le rappel
 du marquage automatique des entités nommées par rapport à un étalon-or. 
 Il faut fournir les fichiers à évaluer sous la forme suivante:
@@ -83,56 +102,5 @@ Deux    O   O	1
 mois    O   O	1
 ```
 Les fichiers sous cette forme peuvent être creer par comparer-gold-et-predictions.pl.
-Usage: <code>python evaluer-predictions.py <dossier_input> <fichier_output></code>
+Usage: <code>python 6-evaluer-predictions-de-tsv.py <dossier_input> <fichier_output></code>
 Par défaut, le contenu du fichier <code>/evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_vs_Gold_belAmi/</code> sont évalués.
-
-
-#### metrics.py
-Calcul des métriques précision / rappel / fmesure sur deux textes donnés.
-Usage : <code> python metrics.py <gold_file> <pred_file> --precision --rappel --fmesure</code>
-Pour installer 'scikit-learn' (penser à vérifier sa version de python!)
-<code>python -m pip install --user scikit-learn</code>
-Affiche les résultats sur la sortie standard.
-Le format d'entrée, est le conll définit par Inception:
-```    Format WebAnoo TSV 3.x
-    Exemple
-    #Text=— Comme vous êtes changé ! Vous avez gagné de l’air. Paris vous fait du bien. Allons, racontez-moi les nouvelles.
-    17-1	3680-3681	—	_	_	_	_	_	_	_
-    17-2	3682-3687	Comme	_	_	_	_	_	_	_
-    17-3	3688-3692	vous	_	_	_	_	_	_	_
-    17-4	3693-3697	êtes	_	_	_	_	_	_	_
-    17-5	3698-3704	changé	_	_	_	_	_	_	_
-    17-6	3705-3706	!	_	_	_	_	_	_	_
-    17-7	3707-3711	Vous	_	_	_	_	_	_	_
-    17-8	3712-3716	avez	_	_	_	_	_	_	_
-    17-9	3717-3722	gagné	_	_	_	_	_	_	_
-    17-10	3723-3725	de	_	_	_	_	_	_	_
-    17-11	3726-3727	l	_	_	_	_	_	_	_
-    17-12	3727-3728	’	_	_	_	_	_	_	_
-    17-13	3728-3731	air	_	_	_	_	_	_	_
-    17-14	3731-3732	.	_	_	_	_	_	_	_
-    17-15	3733-3738	Paris	LOC	false	true	false	false	false	false
-    17-16	3739-3743	vous	_	_	_	_	_	_	_
-    17-17	3744-3748	fait	_	_	_	_	_	_	_
-    17-18	3749-3751	du	_	_	_	_	_	_	_
-    17-19	3752-3756	bien	_	_	_	_	_	_	_
-    17-20	3756-3757	.	_	_	_	_	_	_	_
-    17-21	3758-3764	Allons	_	_	_	_	_	_	_
-    17-22	3764-3765	,	_	_	_	_	_	_	_
-    17-23	3766-3778	racontez-moi	_	_	_	_	_	_	_
-    17-24	3779-3782	les	_	_	_	_	_	_	_
-    17-25	3783-3792	nouvelles	_	_	_	_	_	_	_
-    17-26	3792-3793	.	_	_	_	_	_	_	_
-```
-Vérifier la variable TAGSET en bas du fichier, pour faire correspondre les tags avec le bon chiffre. C'est à dire, qu'il faut modifier le nom des tags en accord avec son jeu de données.
-Le chiffre est juste une équivalence pour scikit-learn.
-Si par exemple, le jeu de données contient les tags "Personnage" et "Lieu" alors:
-```
-    TAGSET = {
-        '_': 0,
-        'Personnage': 1,
-        'Lieu': 2
-     }
-```
-
-
