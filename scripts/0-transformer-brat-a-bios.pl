@@ -17,10 +17,10 @@ transformer-brat-a-bios.pl [options] FILES
 
 =head1 DESCRIPTION
 
-Indexes additional feature sets for texts in the Tesserae corpus. To be run after
-add_column.pl. By default, it adds the stem featureset for every text specified;
-alternate featuresets can be selected using the --feature option.
-
+Transformer les fichiers dans /corpus-annotations-gold du format .ann en format .bios.tsv. 
+Ceci n'est nécessaire que lorsque les annotations gold standard ont été mises à jour. 
+L'option --replace supprime automatiquement les anciens fichiers .bios.tsv afin que 
+les scripts "c "comparer-gold-et-predictions.pl" puisse être utilisé.
 =head1 OPTIONS AND ARGUMENTS
 
 =over
@@ -59,10 +59,13 @@ my $debug = 0;
 my $filepath;
 my $help = 0;
 my $replace = 0;
+my $skip_verification = 0;
 
 GetOptions(
 	'help'            => \$help,
 	'debug'           => \$debug,
+	'replace'		  => \$replace,
+	'skip-verification' => \$skip_verification
 );
 
 	
@@ -95,7 +98,8 @@ foreach my $file (keys %filenames) {
 	print "Reading $file.ann...";
 	open my $ann, "<:utf8", "$file.ann", or die $!;
 	open my $txt, "<:utf8", "$file.txt", or die $!;
-	open my $pre, "<:utf8", "$filenames{$file}.bios.tsv", or die $!;
+	my $pre;
+	unless ($skip_verification) {open $pre, "<:utf8", "$filenames{$file}.bios.tsv", or die $!;}
 
 	my @tokens;
 	my @tags; # list of tuples with the tag, beginning, and ending char offsets
@@ -104,6 +108,7 @@ foreach my $file (keys %filenames) {
 	my %tokhash;
 	my @pre_toks; #list of the tokens as parsed by the stanze tokenizer
 
+	unless ($skip_verification) {
 	# read the .bios comparison file
 	while (<$pre>) {
 	
@@ -111,7 +116,7 @@ foreach my $file (keys %filenames) {
 		next if $tok eq "TOKEN";	
 		push (@pre_toks, $tok);
 	
-	}
+	}}
 
 	# read the .ann file and find the elements that should have tags
 	while (<$ann>) {
@@ -375,7 +380,7 @@ foreach my $file (keys %filenames) {
 			
 		}
 	}
-
+	if ($skip_verification) {goto DONE;}
 	# error handling
 	# expect two types of errors: 
 	# incorrect splits of tokens that a. should be merged or b. must be split
@@ -546,6 +551,7 @@ foreach my $file (keys %filenames) {
 		}
 	
 	}
+	DONE:
 	my $final;
 	foreach my $key (sort {$a <=> $b} keys %tokhash) {
 		if ("$tokhash{$key}->{'STRING'}" eq "\n") {

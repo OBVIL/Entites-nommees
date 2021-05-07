@@ -1,16 +1,16 @@
 """
-Convertir la sortie de Brat en un csv utilisable par le script
+Convertir la sortie de 0-transformer-brat-a-bios.pl en un csv utilisable par le script
 de calcul du score inter-annotateurs.
 Sous-entend que les fichiers sont dans un dossier avec pour nom le titre du corpus.
 Et à l'intérieur, les dossiers extraits de Connll 2002 au format "nomCorpus-auteur-nomAnnotateur"
 
 lvp
 ├── lvp-zola-camille
-│   ├── chapitre1.conll
-│   ├── chapitre2.conll
+│   ├── chapitre1.bios.tsv
+│   ├── chapitre2.bios.tsv
 └── lvp-zola-marguerite
-    ├── chapitre1.conll
-    ├── chapitre2.conll
+    ├── chapitre1.bios.tsv
+    ├── chapitre2.bios.tsv
 """
 
 import sys
@@ -35,9 +35,9 @@ outfile = arguments.output
 corpus = arguments.input
 
 map_tag = {
-    'Personnage': 0,
-    'Lieu': 1,
-    'Misc': 2,
+    'PER': 0,
+    'LOC': 1,
+    'MISC': 2,
     'O': 4
 }
 
@@ -54,7 +54,7 @@ for corpus_annotateur in os.listdir(corpus):
     csv_header.append(annotateur)
 
     annotation = []
-    for conllfile in glob.iglob(f"{path_corpus}/*.conll"):
+    for conllfile in glob.iglob(f"{path_corpus}/*.bios.tsv"):
 
         with open(conllfile, 'r', encoding="utf-8") as fin:
             for line in fin:
