@@ -137,12 +137,13 @@ foreach my $file (keys %filenames) {
 		}				
 	
 	}
-
+	my $linenumber = 0;
 	while (<$txt>) {
+		$linenumber++;
 		# error remaining: 
 		next unless length $_ > 0;
 		my $sentence = $_;
-		my @line = split /([Qq]uelqu[’']un|[Gg]rand['’]peine|\s+|\w\w?['’]|[AE]h!|\!|\.\.\.|:|[,;.!?…]+|[Jj]usqu['’]|[Ll]orsqu['’]|[Aa]ujourd['’]hui|-on\W|-t[^a-zA-Z0-9\-êîàéá]|-elle\W|-ce\W|-tu\W|-là\W|-vous\W|-moi\W|-il\W)/, $_;
+		my @line = split /([Qq]uelqu[’']un|[Gg]rand['’]peine|\s+|\w\w?['’]|[AE]h!|\!|\.\.\.|:|[,;.!?…»«]+|[Jj]usqu['’]|[Ll]orsqu['’]|[Aa]ujourd['’]hui|-on\W|-t[^a-zA-Z0-9\-êîàéá]|-elle\W|-ce\W|-tu\W|-là\W|-vous\W|-moi\W|-il\W)/, $_;
 		
 		# split the -tu\W into two constituent entries in the array and splice it in
 		# first, find the indexes of all @line entries with these compounds
@@ -418,6 +419,7 @@ foreach my $file (keys %filenames) {
 				my %temp = (
 					'STRING' => "\n",
 					'END' => $new_offset + 1,
+					'LINE' => $linenumber,
 					'TAG' => "O"
 				);			
 				$tokhash{$new_offset} = \%temp;
@@ -518,6 +520,7 @@ foreach my $file (keys %filenames) {
 					my %temp = (
 						'STRING' => $tokens[2],
 						'END' => $new_offset + length($tokens[2]),
+						'LINE' => $tokhash{$token_offsets[$i]}->{'LINE'},
 						'TAG' => $tokhash{$token_offsets[$i]}->{'TAG'}
 					);
 					# if the splitter is just a single space, drop it.
@@ -545,8 +548,14 @@ foreach my $file (keys %filenames) {
 			print "0:\t $token_offsets[$i]|$tokhash{$token_offsets[$i]}->{'STRING'}| \t\t |$pre_toks[$i]|\n";
 			print "+1:\t $token_offsets[$i +1]|$tokhash{$token_offsets[$i + 1]}->{'STRING'}| \t\t |$pre_toks[$i+1]|\n";
 			print "+2:\t $token_offsets[$i +2]|$tokhash{$token_offsets[$i + 2]}->{'STRING'}| \t\t |$pre_toks[$i+2]|\n";
-			print "Try restarting with --debug to locate the problem, or press enter to continue.\n";
+			print "If it looks like removing a 'space' character would fix the problem, press 'enter' to continue. Otherwise try restarting with --debug to locate the problem.\n";
+			print "+" . $tokhash{$token_offsets[$i]}->{'LINE'} . " $file.txt\n";
 			my $useless = <STDIN>;
+			# try chomping the space off the end of the token.
+			$tokhash{$token_offsets[$i]}->{'STRING'} =~ s/\s+//;
+			$tokhash{$token_offsets[$i + 1]}->{'STRING'} =~ s/\s+//;
+
+			goto TOKEN;
 		
 		}
 	
