@@ -1,0 +1,69 @@
+T1	Personnage 2 14	Madame Lerat
+T2	Personnage 99 102	Zoé
+T3	Personnage 271 275	Nana
+T4	Personnage 559 562	Zoé
+T5	Personnage 742 755	madame Maloir
+T6	Personnage 883 894	madame Lera
+T7	Personnage 1117 1129	madame Lerat
+T8	Personnage 1240 1243	Zoé
+T9	Personnage 1455 1458	Zoé
+T12	Personnage 1680 1691	Madame Lera
+T13	Personnage 1892 1900	Fauchery
+T14	Personnage 2052 2056	Nana
+T15	Personnage 2199 2203	Nana
+T16	Personnage 2350 2363	madame Maloir
+T17	Lieu 2453 2458	Paris
+T18	Personnage 2488 2491	Zoé
+T19	Personnage 2708 2711	Zoé
+T20	Personnage 2844 2851	Francis
+T21	Personnage 2933 2937	Nana
+T22	Personnage 3388 3392	Nana
+T23	Personnage 3740 3743	Zoé
+T24	Personnage 3901 3905	Nana
+T25	Personnage 4118 4126	Daguenet
+T26	Personnage 4206 4219	madame Maloir
+T27	Personnage 4259 4262	Zoé
+T28	Personnage 4271 4284	madame Maloir
+T29	Personnage 4350 4354	Nana
+T30	Personnage 4607 4619	madame Lerat
+T31	Personnage 4672 4685	madame Maloir
+T32	Personnage 4771 4775	Nana
+T33	Personnage 4894 4898	Nana
+T34	Personnage 5160 5164	Nana
+T35	Personnage 5229 5236	Louiset
+T36	Personnage 5312 5324	madame Lerat
+T37	Personnage 5385 5388	Zoé
+T38	Personnage 5514 5527	madame Maloir
+T39	Personnage 5590 5594	Nana
+T40	Personnage 5997 6005	Daguenet
+T41	Personnage 6007 6020	Madame Maloir
+T45	Personnage 6739 6752	monsieur Paul
+T46	Personnage 6942 6946	Nana
+T47	Personnage 7001 7014	madame Maloir
+T48	Personnage 7045 7052	Francis
+T49	Personnage 7337 7341	Nana
+T50	Personnage 7688 7691	Zoé
+T51	Personnage 7759 7762	Zoé
+T52	Personnage 7974 7986	madame Lerat
+T53	Personnage 8467 8470	Zoé
+T54	Personnage 8681 8685	Nana
+T55	Personnage 8728 8735	Francis
+T56	Personnage 8946 8949	Zoé
+T57	Personnage 8981 8984	Zoé
+T58	Personnage 9228 9232	Nana
+T60	Personnage 10433 10445	madame Lerat
+T61	Lieu 10473 10484	Rambouillet
+T62	Personnage 10486 10490	Nana
+T63	Personnage 10537 10550	madame Maloir
+T64	Personnage 10660 10663	Zoé
+T10	Personnage 1585 1606	le marquis de Chouard
+T11	Personnage 1610 1625	le comte Muffat
+T42	Lieu 6341 6353	aux Variétés
+T65	Personnage 6604 6625	du marquis de Chouard
+T44	Personnage 6629 6656	du comte Muffat de Beuville
+T59	Personnage 9746 9761	Le comte Muffat
+A1	Role T10
+A2	Role T11
+A3	Role T65
+A4	Role T44
+A5	Role T59

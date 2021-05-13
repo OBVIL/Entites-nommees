@@ -1,0 +1,86 @@
+T4	Personnage 299 317	madame Du Joncquoy
+T3	Lieu 430 439	la Prusse
+T5	Personnage 619 629	Vandeuvres
+T6	Personnage 662 670	Fauchery
+T7	Personnage 820 827	Steiner
+T8	Personnage 868 878	Vandeuvres
+T9	Personnage 1017 1027	Vandeuvres
+T10	Personnage 1083 1091	Fauchery
+T2	Lieu 442 447	Paris
+T11	Lieu 1207 1212	Paris
+T12	Personnage 1288 1307	Madame Du Joncquoy,
+T14	Lieu 1365 1371	Orient
+T17	Misc 2078 2092	aux Carmélites
+T19	Personnage 2125 2142	Madame Chantereau
+T20	Personnage 2151 2171	cousine des Fougeray
+T21	Personnage 2278 2295	Monsieur Fauchery
+T22	Personnage 2346 2366	monsieur de Bismarck
+A8	PerEvoque T22
+T23	Personnage 2439 2457	madame Du Joncquoy
+T24	Personnage 2487 2509	monsieur de Vandeuvres
+T26	Lieu 2641 2645	Bade
+T27	Lieu 2581 2588	Bourges
+T28	Personnage 2749 2768	madame Du Joncquoy.
+T30	Personnage 2829 2839	Vandeuvres
+T31	Personnage 2854 2862	Fauchery
+T32	Personnage 2938 2948	Vandeuvres
+T33	Personnage 2603 2619	le roi de Prusse
+A14	PerEvoque T33
+T25	Personnage 3112 3128	a baronne Decker
+A13	PerEvoque T25
+T34	Lieu 3181 3189	Viroflay
+A15	LieuEvoque T34
+T35	Personnage 3191 3201	Vandeuvres
+T36	Personnage 3496 3503	Steiner
+T37	Personnage 3514 3521	Léonide
+A16	PerEvoque T37
+T38	Lieu 3547 3556	Montauban
+A17	LieuEvoque T38
+T39	Lieu 3572 3597	le château de Beaurecueil
+A18	LieuEvoque T39
+T40	Lieu 3710 3722	au Lion-d’Or
+A19	LieuEvoque T40
+T41	Personnage 3779 3786	Léonide
+A20	PerEvoque T41
+T42	Personnage 3885 3893	Fauchery
+T44	Personnage 3991 4001	La Faloise
+T45	Personnage 4087 4097	Vandeuvres
+T46	Misc 4138 4149	les Anglais
+T47	Lieu 4193 4203	Angleterre
+T48	Misc 4242 4252	les Russes
+T50	Personnage 4591 4605	Laure Piédefer
+T51	Personnage 4759 4777	la comtesse Sabine
+T52	Personnage 4935 4948	Georges Hugon
+T53	Personnage 5167 5186	madame de Chezelles
+T54	Personnage 5233 5237	Nana
+T55	Personnage 5264 5274	Vandeuvres
+T56	Personnage 5501 5511	Vandeuvres
+T57	Personnage 5781 5788	Léonide
+T58	Personnage 5859 5875	le shah de Perse
+A27	PerEvoque T58
+T59	Lieu 5724 5737	aux Fondettes
+T60	Personnage 5905 5915	Vandeuvres
+T61	Personnage 6375 6382	Léonide
+T63	Personnage 6031 6038	Estelle
+T13	Lieu 239 251	aux Variétés
+T1	Personnage 258 278	Le comte de Bismarck
+T15	Personnage 1408 1419	Nazar-Eddin
+A4	PerEvoque T15
+T65	Personnage 3355 3359	Dieu
+A33	PerEvoque T65
+T43	Personnage 3951 3966	au comte Muffat
+A22	DecoupageAdmin T47
+T49	Lieu 4558 4576	la rue des Martyrs
+A35	ConstructionHumaine T49
+T66	Personnage 4728 4733	Laure
+T62	Personnage 6167 6184	madame Chantereau
+A1	Role T1
+T18	Personnage 2035 2057	la baronne de Fougeray
+A6	Role T18
+A5	Role T20
+A7	Role T43
+A26	Role T58
+T16	Misc 1955 1971	le Paris mondain
+T29	Personnage 5989 6000	Du Joncquoy
+A11	PerEvoque T29
+A2	DecoupageAdmin T3

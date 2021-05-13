@@ -1,0 +1,97 @@
+T1	Personnage 149 156	Georges
+T2	Personnage 229 251	monsieur de Vandeuvres
+T3	Personnage 343 361	M. Théophile Venot
+T4	Personnage 367 379	madame Hugon
+T5	Personnage 712 720	Daguenet
+T6	Personnage 428 438	les Muffat
+T7	Personnage 747 754	Estelle
+T8	Personnage 766 774	Fauchery
+T9	Personnage 1145 1153	Fauchery
+T10	Personnage 1203 1210	Georges
+T11	Personnage 1216 1224	Daguenet
+T12	Misc 1272 1284	les Jésuites
+T13	Personnage 1570 1575	Venot
+T14	Personnage 1590 1595	Venot
+T15	Personnage 1706 1721	le comte Muffat
+T16	Personnage 2065 2071	Sabine
+T17	Lieu 2168 2181	aux Fondettes
+T18	Personnage 2351 2358	Georges
+T20	Personnage 2596 2600	Nana
+T21	Personnage 2602 2612	Vandeuvres
+T22	Personnage 2659 2663	Nana
+T23	Personnage 2818 2821	Zoé
+T24	Personnage 3141 3153	madame Hugon
+T25	Personnage 3281 3288	Georges
+T27	Personnage 3387 3403	monsieur Steiner
+T30	Personnage 3794 3798	Nana
+T32	Personnage 4035 4039	Nana
+T33	Personnage 4110 4114	Nana
+T34	Personnage 4232 4239	Estelle
+T35	Personnage 4275 4283	M. Venot
+T36	Personnage 4301 4316	le comte Muffat
+T37	Personnage 5051 5061	Labordette
+T38	Personnage 5101 5112	Maria Blond
+T39	Personnage 5142 5146	Lucy
+T42	Personnage 5454 5461	Steiner
+T43	Personnage 5494 5501	Georges
+T44	Personnage 5644 5648	Nana
+T45	Personnage 5976 5979	Zoé
+T46	Lieu 6075 6082	Orléans
+A9	DecoupageAdmin T46
+T47	Personnage 6310 6314	Nana
+T48	Personnage 6562 6566	Nana
+T49	Personnage 6680 6683	Zoé
+T50	Personnage 6960 6964	Nana
+T51	Personnage 7155 7159	Dieu
+A10	PerEvoque T51
+T52	Personnage 7281 7288	Georges
+T53	Personnage 7658 7662	Gaga
+T56	Personnage 8493 8509	Madame d’Anglars
+T58	Personnage 8532 8538	Mignon
+T59	Personnage 8650 8654	Lucy
+T60	Personnage 8679 8687	Fauchery
+T63	Personnage 8847 8855	Daguenet
+T64	Personnage 8877 8884	Estelle
+T65	Personnage 9011 9017	Muffat
+T66	Personnage 9021 9028	Chouard
+T67	Personnage 9076 9086	Vandeuvres
+T69	Personnage 11145 11149	Gaga
+T70	Personnage 11152 11163	Maria Blond
+T71	Personnage 11167 11177	Tatan Néné
+T72	Personnage 11351 11355	Gaga
+T73	Personnage 11481 11485	Nana
+T74	Personnage 12429 12433	Zizi
+T75	Personnage 12990 12997	Steiner
+T76	Personnage 13290 13305	le comte Muffat
+T77	Personnage 13454 13460	Mignon
+T78	Personnage 13549 13556	Georges
+T79	Personnage 13655 13659	Nana
+T80	Personnage 14253 14257	Nana
+T81	Personnage 14312 14319	Georges
+T82	Personnage 14397 14404	Georges
+T19	Personnage 2506 2513	Estelle
+T28	Lieu 5283 5290	Chamont
+#1	AnnotatorNotes T28	Il existe des lieux appelés Chamont (dans l'Isère) mais j'ai l'impression que Chamont est ici fictif donc je ne l'annoterais pas 
+#2	AnnotatorNotes T46	J'hésite sur l'attribut
+T26	Lieu 3623 3631	la Choue
+A5	DecoupageAdmin T26
+T29	Lieu 3644 3652	Gumières
+A7	DecoupageAdmin T29
+T31	Personnage 3989 4000	la Mignotte
+T40	Lieu 5293 5304	la Mignotte
+T41	Personnage 6576 6583	Georges
+T54	Personnage 7699 7703	Irma
+T55	Lieu 8286 8293	Chamont
+A11	LieuEvoque T55
+T61	Personnage 8708 8726	la comtesse Sabine
+T62	Lieu 8828 8845	la rue Miromesnil
+A4	ConstructionHumaine T62
+T83	Lieu 13946 13965	l’abbaye de Chamont
+A15	ConstructionHumaine T83
+T57	Personnage 8604 8609	Henri
+T84	Personnage 8613 8620	Charles
+A1	Role T61
+T85	Misc 8078 8091	la Révolution
+A12	Role T15
+A13	Role T76
+T68	Personnage 9932 9936	Irma
