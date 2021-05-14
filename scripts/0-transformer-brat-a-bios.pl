@@ -137,6 +137,7 @@ foreach my $file (keys %filenames) {
 		}				
 	
 	}
+
 	my $linenumber = 0;
 	while (<$txt>) {
 		$linenumber++;
@@ -307,40 +308,54 @@ foreach my $file (keys %filenames) {
 		push(@tokens, @line);
 	
 	}
-
+	if ($debug){	print Dumper %tokhash;
+	print "Number of tokens initialized with O: " . length(keys %tokhash) . "\n";
+}
 	my %lookup = (
 		'Lieu' => 'LOC',
 		'Personnage' => 'PER',
 		'Misc' => 'MISC'
 	);
 	my %errors;
-
+	my $replaced_tags = 0;
 	my @token_begins = sort {$a <=> $b} keys %tokhash;
 
 	foreach my $ref (@tags) {
 	
 		my ($tag, $begin, $end) = @{$ref};
-
+		next unless $tokhash{$begin};
 
 		# the beginning of a string should get the B- prefix.
 		# But if the span of the .ann tag is longer, one of two things should happen
 		# 1. the next token is still within the .ann tag span, so give it the I- tag
+			# some of the 
 		# 2. the .ann span ends at the exact same place as the next token, so give it E-
 		if ($tokhash{$begin}->{'END'} == $end) {
 		
 			$tokhash{$begin}->{'TAG'} = "S-$lookup{$tag}";
-		
+#			print "Standalone\n";
+			$replaced_tags++;
 		}
 		else {		
 
-			$tokhash{$begin}->{'TAG'} = "B-$lookup{$tag}";
-		
+			$tokhash{$begin}->{'TAG'} = "\nB-$lookup{$tag}";
+				if ($debug) {print "B-$lookup{$tag}: \n$tag, $begin, $end\n";
+			print $tokhash{$begin}->{'STRING'} . ", $begin, " . $tokhash{$begin}->{'END'} . "\n";
+			$replaced_tags++;}
 			# look in the array of token beginnings for the current beginning's address
 #			my $index = first { $token_begins[$_] eq "$begin" } 0..$#token_begins;
 			my @i = grep { $token_begins[$_] == $begin } 0 .. $#token_begins;
+			if (scalar @i < 1) {
+			
+				print "\n\n\nCRITICAL ERROR: token index unlocatable.\n";
+				exit;
+			}
 			my $index = $i[0];
+#			print Dumper @i;
+			# when this thing throws an error, it's coming up empty in the index.
 
 			# add one to that address, so that we can look at the next token
+			# when 1 is added to 'undef', the number becomes 1.
 			$index++;
 
 			#keep going until the end of the token is past the end of the .ann span
@@ -351,12 +366,20 @@ foreach my $file (keys %filenames) {
 				if ($tokhash{$token_begins[$index]}->{'END'} < $end) {
 			
 					$tokhash{$token_begins[$index]}->{'TAG'} = "I-$lookup{$tag}";
+#					print "I-$lookup{$tag}:\n";
+#					print $tokhash{$token_begins[$index]}->{'STRING'} . ", $token_begins[$index], " . $tokhash{$token_begins[$index]}->{'END'};
+					$replaced_tags++;
 			
 				}
 				elsif ($tokhash{$token_begins[$index]}->{'END'} == $end) {
 			
 					$tokhash{$token_begins[$index]}->{'TAG'} = "E-$lookup{$tag}";
-			
+#					print "\nE-$lookup{$tag}:\n";					
+#					print $tokhash{$token_begins[$index]}->{'STRING'} . ", $token_begins[$index], " . $tokhash{$token_begins[$index]}->{'END'};
+#					print "\n";
+#					my $useless = <STDIN>;
+
+					$replaced_tags++;
 				}
 				$index++;
 			}
@@ -366,6 +389,14 @@ foreach my $file (keys %filenames) {
 
 	
 	}
+	if ($debug) {
+	print "Replaced tags: $replaced_tags\n";
+	my @interiors = grep {$tokhash{$_}->{'TAG'} =~ /I-/} keys %tokhash;
+	print "Number of interior tags: " . scalar @interiors . "\n";
+	my @interiors = grep {$tokhash{$_}->{'TAG'} =~ /^O$/} keys %tokhash;
+	print "Number of O tags: " . scalar @interiors . "\n";
+	}
+#	my $useless = <STDIN>;
 	my $out;
 	if ($replace) {
 		open $out, ">:utf8", "$outnames{$file}.bios.tsv", or die $!;
