@@ -600,6 +600,8 @@ foreach my $file (keys %filenames) {
 		
 		}
 		else {
+			chomp($tokhash{$key}->{'STRING'});
+			$tokhash{$key}->{'TAG'} =~ s/\n//;
 			$final .= "$tokhash{$key}->{'STRING'}" . "\t" . $tokhash{$key}->{'TAG'} . "\n";
 
 		}
@@ -607,7 +609,7 @@ foreach my $file (keys %filenames) {
 	
 	$final =~ s/^\tO\n//g;
 	$final =~ s/\n\n/\n\t\n/g;
-	$final =~ s/^(\w+?)\t\n([BIES]-[A-Z]+?)\n/\1\t\2\n/g;
+	$final =~ s/^(\w+?)\t\n([BIES]-[A-Z]+?)/\1\t\2/g;
 	print $out $final;
 
 	
