@@ -607,7 +607,7 @@ foreach my $file (keys %filenames) {
 	
 	$final =~ s/^\tO\n//g;
 	$final =~ s/\n\n/\n\t\n/g;
-	
+	$final =~ s/^(\w+?)\t\n([BIES]-[A-Z]+?)\n/\1\t\2\n/g;
 	print $out $final;
 
 	
