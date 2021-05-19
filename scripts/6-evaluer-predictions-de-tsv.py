@@ -23,12 +23,14 @@ parser = argparse.ArgumentParser(
 )
 
 # Add the positional parameters
-parser.add_argument('input', help="The input folder", default="../evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_vs_Gold_belAmi/*", nargs='?', const="../evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_vs_Gold_belAmi/*")
-parser.add_argument('output', help="The output ", default="../precision-et-rappel.csv", nargs='?', const="../precision-et-rappel.csv")
+parser.add_argument('-input', help="The input folder", default="../  evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_vs_Gold_belAmi/*", nargs='?', const="../evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_vs_Gold_belAmi/*")
+parser.add_argument('-output', help="The output file", default="precision-et-rappel.csv", nargs='?', const="../precision-et-rappel.csv")
 arguments = parser.parse_args()
 
 output_file = arguments.output
 corpus = arguments.input
+if os.path.isdir(corpus):
+    corpus = corpus + "/*"
 
 def pretty_print(result, outfile=None):
     """Affichage plus beau que par défaut"""
