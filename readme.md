@@ -51,17 +51,31 @@ Convertir la sortie de Brat en un csv utilisable par le script
 de calcul du score inter-annotateurs.
 Sous-entend que les fichiers sont dans un dossier avec pour nom le titre du corpus.
 Et à l'intérieur, les dossiers extraits de Connll 2002 au format "nomCorpus-auteur-nomAnnotateur"
+Convertir la sortie de Brat en un csv utilisable par le script
+de calcul du score inter-annotateurs.
+Sous-entend que les fichiers sont dans un dossier avec pour nom le titre du corpus.
+À lancer: <code> python brat-to-csv-interAnnotateurs.py <dossier_corpus> <fichier_output></code>
+Et à l'intérieur, les dossiers extraits de Brat au format "nomCorpus-auteur-nomAnnotateur"
+À lancer:
+D'abord, convertir les fichiers dans le dossier de chaque annotateur:
+<code> perl 0-transformer-brat-a-bios.pl <dossier_corpus> </code>
+Exécutez ensuite le script pour comparer les annotateurs :
+<code> python 1-convertir-conll2002-a-csv.py <dossier_input> <dossier_output> </code>
+
 ```
 lvp
 ├── lvp-zola-camille
-│   ├── chapitre1.conll
-│   ├── chapitre2.conll
+│   ├── chapitre1.bios.tsv
+│   ├── chapitre2.bios.tsv
 └── lvp-zola-marguerite
-    ├── chapitre1.conll
-    ├── chapitre2.conll
+    ├── chapitre1.bios.tsv
+    ├── chapitre2.bios.tsv
 ```
-
-À lancer: <code> perl 1-convertir-conll2002-a-csv.py <dossier_input> <dossier_output> </code>
+Par example:
+<code>
+perl scripts/0-transformer-brat-a-bios.pl corpus-plusieurs-annotateurs/lvp/lvp-zola-c/* --skip-verification
+perl scripts/0-transformer-brat-a-bios.pl corpus-plusieurs-annotateurs/lvp/lvp-zola-m/* --skip-verification
+python scripts/1-convertir-conll2002-a-csv.py corpus-plusieurs-annotateurs/lvp corpus-plusieurs-annotateurs/output.csv</code>
 
 #### 2-calcul-accord-interannotateur-de-csv.py
 Calcul du score inter-annotateur. Prend en entrée les fichiers créés par 1-convertir-conll2002-a-csv.py.

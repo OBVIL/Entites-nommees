@@ -75,7 +75,7 @@ for i in range(0, len(annotations[1])):
     for y in range(0, len(annotations)):
         if y == 0:
             # on ajoute le token une seule fois
-            line.append("annotations[y][i][0]")
+            line.append(annotations[y][i][0])
 
         # ajout du tag
         tag = re.sub('[BIES]-', '', annotations[y][i][1])
