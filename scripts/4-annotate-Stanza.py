@@ -7,7 +7,7 @@ for r, d, f in os.walk(location):
 	for item in f:
 		if item.endswith('.tok'):
 			with open(os.path.join(r, item)) as fn:
-				fop = open(str(os.path.join(r, item))+".stanza.ner", "w")
+				fop = open(str(os.path.join(r, item))+".stanza.bios.tsv", "w")
 				print(item)
 				words = [[line.strip() for line in fn]]
 				#print(words)

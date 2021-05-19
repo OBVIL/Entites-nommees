@@ -24,7 +24,7 @@ for r, d, f in os.walk(location):
 		if item.endswith('.tok'):
 			print(item)
 			with open(os.path.join(r, item)) as fn:
-				fop = open(str(os.path.join(r, item))+".spacy.ner", "w")
+				fop = open(str(os.path.join(r, item))+".spacy.bios.tsv", "w")
 				print(item)
 				words = fn.read().replace('\n', '|')
 				words = words[:-1] #remove last pipe
