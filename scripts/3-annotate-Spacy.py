@@ -7,7 +7,7 @@ from spacy.lang.fr import French
 import glob, os
 from spacy.tokens import Doc
 
-location = 'texts/'
+location = 'evaluation/Spacy-Stanza/texts/'
 
 try:
 	nlp = spacy.load('fr_core_news_sm')
@@ -22,6 +22,7 @@ nlp.tokenizer = custom_tokenize
 for r, d, f in os.walk(location):
 	for item in f:
 		if item.endswith('.tok'):
+			print(item)
 			with open(os.path.join(r, item)) as fn:
 				fop = open(str(os.path.join(r, item))+".spacy.ner", "w")
 				print(item)
