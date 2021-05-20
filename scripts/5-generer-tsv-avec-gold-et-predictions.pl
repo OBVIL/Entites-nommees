@@ -18,8 +18,8 @@ use Getopt::Long;
 use Pod::Usage;
 
 my $help = 0;
-my $predictions = "evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Gold_LVP";
-my $gold = "evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_LVP";
+my $predictions = "evaluation/L3i_NERC-EL/LVP";
+my $gold = "corpus-annotations-golds/Gold_LVP";
 my $skip_verification = 0;
 my $outdir = "";
 
@@ -36,15 +36,15 @@ my @files;
 my @gold_files = glob("$gold/*.bios.tsv");
 my @prediction_files = glob("$predictions/*.bios.tsv");
 
+
 if ($#gold_files != $#prediction_files) {
 
 	print STDERR "The number of *.bios.tsv files in the two folders does not match.";
 	exit;
 
 }
-my $outsideloop = 0;
+
 foreach my $i (0..$#gold_files) {
-	$outsideloop++;
 	# save the name of the actual file only
 	$gold_files[$i] =~ /\/(.+?).bios.tsv/;
 	my $work = $1;
@@ -106,8 +106,6 @@ foreach my $i (0..$#gold_files) {
     }
     unless ($#auto_tags == $#gold_tags) {
 		print STDERR "The number of predicted tags is $#auto_tags but the number of gold tags is $#gold_tags\n";
-		print "@auto_tags";
-		my $useless = <STDIN>;
 		exit;
 	}
     for my $p (0..$#gold_tags) {

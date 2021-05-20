@@ -10,11 +10,11 @@ Le travail effectué consiste à
 
 ### Arbre de fichiers
 ```
-├── corpus-annotations-golds		<-contient les textes et annotations finis
-│   ├── Gold_belAmi
-│   ├── Gold_LVP
-│   └── Gold-Nana
-├── corpus-plusieurs-annotateurs	<-les annotations des annotateurs plusiers pour comparison
+├── corpus-annotations-golds		<-les annotations finis (convertir avec script 0)
+│   ├── belAmi
+│   ├── LVP
+│   └── Nana
+├── corpus-plusieurs-annotateurs	<-les annotations des annotateurs (convertir avec script 0 et comparer avec 1 & 2)
 │   ├── lvp
 │   │   ├── lvp-zola-c
 │   │   └── lvp-zola-m
@@ -22,15 +22,22 @@ Le travail effectué consiste à
 │       ├── nana-zola-c
 │       └── nana-zola-m
 ├── documents				<-les instructions données aux annotateurs
-├── evaluation				<-les annotations automatiques, et scores de précision
-│   ├── L3i_NERC-EL
-│   │   └── comparer-predictions-et-gold <-fichiers avec annotations golds et automatiques en format tsv
-│   └── Spacy-Stanza			<-scores de précision et rapell générés précédemment
-│       ├── Bel-Ami-Maupassant
-│       ├── LVP-Zola
-│       └── Nana-Zola
+├── evaluation				
+│   ├── L3i_NERC-EL			<-les annotations L3i
+│   │   ├── belAmi
+│   │   ├── LVP
+│   │   └── Nana
+│   └── spacy				<-les annotations spacy (géneré par script 3)
+│   │   ├── belAmi
+│   │   ├── LVP
+│   │   └── Nana
+│   └── stanza				<-les annotations stanza (géneré par script 4)
+│   │   ├── belAmi
+│   │   ├── LVP
+│   │   └── Nana
+│   └── texts			<- text lis par spacy et stanza
 ├── publications
-└── scripts				<-scripts qui génèrent des scores et predictions, et convertissent entre les fichiers fomats
+└── scripts				<-scripts qui génèrent des scores et predictions, et convertissent entre fomats
 ```
 
 ### Les Scripts
@@ -93,16 +100,16 @@ Exactment le même comme 3-annotate-Spacy.py, mais avec Stanza en place de Spacy
 
 #### 5-generer-tsv-avec-gold-et-predictions.pl
 Regroupez les annotations de l'étalon-or avec les prévisions. Générer des fichiers TSV.
-il faut que les fichiers sont rangés dans les dossiers intitulés Gold\_X et Predictions\_X.
+Il faut que les fichiers sont en format ".bios.tsv". Il est nécessaire de spécifier un 
+dossier contenant des fichiers annotés automatiquement et un dossier contenant des 
+annotations de référence.
+
+Vous pouvez spécifier un dossier pour recevoir les résultats, ou vous pouvez autoriser 
+qu'ils soient laissés dans le dossier "gold" par défaut.
+
+
 Par example:
-```
-input_dossier
-├── Predictions_LVP
-|   └── Predictions_chapitre1.bios.tsv
-└── Gold_LVP
-    └── Gold_chapitre1.bios.tsv
- ```
- Usage: <code>perl 5-generer-tsv-avec-gold-et-predictions.pl <input_dossier> </code>
+ Usage: <code>perl scripts/5-generer-tsv-avec-gold-et-predictions.pl --gold evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Gold_LVP --predictions evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_LVP </code>
  Les fichiers de sortie sont déposés dans le même dossier où se trouvent les dossiers d'entrée.
 Par défaut, le contenu du fichier evaluation/L3i_NERC-EL/comparer-predictions-et-gold/ est converti.
 

@@ -1,14 +1,17 @@
 # -*- coding: UTF-8 -*-
-
+import re
 import stanza, os
-location = 'evaluations/Spacy-Stanza/texts/'
+location = 'evaluation/texts/'
 nlp = stanza.Pipeline(lang='fr', processors='tokenize,ner', tokenize_pretokenized=True)
 for r, d, f in os.walk(location):
 	for item in f:
 		if item.endswith('.tok'):
 			with open(os.path.join(r, item)) as fn:
-				fop = open(str(os.path.join(r, item))+".stanza.bios.tsv", "w")
-				print(item)
+				item2 = re.sub(".txt.tok", "", item)
+				r2 = re.sub(".+(/.+?)$", "evaluation/stanza\\1", r)
+				pathtouse = str(os.path.join(r2, item2))+".bios.tsv"				
+				fop = open(pathtouse, "w")
+				print(pathtouse)
 				words = [[line.strip() for line in fn]]
 				#print(words)
 				doc = nlp(words)

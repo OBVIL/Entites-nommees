@@ -64,7 +64,6 @@ my $skip_verification = 0;
 GetOptions(
 	'help'            => \$help,
 	'debug'           => \$debug,
-	'replace'		  => \$replace,
 	'skip-verification' => \$skip_verification
 );
 
@@ -76,18 +75,20 @@ if ($help) {
 
 
 foreach my $file (@ARGV) {
+	print "reading $file";
 	next if $file =~ /bios/;
 	next unless $file =~ /\.ann$|\.txt$/;
 	$file =~ s/\.\w\w\w$//;
 	#find the 'predictions' file for the current text
 	my $pred_file = $file;
-	$pred_file =~ s/corpus-annotations-golds\/Gold_(.+)/evaluation\/L3i_NERC-EL\/comparer-predictions-et-gold\/Predictions_$1/;
+	$pred_file =~ s/corpus-annotations-golds\/Gold_(.+)/evaluation\/L3i_NERC-EL\/$1/;
 	my $out_file = $pred_file;
 	$pred_file =~ s/Gold_/Predictions_/;
 	$out_file =~ s/Predictions_/Gold_/;
 
 	$filenames{$file} = $pred_file;
 	$outnames{$file} = $out_file;
+	print "$pred_file\n$out_file\n";
 }
 if ($debug) {
 	print Dumper %filenames;
@@ -398,12 +399,7 @@ foreach my $file (keys %filenames) {
 	}
 #	my $useless = <STDIN>;
 	my $out;
-	if ($replace) {
-		open $out, ">:utf8", "$outnames{$file}.bios.tsv", or die $!;
-	}
-	else {
-		open $out, ">:utf8", "$file.bios.tsv" or die $!;
-	}
+	open $out, ">:utf8", "$file.bios.tsv" or die $!;
 	foreach my $key (sort {$a <=> $b} keys %tokhash) {
 	
 		if ($tokhash{$key}->{'STRING'} =~ /^\s+/ or $tokhash{$key}->{'STRING'} eq "") {

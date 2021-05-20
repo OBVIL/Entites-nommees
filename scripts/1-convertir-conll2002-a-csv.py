@@ -33,7 +33,6 @@ arguments = parser.parse_args()
 #outfile = os.path.join("output", corpus) + '.csv'
 outfile = arguments.output
 corpus = arguments.input
-
 map_tag = {
     'PER': 0,
     'LOC': 1,
@@ -64,6 +63,7 @@ for corpus_annotateur in os.listdir(corpus):
 
                 annotation.append(line.split('\t'))
     annotations.append(annotation)
+  
 
 # On itère sur la première sous-liste pour récupérer l'index d'un token
 # ensuite pour chaque annotation (=chaque sous-liste)
