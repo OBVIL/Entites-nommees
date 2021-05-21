@@ -104,6 +104,13 @@ foreach my $i (0..$#gold_files) {
 	    	goto SPLICE;
 	    }
     }
+    GOLD:
+    for (0..$#gold_tags) {
+	    unless (defined($gold_tags[$_])) {
+	    	splice (@gold_tags, $_, 1);
+	    	goto GOLD;
+	    }
+    }
     unless ($#auto_tags == $#gold_tags) {
 		print STDERR "The number of predicted tags is $#auto_tags but the number of gold tags is $#gold_tags\n";
 		exit;
