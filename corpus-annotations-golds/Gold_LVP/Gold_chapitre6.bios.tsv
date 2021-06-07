@@ -1,5 +1,4 @@
 ﻿Zola_ventreparis_Chapitre6	O
-	
 Huit	O
 jours	O
 plus	O
@@ -17,7 +16,6 @@ passer	O
 l’	O
 action	O
 .	O
-	
 Une	O
 occasion	O
 suffisante	O
@@ -33,7 +31,6 @@ les	O
 bandes	O
 insurrectionnelles	O
 .	O
-	
 Le	B-MISC
 Corps	I-MISC
 législatif	E-MISC
@@ -61,7 +58,6 @@ gronder	O
 les	O
 faubourgs	O
 .	O
-	
 Le	O
 ministère	O
 ,	O
@@ -75,7 +71,6 @@ toute	O
 sa	O
 puissance	O
 .	O
-	
 De	O
 longtemps	O
 peut-être	O
@@ -86,7 +81,6 @@ ne	O
 s’	O
 offrirait	O
 .	O
-	
 Un	O
 matin	O
 ,	O
@@ -101,7 +95,6 @@ autour	O
 du	B-LOC
 Palais-Bourbon	E-LOC
 .	O
-	
 Il	O
 y	O
 oublia	O
@@ -134,7 +127,6 @@ de	O
 la	O
 marée	O
 .	O
-	
 Il	O
 visita	O
 chaque	O
@@ -160,7 +152,6 @@ la	B-LOC
 rue	I-LOC
 Saint-Dominique	E-LOC
 ;	O
-	
 il	O
 poussa	O
 jusqu’	O
@@ -185,7 +176,6 @@ marchant	O
 grandes	O
 enjambées	O
 .	O
-	
 Puis	O
 ,	O
 de	O
@@ -225,7 +215,6 @@ par	O
 le	B-LOC
 Champ-de-Mars	E-LOC
 ;	O
-	
 les	O
 sections	O
 du	B-LOC
@@ -237,7 +226,6 @@ par	O
 la	B-LOC
 Madeleine	E-LOC
 ;	O
-	
 celles	O
 de	O
 l’	O
@@ -261,7 +249,6 @@ du	I-LOC
 faubourg	I-LOC
 Saint-Germain	E-LOC
 .	O
-	
 Mais	O
 ,	O
 sur	O
@@ -279,7 +266,6 @@ leurs	O
 avenues	O
 découvertes	O
 ;	O
-	
 il	O
 prévoyait	O
 qu’	O
@@ -293,7 +279,6 @@ balayer	O
 les	O
 quais	O
 .	O
-	
 Alors	O
 ,	O
 il	O
@@ -321,7 +306,6 @@ tenait	O
 la	O
 main	O
 .	O
-	
 La	O
 véritable	O
 attaque	O
@@ -352,7 +336,6 @@ de	O
 la	B-LOC
 Seine	E-LOC
 .	O
-	
 Le	O
 soleil	O
 de	O
@@ -384,7 +367,6 @@ face	O
 de	O
 lui	O
 .	O
-	
 Et	O
 il	O
 voyait	O
@@ -424,7 +406,6 @@ plantaient	O
 un	O
 drapeau	O
 .	O
-	
 Il	O
 revint	O
 lentement	O
@@ -433,7 +414,6 @@ la	O
 tête	O
 basse	O
 .	O
-	
 Un	O
 roucoulement	O
 la	O
@@ -441,7 +421,6 @@ lui	O
 fit	O
 relever	O
 .	O
-	
 Il	O
 s’	O
 aperçut	O
@@ -453,7 +432,6 @@ jardin	I-LOC
 des	I-LOC
 Tuileries	E-LOC
 .	O
-	
 Sur	O
 une	O
 pelouse	O
@@ -470,7 +448,6 @@ dandinements	O
 de	O
 gorge	O
 .	O
-	
 Il	O
 s’	O
 adossa	O
@@ -493,7 +470,6 @@ baignés	O
 de	O
 soleil	O
 .	O
-	
 En	O
 face	O
 ,	O
@@ -505,7 +481,6 @@ marronniers	O
 toute	O
 noire	O
 .	O
-	
 Un	O
 silence	O
 chaud	O
@@ -529,7 +504,6 @@ rue	I-LOC
 de	I-LOC
 Rivoli	E-LOC
 .	O
-	
 L’	O
 odeur	O
 des	O
@@ -546,7 +520,6 @@ songer	O
 madame	B-PER
 François	E-PER
 .	O
-	
 Une	O
 petite	O
 fille	O
@@ -562,7 +535,6 @@ effraya	O
 les	O
 ramiers	O
 .	O
-	
 Ils	O
 s’	O
 envolèrent	O
@@ -599,7 +571,6 @@ façon	O
 plus	O
 douce	O
 .	O
-	
 Comme	O
 Florent	S-PER
 rentrait	O
@@ -621,7 +592,6 @@ qui	O
 l’	O
 appelait	O
 .	O
-	
 Le	O
 peintre	O
 descendait	O
@@ -634,7 +604,6 @@ de	O
 la	B-LOC
 Vallée	E-LOC
 .	O
-	
 –	O
 Eh	O
 !	O
@@ -643,12 +612,10 @@ venez	O
 avec	O
 moi	O
 ?	O
-	
 cria	O
 -t	O
 -il	O
 .	O
-	
 Je	O
 cherche	O
 cette	O
@@ -656,7 +623,6 @@ brute	O
 de	O
 Marjolin	S-PER
 .	O
-	
 Florent	S-PER
 le	O
 suivit	O
@@ -679,7 +645,6 @@ retour	O
 la	O
 poissonnerie	O
 .	O
-	
 Claude	S-PER
 disait	O
 que	O
@@ -696,13 +661,11 @@ rien	O
 à	O
 désirer	O
 ;	O
-	
 il	O
 était	O
 une	O
 bête	O
 .	O
-	
 Il	O
 nourrissait	O
 le	O
@@ -721,7 +684,6 @@ rire	O
 d’	O
 innocent	O
 .	O
-	
 Quand	O
 il	O
 avait	O
@@ -750,9 +712,7 @@ avoir	O
 son	O
 rire	O
 .	O
-	
 –	O
-	
 Il	O
 doit	O
 gaver	O
@@ -763,7 +723,6 @@ murmura	O
 -t	O
 -il	O
 .	O
-	
 Seulement	O
 ,	O
 je	O
@@ -778,14 +737,12 @@ de	O
 monsieur	B-PER
 Gavard	E-PER
 .	O
-	
 Ils	O
 fouillèrent	O
 toute	O
 la	O
 cave	O
 .	O
-	
 Au	O
 centre	O
 ,	O
@@ -798,7 +755,6 @@ deux	O
 fontaines	O
 coulent	O
 .	O
-	
 Les	O
 resserres	O
 sont	O
@@ -807,7 +763,6 @@ réservées	O
 aux	O
 pigeons	O
 .	O
-	
 Le	O
 long	O
 des	O
@@ -833,7 +788,6 @@ tombe	O
 le	O
 jour	O
 .	O
-	
 Claude	S-PER
 se	O
 mit	O
@@ -845,16 +799,13 @@ entendant	O
 cette	O
 musique	O
 .	O
-	
 Il	O
 dit	O
 à	O
 son	O
 compagnon	O
 :	O
-	
 –	O
-	
 Si	O
 l’	O
 on	O
@@ -871,7 +822,6 @@ s’	O
 embrassent	O
 là-dedans	O
 !	O
-	
 Cependant	O
 ,	O
 pas	O
@@ -914,7 +864,6 @@ une	O
 porte	O
 entrebâillée	O
 .	O
-	
 Il	O
 l’	O
 ouvrit	O
@@ -955,7 +904,6 @@ de	O
 ses	O
 lèvres	O
 .	O
-	
 Elle	O
 l’	O
 embrassait	O
@@ -963,7 +911,6 @@ doucement	O
 ,	O
 partout	O
 .	O
-	
 Elle	O
 écartait	O
 ses	O
@@ -1021,7 +968,6 @@ disposait	O
 son	O
 gré	O
 .	O
-	
 Lui	O
 ,	O
 complaisamment	O
@@ -1032,13 +978,11 @@ elle	O
 le	O
 posait	O
 .	O
-	
 Il	O
 ne	O
 savait	O
 plus	O
 .	O
-	
 Il	O
 tendait	O
 la	O
@@ -1050,13 +994,10 @@ craindre	O
 les	O
 chatouilles	O
 .	O
-	
 –	O
-	
 Eh	O
 bien	O
 !	O
-	
 c’	O
 est	O
 ça	O
@@ -1070,7 +1011,6 @@ gênez	O
 pas	O
 !	O
 …	O
-	
 Tu	O
 n’	O
 as	O
@@ -1087,7 +1027,6 @@ dans	O
 cette	O
 saleté	O
 .	O
-	
 Il	O
 a	O
 des	O
@@ -1096,7 +1035,6 @@ plein	O
 les	O
 genoux	O
 .	O
-	
 –	O
 Tiens	O
 !	O
@@ -1110,7 +1048,6 @@ le	O
 tourmente	O
 pas	O
 .	O
-	
 Il	O
 aime	O
 bien	O
@@ -1137,7 +1074,6 @@ fait	O
 pas	O
 clair	O
 …	O
-	
 N’	O
 est	O
 -ce	O
@@ -1148,13 +1084,11 @@ tu	O
 as	O
 peur	O
 ?	O
-	
 Elle	O
 l’	O
 avait	O
 relevé	O
 ;	O
-	
 il	O
 passait	O
 les	O
@@ -1178,7 +1112,6 @@ d’	O
 y	O
 mettre	O
 .	O
-	
 Il	O
 balbutia	O
 qu’	O
@@ -1191,9 +1124,7 @@ qu’	O
 elle	O
 reprenait	O
 :	O
-	
 –	O
-	
 D’	O
 ailleurs	O
 ,	O
@@ -1203,20 +1134,17 @@ venue	O
 l’	O
 aider	O
 ;	O
-	
 je	O
 gavais	O
 ses	O
 pigeons	O
 .	O
-	
 Florent	S-PER
 regardait	O
 les	O
 pauvres	O
 bêtes	O
 .	O
-	
 Sur	O
 des	O
 planches	O
@@ -1259,7 +1187,6 @@ de	O
 leur	O
 plumage	O
 .	O
-	
 Par	O
 moments	O
 ,	O
@@ -1271,7 +1198,6 @@ cette	O
 nappe	O
 mouvante	O
 ;	O
-	
 puis	O
 ,	O
 les	O
@@ -1288,7 +1214,6 @@ un	O
 caquetage	O
 confus	O
 .	O
-	
 Cadine	S-PER
 avait	O
 près	O
@@ -1304,7 +1229,6 @@ et	O
 de	O
 grains	O
 ;	O
-	
 elle	O
 s’	O
 emplissait	O
@@ -1326,7 +1250,6 @@ dans	O
 le	O
 bec	O
 .	O
-	
 Et	O
 eux	O
 ,	O
@@ -1353,18 +1276,14 @@ avalée	O
 de	O
 force	O
 .	O
-	
 –	O
-	
 Ces	O
 innocents	O
 !	O
 murmura	O
 Claude	S-PER
 .	O
-	
 –	O
-	
 Tant	O
 pis	O
 pour	O
@@ -1377,7 +1296,6 @@ qui	O
 avait	O
 fini	O
 .	O
-	
 Ils	O
 sont	O
 meilleurs	O
@@ -1389,7 +1307,6 @@ a	O
 bien	O
 gavés	O
 …	O
-	
 Voyez	O
 -vous	O
 ,	O
@@ -1409,7 +1326,6 @@ salée	O
 à	O
 ceux-là	O
 .	O
-	
 Ça	O
 leur	O
 donne	O
@@ -1419,7 +1335,6 @@ blanche	O
 et	O
 délicate	O
 .	O
-	
 Deux	O
 heures	O
 après	O
@@ -1451,7 +1366,6 @@ faire	O
 leur	O
 affaire	O
 .	O
-	
 Marjolin	S-PER
 emportait	O
 un	O
@@ -1463,14 +1377,12 @@ un	O
 des	O
 coffres	O
 .	O
-	
 Claude	S-PER
 et	O
 Florent	S-PER
 le	O
 suivirent	O
 .	O
-	
 Il	O
 s’	O
 établit	O
@@ -1507,13 +1419,11 @@ de	O
 traverses	O
 minces	O
 .	O
-	
 Puis	O
 ,	O
 il	O
 saigna	O
 .	O
-	
 Rapidement	O
 ,	O
 le	O
@@ -1552,7 +1462,6 @@ dans	O
 la	O
 gorge	O
 .	O
-	
 Les	O
 pigeons	O
 avaient	O
@@ -1598,7 +1507,6 @@ goutte	O
 à	O
 goutte	O
 .	O
-	
 Et	O
 cela	O
 d’	O
@@ -1643,7 +1551,6 @@ l’	O
 autre	O
 côté	O
 .	O
-	
 Peu	O
 à	O
 peu	O
@@ -1674,7 +1581,6 @@ mis	O
 en	O
 joie	O
 .	O
-	
 Il	O
 finit	O
 par	O
@@ -1714,7 +1620,6 @@ moulin	O
 des	O
 têtes	O
 .	O
-	
 Les	O
 pigeons	O
 pendaient	O
@@ -1724,11 +1629,9 @@ linges	O
 de	O
 soie	O
 .	O
-	
 –	O
 Hein	O
 !	O
-	
 ça	O
 t’amuse	O
 ,	O
@@ -1741,7 +1644,6 @@ qui	O
 riait	O
 aussi	O
 .	O
-	
 Ils	O
 sont	O
 drôles	O
@@ -1771,7 +1673,6 @@ trouve	O
 pas	O
 le	O
 cou…	O
-	
 Allez	O
 ,	O
 ce	O
@@ -1784,7 +1685,6 @@ ces	O
 animaux	O
 -là	O
 ;	O
-	
 ça	O
 vous	O
 pincerait	O
@@ -1793,7 +1693,6 @@ si	O
 ça	O
 pouvait	O
 .	O
-	
 Et	O
 ,	O
 riant	O
@@ -1813,9 +1712,7 @@ Marjolin	S-PER
 elle	O
 ajouta	O
 :	O
-	
 –	O
-	
 J’	O
 ai	O
 essayé	O
@@ -1830,7 +1727,6 @@ vite	O
 que	O
 lui	O
 …	O
-	
 Un	O
 jour	O
 ,	O
@@ -1843,7 +1739,6 @@ en	O
 dix	O
 minutes	O
 .	O
-	
 Le	O
 cadre	O
 de	O
@@ -1851,7 +1746,6 @@ bois	O
 s’	O
 emplissait	O
 ;	O
-	
 on	O
 entendait	O
 les	O
@@ -1863,7 +1757,6 @@ dans	O
 la	O
 caisse	O
 .	O
-	
 Alors	O
 Claude	S-PER
 ,	O
@@ -1883,7 +1776,6 @@ de	O
 l’	O
 emmener	O
 .	O
-	
 En	O
 haut	O
 ,	O
@@ -1898,16 +1790,13 @@ de	O
 l’	O
 escalier	O
 .	O
-	
 –	O
-	
 Eh	O
 bien	O
 ,	O
 quoi	O
 donc	O
 !	O
-	
 dit	O
 -il	O
 en	O
@@ -1917,7 +1806,6 @@ dans	O
 les	O
 mains	O
 .	O
-	
 Voilà	O
 que	O
 vous	O
@@ -1927,9 +1815,7 @@ comme	O
 une	O
 femme	O
 .	O
-	
 –	O
-	
 C’	O
 est	O
 l’	O
@@ -1944,7 +1830,6 @@ un	O
 peu	O
 honteux	O
 .	O
-	
 Ces	O
 pigeons	O
 ,	O
@@ -1990,7 +1875,6 @@ jaune	O
 de	O
 soleil	O
 .	O
-	
 Il	O
 les	O
 voyait	O
@@ -2029,7 +1913,6 @@ jouent	O
 au	O
 cerceau	O
 .	O
-	
 Et	O
 c’	O
 était	O
@@ -2067,7 +1950,6 @@ dans	O
 les	O
 os	O
 ;	O
-	
 il	O
 s’	O
 était	O
@@ -2082,11 +1964,9 @@ les	O
 paupières	O
 battantes	O
 .	O
-	
 –	O
 Diable	O
 !	O
-	
 reprit	O
 Claude	S-PER
 quand	O
@@ -2102,11 +1982,9 @@ un	O
 bon	O
 soldat	O
 …	O
-	
 Ah	O
 bien	O
 !	O
-	
 ceux	O
 qui	O
 vous	O
@@ -2127,7 +2005,6 @@ peur	O
 de	O
 vous	O
 .	O
-	
 Mais	O
 ,	O
 mon	O
@@ -2151,7 +2028,6 @@ coup	O
 de	O
 pistolet	O
 ;	O
-	
 vous	O
 aurez	O
 trop	O
@@ -2160,7 +2036,6 @@ de	O
 tuer	O
 quelqu’un	O
 .	O
-	
 Florent	S-PER
 se	O
 leva	O
@@ -2168,7 +2043,6 @@ leva	O
 sans	O
 répondre	O
 .	O
-	
 Il	O
 était	O
 devenu	O
@@ -2185,7 +2059,6 @@ coupaient	O
 la	O
 face	O
 .	O
-	
 Il	O
 s’	O
 en	O
@@ -2224,7 +2097,6 @@ envahiraient	O
 le	B-LOC
 Palais-Bourbon	E-LOC
 .	O
-	
 Dans	O
 les	B-LOC
 Champs-Élysées	E-LOC
@@ -2233,13 +2105,11 @@ le	O
 canon	O
 gronderait	O
 ;	O
-	
 les	O
 grilles	O
 seraient	O
 brisées	O
 ;	O
-	
 il	O
 y	O
 aurait	O
@@ -2257,7 +2127,6 @@ contre	O
 les	O
 colonnes	O
 .	O
-	
 Ce	O
 fut	O
 une	O
@@ -2266,7 +2135,6 @@ rapide	O
 de	O
 bataille	O
 .	O
-	
 Lui	O
 ,	O
 au	O
@@ -2287,7 +2155,6 @@ entre	O
 les	O
 mains	O
 .	O
-	
 Comme	O
 il	O
 traversait	O
@@ -2317,7 +2184,6 @@ tendait	O
 le	O
 cou	O
 .	O
-	
 Il	O
 devait	O
 guetter	O
@@ -2332,7 +2198,6 @@ extraordinaire	O
 d’	O
 imbécile	O
 .	O
-	
 Il	O
 disparut	O
 brusquement	O
@@ -2345,9 +2210,7 @@ courant	O
 la	O
 charcuterie	O
 .	O
-	
 –	O
-	
 Qu’	O
 a	O
 -t	O
@@ -2357,7 +2220,6 @@ donc	O
 pensa	O
 Florent	S-PER
 .	O
-	
 Est	O
 -ce	O
 que	O
@@ -2366,7 +2228,6 @@ lui	O
 fais	O
 peur	O
 ?	O
-	
 Dans	O
 cette	O
 matinée	O
@@ -2383,7 +2244,6 @@ chez	O
 les	B-PER
 Quenu-Gradelle	E-PER
 .	O
-	
 Au	O
 point	O
 du	O
@@ -2408,7 +2268,6 @@ prendre	O
 monsieur	B-PER
 Florent	E-PER
 .	O
-	
 Puis	O
 ,	O
 balbutiant	O
@@ -2430,7 +2289,6 @@ dû	O
 se	O
 sauver	O
 .	O
-	
 La	B-PER
 belle	I-PER
 Lisa	E-PER
@@ -2473,7 +2331,6 @@ ne	O
 les	O
 compromettait	O
 .	O
-	
 Elle	O
 redescendait	O
 ,	O
@@ -2488,7 +2345,6 @@ au	O
 second	O
 étage	O
 .	O
-	
 Le	O
 commissaire	O
 la	O
@@ -2497,7 +2353,6 @@ de	O
 les	O
 accompagner	O
 .	O
-	
 Il	O
 l’	O
 entretint	O
@@ -2536,13 +2391,11 @@ l’	O
 à	O
 personne	O
 .	O
-	
 Une	O
 souricière	O
 était	O
 tendue	O
 .	O
-	
 Le	O
 seul	O
 souci	O
@@ -2565,7 +2418,6 @@ Quenu	S-PER
 allait	O
 recevoir	O
 .	O
-	
 Elle	O
 craignait	O
 ,	O
@@ -2591,7 +2443,6 @@ se	O
 trouvait	O
 là	O
 .	O
-	
 Aussi	O
 exigea	O
 -t	O
@@ -2606,7 +2457,6 @@ absolu	O
 de	O
 silence	O
 .	O
-	
 Elle	O
 revint	O
 mettre	O
@@ -2620,7 +2470,6 @@ endormi	O
 une	O
 histoire	O
 .	O
-	
 Une	O
 demi-heure	O
 plus	O
@@ -2645,14 +2494,12 @@ la	O
 face	O
 rose	O
 .	O
-	
 Auguste	S-PER
 faisait	O
 tranquillement	O
 l’	O
 étalage	O
 .	O
-	
 Quenu	S-PER
 parut	O
 un	O
@@ -2675,7 +2522,6 @@ frais	O
 du	O
 matin	O
 .	O
-	
 Rien	O
 n’	O
 indiquait	O
@@ -2687,7 +2533,6 @@ nouait	O
 en	O
 haut	O
 .	O
-	
 Mais	O
 le	O
 commissaire	O
@@ -2711,7 +2556,6 @@ Méhudin	E-PER
 rue	B-LOC
 Pirouette	E-LOC
 .	O
-	
 Il	O
 avait	O
 les	O
@@ -2720,7 +2564,6 @@ les	O
 plus	O
 précises	O
 .	O
-	
 Dans	O
 les	O
 lettres	O
@@ -2743,7 +2586,6 @@ la	B-PER
 belle	I-PER
 Normande	E-PER
 .	O
-	
 Peut-être	O
 s’	O
 était	O
@@ -2751,7 +2593,6 @@ s’	O
 réfugié	O
 là	O
 .	O
-	
 Le	O
 commissaire	O
 ,	O
@@ -2771,7 +2612,6 @@ de	O
 la	O
 loi	O
 .	O
-	
 Les	B-PER
 Méhudin	E-PER
 se	O
@@ -2779,7 +2619,6 @@ levaient	O
 à	O
 peine	O
 .	O
-	
 La	O
 vieille	O
 ouvrit	O
@@ -2801,7 +2640,6 @@ il	O
 s’	O
 agissait	O
 .	O
-	
 Elle	O
 s’	O
 était	O
@@ -2816,9 +2654,7 @@ disant	O
 ces	O
 messieurs	O
 :	O
-	
 –	O
-	
 Nous	O
 sommes	O
 d’	O
@@ -2836,7 +2672,6 @@ vous	O
 pouvez	O
 chercher	O
 .	O
-	
 Comme	O
 la	B-PER
 Normande	E-PER
@@ -2857,7 +2692,6 @@ la	O
 fit	O
 enfoncer	O
 .	O
-	
 Elle	O
 s’	O
 habillait	O
@@ -2877,7 +2711,6 @@ entre	O
 les	O
 dents	O
 .	O
-	
 Cette	O
 entrée	O
 brutale	O
@@ -2892,7 +2725,6 @@ pas	O
 l’	O
 exaspéra	O
 ;	O
-	
 elle	O
 lâcha	O
 le	O
@@ -2916,7 +2748,6 @@ que	O
 de	O
 honte	O
 .	O
-	
 Le	O
 commissaire	O
 ,	O
@@ -2941,9 +2772,7 @@ sa	O
 voix	O
 froide	O
 :	O
-	
 –	O
-	
 Au	O
 nom	O
 de	O
@@ -2956,7 +2785,6 @@ de	O
 la	O
 loi	O
 !	O
-	
 Alors	O
 ,	O
 elle	O
@@ -2989,7 +2817,6 @@ voulait	O
 d’	O
 elle	O
 .	O
-	
 Ses	O
 cheveux	O
 s’	O
@@ -3016,7 +2843,6 @@ pour	O
 la	O
 voir	O
 .	O
-	
 Le	O
 commissaire	O
 de	O
@@ -3032,7 +2858,6 @@ pendu	O
 au	O
 mur	O
 .	O
-	
 Elle	O
 ne	O
 s’	O
@@ -3041,7 +2866,6 @@ enveloppa	O
 même	O
 pas	O
 ;	O
-	
 elle	O
 pleurait	O
 plus	O
@@ -3068,9 +2892,7 @@ visiter	O
 les	O
 draps	O
 .	O
-	
 –	O
-	
 Mais	O
 qu’	O
 est	O
@@ -3080,13 +2902,11 @@ j’	O
 ai	O
 fait	O
 ?	O
-	
 finit	O
 -elle	O
 par	O
 bégayer	O
 .	O
-	
 Qu’	O
 est	O
 -ce	O
@@ -3098,7 +2918,6 @@ dans	O
 mon	O
 lit	O
 ?	O
-	
 Le	O
 commissaire	O
 prononça	O
@@ -3121,11 +2940,9 @@ de	O
 la	O
 chambre	O
 :	O
-	
 –	O
 Ah	O
 !	O
-	
 la	O
 coquine	O
 ,	O
@@ -3133,7 +2950,6 @@ c’	O
 est	O
 elle	O
 !	O
-	
 s’	O
 écria	O
 la	O
@@ -3148,13 +2964,11 @@ sur	O
 sa	O
 mère	O
 .	O
-	
 Elle	O
 l’	O
 aurait	O
 battue	O
 .	O
-	
 On	O
 la	O
 retint	O
@@ -3168,7 +2982,6 @@ dans	O
 le	O
 châle	O
 .	O
-	
 Elle	O
 se	O
 débattait	O
@@ -3180,9 +2993,7 @@ une	O
 voix	O
 suffoquée	O
 :	O
-	
 –	O
-	
 Pour	O
 qui	O
 donc	O
@@ -3191,7 +3002,6 @@ prend	O
 -on	O
 !	O
 …	O
-	
 Ce	O
 Florent	S-PER
 n’	O
@@ -3202,7 +3012,6 @@ ici	O
 ,	O
 entendez-vous	O
 .	O
-	
 Il	O
 n’	O
 y	O
@@ -3212,7 +3021,6 @@ eu	O
 entre	O
 nous	O
 .	O
-	
 On	O
 cherche	O
 à	O
@@ -3238,7 +3046,6 @@ face	O
 vous	O
 verrez	O
 .	O
-	
 On	O
 me	O
 mettra	O
@@ -3247,7 +3054,6 @@ prison	O
 ,	O
 après	O
 ;	O
-	
 ça	O
 m’	O
 est	O
@@ -3255,7 +3061,6 @@ est	O
 Ah	O
 bien	O
 !	O
-	
 Florent	S-PER
 ,	O
 j’	O
@@ -3264,7 +3069,6 @@ mieux	O
 que	O
 lui	O
 !	O
-	
 Je	O
 peux	O
 épouser	O
@@ -3284,7 +3088,6 @@ qui	O
 vous	O
 envoient	O
 .	O
-	
 Ce	O
 flot	O
 de	O
@@ -3292,7 +3095,6 @@ paroles	O
 la	O
 calmait	O
 .	O
-	
 Sa	O
 fureur	O
 se	O
@@ -3307,7 +3109,6 @@ cause	O
 de	O
 tout	O
 .	O
-	
 Elle	O
 s’	O
 adressa	O
@@ -3317,9 +3118,7 @@ commissaire	O
 se	O
 justifiant	O
 :	O
-	
 –	O
-	
 Je	O
 ne	O
 savais	O
@@ -3327,7 +3126,6 @@ pas	O
 ,	O
 monsieur	O
 .	O
-	
 Il	O
 avait	O
 l’	O
@@ -3340,7 +3138,6 @@ nous	O
 a	O
 trompées	O
 .	O
-	
 Je	O
 n’	O
 ai	O
@@ -3359,7 +3156,6 @@ est	O
 si	O
 méchant	O
 …	O
-	
 Il	O
 venait	O
 donner	O
@@ -3374,7 +3170,6 @@ s’	O
 en	O
 allait	O
 .	O
-	
 Je	O
 le	O
 nourrissais	O
@@ -3389,13 +3184,11 @@ un	O
 beau	O
 poisson	O
 .	O
-	
 C’	O
 est	O
 tout…	O
 Ah	O
 !	O
-	
 non	O
 ,	O
 par	O
@@ -3412,9 +3205,7 @@ bonne	O
 comme	O
 ça	O
 !	O
-	
 –	O
-	
 Mais	O
 ,	O
 demanda	O
@@ -3431,9 +3222,7 @@ papiers	O
 à	O
 garder	O
 ?	O
-	
 –	O
-	
 Non	O
 ,	O
 je	O
@@ -3456,7 +3245,6 @@ remettrais	O
 ces	O
 papiers	O
 .	O
-	
 J’	O
 en	O
 ai	O
@@ -3467,7 +3255,6 @@ est	O
 -ce	O
 pas	O
 ?	O
-	
 Ça	O
 ne	O
 m’amuse	O
@@ -3478,7 +3265,6 @@ voir	O
 tout	O
 fouiller	O
 …	O
-	
 Allez	O
 ,	O
 c’	O
@@ -3486,7 +3272,6 @@ est	O
 bien	O
 inutile	O
 .	O
-	
 Les	O
 agents	O
 ,	O
@@ -3506,7 +3291,6 @@ où	O
 Muche	S-PER
 couchait	O
 .	O
-	
 Depuis	O
 un	O
 instant	O
@@ -3538,9 +3322,7 @@ venir	O
 l’	O
 égorger	O
 .	O
-	
 –	O
-	
 C’	O
 est	O
 la	O
@@ -3556,7 +3338,6 @@ ouvrant	O
 la	O
 porte	O
 .	O
-	
 Muche	S-PER
 ,	O
 tout	O
@@ -3569,7 +3350,6 @@ pendre	O
 son	O
 cou	O
 .	O
-	
 Elle	O
 le	O
 consola	O
@@ -3581,7 +3361,6 @@ son	O
 propre	O
 lit	O
 .	O
-	
 Les	O
 agents	O
 ressortirent	O
@@ -3615,16 +3394,13 @@ de	O
 sa	O
 mère	O
 :	O
-	
 –	O
-	
 Ils	O
 vont	O
 prendre	O
 mes	O
 cahiers	O
 …	O
-	
 Ne	O
 leur	O
 donne	O
@@ -3632,11 +3408,9 @@ pas	O
 mes	O
 cahiers	O
 …	O
-	
 –	O
 Ah	O
 !	O
-	
 c’	O
 est	O
 vrai	O
@@ -3652,7 +3426,6 @@ a	O
 les	O
 cahiers	O
 …	O
-	
 Attendez	O
 ,	O
 messieurs	O
@@ -3663,7 +3436,6 @@ vous	O
 remettre	O
 ça	O
 .	O
-	
 Je	O
 veux	O
 vous	O
@@ -3683,7 +3455,6 @@ son	O
 ,	O
 là-dedans	O
 .	O
-	
 On	O
 peut	O
 bien	O
@@ -3700,7 +3471,6 @@ irai	O
 le	O
 décrocher	O
 .	O
-	
 Elle	O
 donna	O
 les	O
@@ -3713,7 +3483,6 @@ modèles	O
 d’	O
 écriture	O
 .	O
-	
 Mais	O
 le	O
 petit	O
@@ -3738,7 +3507,6 @@ d’	O
 une	O
 calotte	O
 .	O
-	
 Alors	O
 ,	O
 il	O
@@ -3747,7 +3515,6 @@ mit	O
 à	O
 hurler	O
 .	O
-	
 Sur	O
 le	O
 seuil	O
@@ -3765,7 +3532,6 @@ allongeait	O
 le	O
 cou	O
 ;	O
-	
 elle	O
 était	O
 entrée	O
@@ -3784,7 +3550,6 @@ la	B-PER
 mère	I-PER
 Méhudin	E-PER
 .	O
-	
 Elle	O
 regardait	O
 ,	O
@@ -3806,7 +3571,6 @@ pour	O
 les	O
 défendre	O
 .	O
-	
 Cependant	O
 ,	O
 le	O
@@ -3822,7 +3586,6 @@ un	O
 air	O
 sérieux	O
 .	O
-	
 Les	O
 «	O
 tyranniquement	O
@@ -3849,7 +3612,6 @@ froncer	O
 les	O
 sourcils	O
 .	O
-	
 Lorsqu’	O
 il	O
 lut	O
@@ -3879,9 +3641,7 @@ papiers	O
 en	O
 disant	O
 :	O
-	
 –	O
-	
 C’	O
 est	O
 très	O
@@ -3890,7 +3650,6 @@ grave	O
 très	O
 grave	O
 .	O
-	
 Il	O
 remit	O
 le	O
@@ -3906,7 +3665,6 @@ s’	O
 en	O
 alla	O
 .	O
-	
 Claire	S-PER
 ,	O
 qui	O
@@ -3925,7 +3683,6 @@ ces	O
 hommes	O
 descendre	O
 .	O
-	
 Puis	O
 ,	O
 elle	O
@@ -3947,7 +3704,6 @@ depuis	O
 un	O
 an	O
 .	O
-	
 Mademoiselle	B-PER
 Saget	E-PER
 paraissait	O
@@ -3957,7 +3713,6 @@ avec	O
 la	B-PER
 Normande	E-PER
 ;	O
-	
 elle	O
 s’	O
 attendrissait	O
@@ -3986,9 +3741,7 @@ de	O
 sa	O
 colère	O
 .	O
-	
 –	O
-	
 Tu	O
 es	O
 bien	O
@@ -4003,7 +3756,6 @@ devant	O
 sa	O
 sœur	O
 .	O
-	
 Celle-ci	O
 se	O
 leva	O
@@ -4015,19 +3767,15 @@ glisser	O
 le	O
 châle	O
 .	O
-	
 –	O
-	
 Tu	O
 mouchardes	O
 donc	O
 !	O
-	
 cria	O
 -t	O
 -elle	O
 .	O
-	
 Répète	O
 donc	O
 un	O
@@ -4039,9 +3787,7 @@ viens	O
 de	O
 dire	O
 .	O
-	
 –	O
-	
 Tu	O
 es	O
 bien	O
@@ -4057,7 +3803,6 @@ voix	O
 plus	O
 insultante	O
 .	O
-	
 Alors	O
 ,	O
 la	B-PER
@@ -4091,7 +3836,6 @@ dans	O
 le	O
 cou	O
 .	O
-	
 Elles	O
 luttèrent	O
 un	O
@@ -4107,7 +3851,6 @@ cherchant	O
 s’	O
 étrangler	O
 .	O
-	
 La	O
 cadette	O
 ,	O
@@ -4146,7 +3889,6 @@ glace	O
 se	O
 fendit	O
 .	O
-	
 Muche	S-PER
 sanglotait	O
 ,	O
@@ -4164,7 +3906,6 @@ aider	O
 les	O
 séparer	O
 .	O
-	
 Mais	O
 Claire	S-PER
 se	O
@@ -4173,13 +3914,11 @@ dégagea	O
 en	O
 disant	O
 :	O
-	
 –	O
 Lâche	O
 ,	O
 lâche	O
 …	O
-	
 Je	O
 vais	O
 aller	O
@@ -4193,7 +3932,6 @@ tu	O
 as	O
 vendu	O
 .	O
-	
 Sa	O
 mère	O
 lui	O
@@ -4201,7 +3939,6 @@ barra	O
 la	O
 porte	O
 .	O
-	
 La	B-PER
 Normande	E-PER
 se	O
@@ -4210,7 +3947,6 @@ sur	O
 elle	O
 par-derrière	O
 .	O
-	
 Et	O
 ,	O
 mademoiselle	B-PER
@@ -4241,7 +3977,6 @@ sa	O
 résistance	O
 affolée	O
 .	O
-	
 Elle	O
 donnait	O
 des	O
@@ -4257,7 +3992,6 @@ tout	O
 chez	O
 elle	O
 .	O
-	
 Puis	O
 ,	O
 on	O
@@ -4277,7 +4011,6 @@ fer	O
 le	O
 plâtre	O
 .	O
-	
 Elle	O
 descellait	O
 les	O
@@ -4289,9 +4022,7 @@ de	O
 ses	O
 ciseaux	O
 .	O
-	
 –	O
-	
 Elle	O
 m’	O
 aurait	O
@@ -4316,7 +4047,6 @@ pour	O
 s’	O
 habiller	O
 .	O
-	
 Vous	O
 verrez	O
 qu’	O
@@ -4342,7 +4072,6 @@ pas	O
 la	O
 porte	O
 .	O
-	
 Elle	O
 ameuterait	O
 le	O
@@ -4350,7 +4079,6 @@ quartier	O
 contre	O
 nous	O
 .	O
-	
 Mademoiselle	B-PER
 Saget	E-PER
 s’	O
@@ -4359,7 +4087,6 @@ empressée	O
 de	O
 descendre	O
 .	O
-	
 Elle	O
 arriva	O
 au	O
@@ -4381,7 +4108,6 @@ allée	O
 des	O
 Quenu-Gradelle	S-PER
 .	O
-	
 Elle	O
 comprit	O
 ,	O
@@ -4418,7 +4144,6 @@ de	O
 petit	O
 salé	O
 .	O
-	
 Quand	O
 il	O
 fut	O
@@ -4443,7 +4168,6 @@ chez	O
 les	B-PER
 Méhudin	E-PER
 .	O
-	
 La	O
 charcutière	O
 ,	O
@@ -4473,7 +4197,6 @@ femme	O
 qui	O
 triomphe	O
 .	O
-	
 Puis	O
 ,	O
 comme	O
@@ -4493,9 +4216,7 @@ un	O
 air	O
 songeur	O
 .	O
-	
 –	O
-	
 Moi	O
 ,	O
 je	O
@@ -4521,7 +4242,6 @@ seules	O
 de	O
 nouveau	O
 .	O
-	
 Je	O
 l’	O
 aimais	O
@@ -4537,7 +4257,6 @@ eût	O
 fâchées	O
 ensemble	O
 …	O
-	
 Tenez	O
 ,	O
 la	O

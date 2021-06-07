@@ -17,12 +17,10 @@ loge	O
 de	O
 face	O
 .	O
-	
 Il	O
 parut	O
 surpris	O
 .	O
-	
 Puis	O
 ,	O
 pour	O
@@ -51,7 +49,6 @@ son	O
 à	O
 Paris	S-LOC
 .	O
-	
 Le	O
 directeur	O
 pesa	O
@@ -64,7 +61,6 @@ coup	O
 d’	O
 œil	O
 .	O
-	
 Mais	O
 Hector	S-PER
 l’	O
@@ -72,7 +68,6 @@ examinait	O
 avec	O
 émotion	O
 .	O
-	
 C’	O
 était	O
 donc	O
@@ -117,7 +112,6 @@ esprit	O
 de	O
 gendarme	O
 !	O
-	
 Hector	S-PER
 crut	O
 qu’	O
@@ -128,7 +122,6 @@ une	O
 phrase	O
 aimable	O
 .	O
-	
 Mais	O
 un	O
 léger	O
@@ -137,7 +130,6 @@ agita	O
 la	O
 salle	O
 .	O
-	
 Rose	B-PER
 Mignon	E-PER
 venait	O
@@ -147,7 +139,6 @@ entrer	O
 en	O
 Diane	S-PER
 .	O
-	
 Bien	O
 quelle	O
 n’	O
@@ -184,7 +175,6 @@ même	O
 du	O
 personnage	O
 .	O
-	
 Son	O
 air	O
 d’	O
@@ -232,7 +222,6 @@ public	O
 s’	O
 échauffa	O
 .	O
-	
 Le	O
 mari	O
 et	O
@@ -245,7 +234,6 @@ coude	O
 riaient	O
 complaisamment	O
 .	O
-	
 Et	O
 toute	O
 la	O
@@ -287,7 +275,6 @@ arrivait	O
 l’	O
 épaule	O
 .	O
-	
 Lui	O
 ,	O
 avait	O
@@ -295,14 +282,12 @@ assez	O
 de	O
 Diane	S-PER
 ;	O
-	
 elle	O
 faisait	O
 trop	O
 sa	O
 poire	O
 .	O
-	
 Alors	O
 ,	O
 Diane	S-PER
@@ -315,7 +300,6 @@ de	O
 se	O
 venger	O
 .	O
-	
 Le	O
 duo	O
 se	O
@@ -338,7 +322,6 @@ de	O
 matou	O
 irrité	O
 .	O
-	
 Il	O
 avait	O
 une	O
@@ -370,7 +353,6 @@ dans	O
 les	O
 loges	O
 .	O
-	
 Fauchery	S-PER
 ne	O
 put	O
@@ -379,7 +361,6 @@ empêcher	O
 de	O
 sourire	O
 .	O
-	
 Cependant	O
 ,	O
 la	O
@@ -405,7 +386,6 @@ une	O
 voix	O
 traînante	O
 :	O
-	
 Le	O
 comte	O
 échangea	O
@@ -429,7 +409,6 @@ Blanche	S-PER
 et	O
 Lucy	S-PER
 .	O
-	
 Elles	O
 bouchaient	O
 le	O
@@ -470,7 +449,6 @@ monde	O
 les	O
 écoutait	O
 .	O
-	
 Le	B-PER
 comte	I-PER
 de	I-PER
@@ -478,7 +456,6 @@ Vandeuvres	E-PER
 emmena	O
 Blanche	S-PER
 .	O
-	
 Mais	O
 ,	O
 à	O
@@ -509,14 +486,12 @@ par	O
 l’	O
 attente	O
 .	O
-	
 On	O
 ne	O
 commençait	O
 donc	O
 pas	O
 ?	O
-	
 Les	O
 hommes	O
 tiraient	O
@@ -565,7 +540,6 @@ dans	O
 le	O
 théâtre	O
 .	O
-	
 Un	O
 gamin	O
 qui	O
@@ -582,7 +556,6 @@ affiche	O
 la	O
 porte	O
 ;	O
-	
 puis	O
 ,	O
 il	O
@@ -611,13 +584,11 @@ traînant	O
 ses	O
 savates	O
 .	O
-	
 Un	O
 rire	O
 avait	O
 couru	O
 .	O
-	
 Des	O
 messieurs	O
 très	O
@@ -629,7 +600,6 @@ Nana	S-PER
 ,	O
 ohé	O
 !	O
-	
 Nana	S-PER
 !	O
 »	O
@@ -676,14 +646,12 @@ sur	O
 les	O
 foules	O
 .	O
-	
 Deux	O
 morceaux	O
 furent	O
 encore	O
 bissés	O
 .	O
-	
 La	O
 valse	O
 de	O
@@ -703,7 +671,6 @@ emportait	O
 les	O
 dieux	O
 .	O
-	
 Junon	S-PER
 ,	O
 en	O
@@ -718,7 +685,6 @@ et	O
 le	O
 calottait	O
 .	O
-	
 Diane	S-PER
 ,	O
 surprenant	O
@@ -755,7 +721,6 @@ ai	O
 mon	O
 plan	O
 .	O
-	
 »	O
 Le	O
 reste	O
@@ -765,7 +730,6 @@ pas	O
 bien	O
 clair	O
 .	O
-	
 L’	O
 enquête	O
 aboutissait	O
@@ -805,14 +769,11 @@ tous	O
 les	O
 torts	O
 .	O
-	
 Lorsque	O
 Vénus	S-PER
 rôde	O
 le	O
-soir	O
-…	O
-	
+soir…	O
 Derrière	O
 eux	O
 ,	O
@@ -828,7 +789,6 @@ durent	O
 se	O
 taire	O
 .	O
-	
 Maintenant	O
 ,	O
 une	O
@@ -854,7 +814,6 @@ orchestre	O
 l’	O
 amphithéâtre	O
 .	O
-	
 Le	O
 premier	O
 acte	O
@@ -886,7 +845,6 @@ Jupiter	S-PER
 à	O
 droite	O
 .	O
-	
 C’	O
 étaient	O
 d’	O
@@ -917,7 +875,6 @@ pour	O
 le	O
 conseil	O
 .	O
-	
 De	O
 nouveau	O
 ,	O
@@ -931,7 +888,6 @@ partirent	O
 tout	O
 seuls	O
 ;	O
-	
 le	O
 public	O
 ,	O
@@ -941,7 +897,6 @@ dépaysé	O
 ,	O
 attendait	O
 .	O
-	
 Cependant	O
 ,	O
 la	B-PER
@@ -977,17 +932,14 @@ nouée	O
 la	O
 taille	O
 .	O
-	
 Tous	O
 le	O
 regardèrent	O
 .	O
-	
 Il	O
 était	O
 gentil	O
 .	O
-	
 Fauchery	S-PER
 le	O
 reconnut	O
@@ -1032,7 +984,6 @@ temps	O
 à	O
 autre	O
 .	O
-	
 Lucy	S-PER
 lui	O
 trouva	O
@@ -1040,7 +991,6 @@ de	O
 beaux	O
 yeux	O
 .	O
-	
 —	O
 Dis	O
 donc	O
@@ -1052,7 +1002,6 @@ bougre	O
 d’	O
 entêté	O
 !	O
-	
 —	O
 Vois	O
 donc	O
@@ -1069,12 +1018,10 @@ a	O
 un	O
 monsieur	O
 .	O
-	
 Lucy	S-PER
 se	O
 fâcha	O
 .	O
-	
 Est	O
 -ce	O
 qu’	O
@@ -1087,7 +1034,6 @@ montrer	O
 avec	O
 elle	O
 ?	O
-	
 Puis	O
 ,	O
 calmée	O
@@ -1118,7 +1064,6 @@ dans	O
 les	O
 portes	O
 .	O
-	
 Mais	O
 le	B-PER
 comte	I-PER
@@ -1157,7 +1102,6 @@ justement	O
 il	O
 sortait	O
 .	O
-	
 Puis	O
 ,	O
 se	O
@@ -1173,7 +1117,6 @@ Bien	O
 vrai	O
 ?	O
 …	O
-	
 On	O
 m’	O
 a	O
@@ -1184,7 +1127,6 @@ avais	O
 couché	O
 avec	O
 .	O
-	
 —	O
 Fichtre	O
 !	O
@@ -1195,7 +1137,6 @@ Fauchery	S-PER
 la	B-PER
 Faloise	E-PER
 .	O
-	
 —	O
 Tiens	O
 ,	O
@@ -1208,27 +1149,22 @@ en	O
 l’	O
 apercevant	O
 .	O
-	
 —	O
 Ah	O
 !	O
-	
 non	O
 ,	O
 par	O
 exemple	O
 !	O
-	
 pour	O
 ne	O
 rien	O
 voir	O
 !	O
-	
 répondit	O
 -il	O
 .	O
-	
 J’	O
 ai	O
 un	O
@@ -1242,7 +1178,6 @@ mieux	O
 l’	O
 orchestre	O
 .	O
-	
 Dès	O
 le	O
 second	O
@@ -1255,7 +1190,6 @@ dans	O
 la	O
 salle	O
 .	O
-	
 Était	O
 -ce	O
 une	O
@@ -1266,7 +1200,6 @@ gageure	O
 de	O
 Bordenave	S-PER
 ?	O
-	
 Jamais	O
 on	O
 n’	O
@@ -1283,7 +1216,6 @@ moins	O
 de	O
 méthode	O
 .	O
-	
 Son	O
 directeur	O
 la	O
@@ -1296,7 +1228,6 @@ comme	O
 une	O
 seringue	O
 .	O
-	
 Et	O
 elle	O
 ne	O
@@ -1331,13 +1262,11 @@ convenable	O
 et	O
 disgracieux	O
 .	O
-	
 Des	O
 oh	O
 !	O
 oh	O
 !	O
-	
 s’	O
 élevaient	O
 déjà	O
@@ -1371,7 +1300,6 @@ lança	O
 avec	O
 conviction	O
 :	O
-	
 Une	O
 scène	O
 ,	O
@@ -1380,7 +1308,6 @@ ensuite	O
 sembla	O
 interminable	O
 .	O
-	
 Jupiter	S-PER
 n’	O
 en	O
@@ -1402,14 +1329,12 @@ des	O
 maris	O
 trompés	O
 .	O
-	
 Et	O
 toujours	O
 pas	O
 de	O
 Nana	S-PER
 !	O
-	
 On	O
 gardait	O
 donc	O
@@ -1420,7 +1345,6 @@ baisser	O
 du	O
 rideau	O
 ?	O
-	
 Une	O
 attente	O
 si	O
@@ -1432,12 +1356,10 @@ irriter	O
 le	O
 public	O
 .	O
-	
 Les	O
 murmures	O
 recommençaient	O
 .	O
-	
 Nana	S-PER
 ,	O
 cependant	O
@@ -1454,12 +1376,10 @@ mise	O
 à	O
 rire	O
 .	O
-	
 La	O
 gaieté	O
 redoubla	O
 .	O
-	
 Elle	O
 était	O
 drôle	O
@@ -1471,7 +1391,6 @@ cette	O
 belle	O
 fille	O
 .	O
-	
 Son	O
 rire	O
 lui	O
@@ -1485,7 +1404,6 @@ dans	O
 le	O
 menton	O
 .	O
-	
 Elle	O
 attendait	O
 ,	O
@@ -1536,7 +1454,6 @@ avait	O
 autre	O
 chose	O
 .	O
-	
 Et	O
 ,	O
 après	O
@@ -1565,7 +1482,6 @@ le	O
 second	O
 couplet	O
 :	O
-	
 On	O
 frappait	O
 les	O
@@ -1595,7 +1511,6 @@ monde	O
 qui	O
 rentrait	O
 .	O
-	
 La	O
 claque	O
 applaudit	O
@@ -1626,7 +1541,6 @@ des	O
 écus	O
 neufs	O
 ;	O
-	
 au	O
 fond	O
 ,	O
@@ -1640,7 +1554,6 @@ coucher	O
 d’	O
 astre	O
 .	O
-	
 Diane	S-PER
 ,	O
 dès	O
@@ -1670,7 +1583,6 @@ et	O
 à	O
 Mars	S-PER
 .	O
-	
 Puis	O
 ,	O
 à	O
@@ -1685,19 +1597,16 @@ que	O
 Vénus	S-PER
 arrivait	O
 .	O
-	
 Un	O
 frisson	O
 remua	O
 la	O
 salle	O
 .	O
-	
 Nana	S-PER
 était	O
 nue	O
 .	O
-	
 Elle	O
 était	O
 nue	O
@@ -1714,14 +1623,12 @@ de	O
 sa	O
 chair	O
 .	O
-	
 Une	O
 simple	O
 gaze	O
 l’	O
 enveloppait	O
 ;	O
-	
 ses	O
 épaules	O
 rondes	O
@@ -1778,7 +1685,6 @@ blancheur	O
 d’	O
 écume	O
 .	O
-	
 C’	O
 était	O
 Vénus	S-PER
@@ -1794,7 +1700,6 @@ que	O
 ses	O
 cheveux	O
 .	O
-	
 Et	O
 ,	O
 lorsque	O
@@ -1820,7 +1725,6 @@ de	O
 ses	O
 aisselles	O
 .	O
-	
 Il	O
 n’	O
 y	O
@@ -1829,7 +1733,6 @@ pas	O
 d’	O
 applaudissements	O
 .	O
-	
 Personne	O
 ne	O
 riait	O
@@ -1857,7 +1760,6 @@ et	O
 sans	O
 salive	O
 .	O
-	
 Un	O
 vent	O
 semblait	O
@@ -1873,7 +1775,6 @@ une	O
 sourde	O
 menace	O
 .	O
-	
 Tout	O
 d’	O
 un	O
@@ -1906,7 +1807,6 @@ inconnu	O
 du	O
 désir	O
 .	O
-	
 Nana	S-PER
 souriait	O
 toujours	O
@@ -1921,11 +1821,9 @@ mangeuse	O
 d’	O
 hommes	O
 .	O
-	
 —	O
 Oh	O
 !	O
-	
 c’	O
 est	O
 Labordette	S-PER
@@ -1956,19 +1854,16 @@ et	O
 sans	O
 conséquence	O
 .	O
-	
 Mais	O
 ils	O
 durent	O
 se	O
 tourner	O
 .	O
-	
 Daguenet	S-PER
 leur	O
 souriait	O
 .	O
-	
 Maintenant	O
 que	O
 Nana	S-PER
@@ -1989,7 +1884,6 @@ dans	O
 les	O
 couloirs	O
 .	O
-	
 À	O
 son	O
 côté	O
@@ -2016,7 +1910,6 @@ Nana	S-PER
 le	O
 plongeait	O
 .	O
-	
 C’	O
 était	O
 ça	O
@@ -2040,7 +1933,6 @@ machinalement	O
 ses	O
 gants	O
 .	O
-	
 Puis	O
 ,	O
 comme	O
@@ -2056,11 +1948,9 @@ osa	O
 l’	O
 interroger	O
 .	O
-	
 —	O
 Oh	O
 !	O
-	
 la	O
 ,	O
 la	O
@@ -2070,14 +1960,12 @@ est	O
 bien	O
 boulotte	O
 !	O
-	
 Y	O
 a	O
 de	O
 quoi	O
 manger	O
 .	O
-	
 —	O
 Laissez	O
 donc	O
@@ -2088,7 +1976,6 @@ cher	O
 une	O
 roulure	O
 !	O
-	
 Le	O
 public	O
 va	O
@@ -2112,7 +1999,6 @@ dans	O
 sa	O
 loge	O
 .	O
-	
 —	O
 Moi	O
 ,	O
@@ -2127,7 +2013,6 @@ dit	O
 le	O
 journaliste	O
 ;	O
-	
 je	O
 suis	O
 comme	O
@@ -2137,9 +2022,7 @@ je	O
 l’	O
 ai	O
 certainement	O
-rencontrée	O
-…	O
-	
+rencontrée…	O
 Mais	O
 il	O
 n’	O
@@ -2153,7 +2036,6 @@ loges	O
 de	O
 balcon	O
 .	O
-	
 Dans	O
 le	O
 couloir	O
@@ -2165,7 +2047,6 @@ on	O
 s’	O
 écrasait	O
 .	O
-	
 Pour	O
 avancer	O
 ,	O
@@ -2186,7 +2067,6 @@ jouant	O
 des	O
 coudes	O
 .	O
-	
 Adossé	O
 sous	O
 une	O
@@ -2212,7 +2092,6 @@ un	O
 cercle	O
 attentif	O
 .	O
-	
 Des	O
 gens	O
 ,	O
@@ -2225,7 +2104,6 @@ nommaient	O
 à	O
 demi-voix	O
 .	O
-	
 Il	O
 avait	O
 ri	O
@@ -2241,7 +2119,6 @@ rumeur	O
 des	O
 couloirs	O
 ;	O
-	
 pourtant	O
 ,	O
 il	O
@@ -2258,7 +2135,6 @@ de	O
 la	O
 morale	O
 .	O
-	
 Plus	O
 loin	O
 ,	O
@@ -2286,7 +2162,6 @@ tourné	O
 l’	O
 aigre	O
 .	O
-	
 Le	O
 décor	O
 du	O
@@ -2296,7 +2171,6 @@ fut	O
 une	O
 surprise	O
 .	O
-	
 On	O
 était	O
 dans	O
@@ -2329,7 +2203,6 @@ tapant	O
 des	O
 talons	O
 .	O
-	
 Cette	O
 échappée	O
 canaille	O
@@ -2351,7 +2224,6 @@ bissa	O
 la	O
 ronde	O
 .	O
-	
 Et	O
 c’	O
 était	O
@@ -2381,7 +2253,6 @@ procéder	O
 son	O
 enquête	O
 .	O
-	
 Ils	O
 s’	O
 étaient	O
@@ -2391,7 +2262,6 @@ garder	O
 l’	O
 incognito	O
 .	O
-	
 Jupiter	S-PER
 entra	O
 en	O
@@ -2411,7 +2281,6 @@ couronne	O
 de	O
 fer-blanc	O
 .	O
-	
 Phébus	S-PER
 parut	O
 en	O
@@ -2424,7 +2293,6 @@ en	O
 Nourrice	O
 normande	O
 .	O
-	
 De	O
 grands	O
 éclats	O
@@ -2442,7 +2310,6 @@ d’	O
 Amiral	O
 suisse	O
 .	O
-	
 Mais	O
 les	O
 rires	O
@@ -2485,7 +2352,6 @@ grasse	O
 De	O
 quoi	O
 !	O
-	
 quand	O
 on	O
 est	O
@@ -2498,7 +2364,6 @@ se	O
 laisser	O
 aimer	O
 !	O
-	
 »	O
 Il	O
 y	O
@@ -2506,10 +2371,8 @@ eut	O
 quelques	O
 oh	O
 !	O
-	
 oh	O
 !	O
-	
 tandis	O
 que	O
 les	O
@@ -2520,7 +2383,6 @@ peu	O
 leurs	O
 éventails	O
 .	O
-	
 Lucy	S-PER
 ,	O
 dans	O
@@ -2543,9 +2405,7 @@ coup	O
 d’	O
 éventail	O
 .	O
-	
 —	O
-	
 En	O
 voilà	O
 pour	O
@@ -2559,7 +2419,6 @@ obligeamment	O
 la	B-PER
 Faloise	E-PER
 .	O
-	
 Paris	S-LOC
 entier	O
 va	O
@@ -2568,12 +2427,10 @@ défiler	O
 votre	O
 théâtre	O
 .	O
-	
 —	O
 Très	O
 chic	O
 !	O
-	
 —	O
 Pour	O
 rien	O
@@ -2590,14 +2447,11 @@ de	O
 ce	O
 soir	O
 .	O
-	
 Je	O
 savais	O
 que	O
 votre	O
-théâtre	O
-…	O
-	
+théâtre…	O
 Et	O
 ,	O
 par	O
@@ -2635,7 +2489,6 @@ de	O
 l’	O
 impératrice	O
 .	O
-	
 Fauchery	S-PER
 ,	O
 qui	O
@@ -2663,7 +2516,6 @@ beaux	O
 yeux	O
 noirs	O
 .	O
-	
 —	O
 Chez	O
 la	B-PER
@@ -2671,7 +2523,6 @@ Tricon	E-PER
 ,	O
 peut-être	O
 .	O
-	
 —	O
 Il	O
 faut	O
@@ -2687,9 +2538,7 @@ dit	O
 la	B-PER
 Faloise	E-PER
 .	O
-	
 —	O
-	
 Deux	O
 bouquets	O
 ,	O
@@ -2702,7 +2551,6 @@ remettez	O
 l’	O
 ouvreuse	O
 ;	O
-	
 un	O
 pour	O
 chacune	O
@@ -2719,9 +2567,7 @@ est	O
 -ce	O
 pas	O
 ?	O
-	
 —	O
-	
 Tu	O
 me	O
 présenteras	O
@@ -2734,7 +2580,6 @@ finit	O
 par	O
 dire	O
 .	O
-	
 Je	O
 me	O
 suis	O
@@ -2752,11 +2597,9 @@ aller	O
 leurs	O
 mardis	O
 .	O
-	
 —	O
 Ah	O
 !	O
-	
 çà	O
 ,	O
 dit	O
@@ -2777,18 +2620,15 @@ toutes	O
 les	O
 femmes	O
 ?…	O
-	
 Le	O
 voilà	O
 maintenant	O
 avec	O
 Blanche	S-PER
 .	O
-	
 —	O
 Tiens	O
 !	O
-	
 Lucy	S-PER
 ,	O
 là-bas	O
@@ -2804,7 +2644,6 @@ Faloise	E-PER
 à	O
 Fauchery	S-PER
 .	O
-	
 Il	O
 baissa	O
 la	O
@@ -2814,16 +2653,13 @@ ajouta	O
 en	O
 riant	O
 :	O
-	
 —	O
 Elle	O
 !	O
 …	O
-	
 Un	O
 paquet	O
 !	O
-	
 Elle	O
 ne	O
 sait	O

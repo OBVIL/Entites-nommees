@@ -60,10 +60,12 @@ my $filepath;
 my $help = 0;
 my $replace = 0;
 my $skip_verification = 0;
+my $ner = 'stanza';
 
 GetOptions(
 	'help'            => \$help,
 	'debug'           => \$debug,
+	'ner=s'			  => \$ner,
 	'skip-verification' => \$skip_verification
 );
 
@@ -81,7 +83,7 @@ foreach my $file (@ARGV) {
 	$file =~ s/\.\w\w\w$//;
 	#find the 'predictions' file for the current text
 	my $pred_file = $file;
-	$pred_file =~ s/corpus-annotations-golds\/Gold_(.+)/evaluation\/L3i_NERC-EL\/$1/;
+	$pred_file =~ s/corpus-annotations-golds\/Gold_(.+)/evaluation\/$ner\/$1/;
 	my $out_file = $pred_file;
 	$pred_file =~ s/Gold_/Predictions_/;
 	$out_file =~ s/Predictions_/Gold_/;

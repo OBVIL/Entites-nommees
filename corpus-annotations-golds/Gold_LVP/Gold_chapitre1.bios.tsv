@@ -639,8 +639,7 @@ dit	O
 -elle	O
 ...	O
 Où	O
-alliez	O
--vous	O
+alliez-vous	O
 ?	O
 --	O
 Je	O
@@ -664,8 +663,7 @@ effort	O
 et	O
 le	O
 regard	O
-inquiet	O
-:	O
+inquiet:	O
 --	O
 J'	O
 allais	O
@@ -752,8 +750,7 @@ trop	O
 maigre	O
 pour	O
 avoir	O
-bu	O
-.	O
+bu.	O
 --	O
 Et	O
 où	O
@@ -790,8 +787,7 @@ consulter	O
 puis	O
 ,	O
 en	O
-hésitant	O
-:	O
+hésitant:	O
 --	O
 Par	O
 là	O
@@ -851,8 +847,7 @@ las	O
 ,	O
 murmura	O
 -t	O
--il	O
-.	O
+-il.	O
 Alors	O
 ,	O
 elle	O
@@ -869,8 +864,7 @@ le	O
 poussa	O
 ,	O
 en	O
-disant	O
-:	O
+disant:	O
 --	O
 Allons	O
 ,	O
@@ -933,8 +927,7 @@ tout	O
 fait	O
 fâchée	O
 ,	O
-criant	O
-:	O
+criant:	O
 --	O
 A	O
 la	O
@@ -1048,8 +1041,7 @@ s'	O
 allongea	O
 ,	O
 en	O
-grondant	O
-:	O
+grondant:	O
 --	O
 Ah!	O
 malheur	O
@@ -3236,8 +3228,7 @@ s'	O
 asseyant	O
 près	O
 de	O
-lui	O
-:	O
+lui:	O
 --	O
 Dites	O
 donc	O
@@ -3426,8 +3417,7 @@ comment	O
 la	O
 nomme	O
 -t	O
--on	O
-?	O
+-on?	O
 --	O
 C'	O
 est	O
@@ -4851,8 +4841,7 @@ de	O
 Florent	S-PER
 ,	O
 en	O
-disant	O
-:	O
+disant:	O
 --	O
 Cette	O
 pauvre	O
@@ -5112,8 +5101,7 @@ offenser	O
 du	O
 silence	O
 de	O
-Florent	S-PER
-:	O
+Florent:	S-PER
 --	O
 Moi	O
 ,	O
@@ -5282,8 +5270,7 @@ rassurer	O
 elle-même	O
 sur	O
 son	O
-sort	O
-:	O
+sort:	O
 --	O
 Ah!	O
 bien	O

@@ -12,7 +12,6 @@ scène	O
 la	B-PER
 Faloise	E-PER
 .	O
-	
 Elle	O
 avait	O
 vu	O
@@ -27,7 +26,6 @@ homme	O
 de	O
 Simonne	S-PER
 .	O
-	
 Celui-ci	O
 était	O
 allé	O
@@ -41,7 +39,6 @@ gaz	O
 du	O
 vestibule	O
 .	O
-	
 «	O
 Pas	O
 possible	O
@@ -55,7 +52,6 @@ je	O
 suis	O
 prise	O
 .	O
-	
 »	O
 Et	O
 ,	O
@@ -72,7 +68,6 @@ il	O
 avait	O
 disparu	O
 .	O
-	
 Au	O
 moins	O
 en	O
@@ -83,7 +78,6 @@ savait	O
 se	O
 conduire	O
 !	O
-	
 Ce	O
 n’	O
 était	O
@@ -123,7 +117,6 @@ sentait	O
 guère	O
 bon	O
 .	O
-	
 Fallait	O
 -il	O
 que	O
@@ -132,13 +125,11 @@ tînt	O
 les	O
 hommes	O
 !	O
-	
 Clarisse	S-PER
 remonta	O
 ,	O
 dégoûtée	O
 ;	O
-	
 elle	O
 traversa	O
 la	O
@@ -162,14 +153,12 @@ réponse	O
 à	O
 Simonne	S-PER
 .	O
-	
 La	O
 vieille	O
 dame	O
 resta	O
 grave	O
 .	O
-	
 Prullière	S-PER
 ,	O
 en	O
@@ -182,7 +171,6 @@ poignée	O
 de	O
 main	O
 .	O
-	
 Deux	O
 petites	O
 figurantes	O
@@ -191,7 +179,6 @@ contemplaient	O
 avec	O
 émotion	O
 .	O
-	
 Elle	O
 ,	O
 un	O
@@ -200,7 +187,6 @@ moment	O
 parut	O
 hésitante	O
 .	O
-	
 Puis	O
 ,	O
 elle	O
@@ -210,7 +196,6 @@ d’	O
 un	O
 geste	O
 .	O
-	
 Et	O
 l’	O
 échange	O
@@ -219,7 +204,6 @@ de	O
 paroles	O
 recommença	O
 .	O
-	
 —	O
 Son	B-PER
 Altesse	E-PER
@@ -233,7 +217,6 @@ s’	O
 inclinant	O
 toujours	O
 .	O
-	
 Le	O
 théâtre	O
 n’	O
@@ -248,7 +231,6 @@ que	O
 nous	O
 pouvons	O
 …	O
-	
 Maintenant	O
 ,	O
 si	O
@@ -256,9 +238,7 @@ Son	B-PER
 Altesse	E-PER
 daigne	O
 me	O
-suivre	O
-…	O
-	
+suivre…	O
 Alors	O
 ,	O
 Simonne	S-PER
@@ -298,7 +278,6 @@ de	O
 la	O
 concierge	O
 .	O
-	
 Cette	O
 loge	O
 ,	O
@@ -342,7 +321,6 @@ flammes	O
 de	O
 gaz	O
 .	O
-	
 Dans	O
 un	O
 casier	O
@@ -355,7 +333,6 @@ journaux	O
 s’	O
 empilaient	O
 .	O
-	
 Sur	O
 la	O
 table	O
@@ -388,7 +365,6 @@ refaisait	O
 les	O
 boutonnières	O
 .	O
-	
 Et	O
 ,	O
 au	O
@@ -441,7 +417,6 @@ avec	O
 des	O
 réponses	O
 .	O
-	
 Elle	O
 venait	O
 justement	O
@@ -504,7 +479,6 @@ je	O
 suis	O
 prise	O
 .	O
-	
 »	O
 La	B-PER
 Faloise	E-PER
@@ -524,7 +498,6 @@ et	O
 le	O
 poêle	O
 ;	O
-	
 il	O
 semblait	O
 décidé	O
@@ -575,7 +548,6 @@ ses	O
 yeux	O
 jaunes	O
 .	O
-	
 —	O
 C’	O
 est	O
@@ -588,7 +560,6 @@ dit	O
 le	O
 prince	O
 ;	O
-	
 mais	O
 je	O
 n’	O
@@ -602,11 +573,8 @@ au	O
 désir	O
 de	O
 vous	O
-complimenter	O
-…	O
-	
-L’	O
-habilleuse	O
+complimenter…	O
+L’habilleuse	O
 ,	O
 une	O
 jeune	O
@@ -632,7 +600,6 @@ tordit	O
 de	O
 rire	O
 .	O
-	
 Toutes	O
 trois	O
 se	O
@@ -646,7 +613,6 @@ redoublaient	O
 leur	O
 gaieté	O
 .	O
-	
 Cependant	O
 ,	O
 les	O
@@ -663,7 +629,6 @@ un	O
 à	O
 un	O
 .	O
-	
 Des	O
 groupes	O
 d’	O
@@ -702,7 +667,6 @@ enlevé	O
 leur	O
 rouge	O
 .	O
-	
 Sur	O
 la	O
 scène	O
@@ -725,13 +689,11 @@ anecdote	O
 de	O
 Bordenave	S-PER
 .	O
-	
 Il	O
 voulait	O
 attendre	O
 Nana	S-PER
 .	O
-	
 Quand	O
 celle-ci	O
 parut	O
@@ -755,7 +717,6 @@ promenait	O
 une	O
 lanterne	O
 .	O
-	
 Bordenave	O
 ,	O
 pour	O
@@ -789,7 +750,6 @@ vestibule	O
 du	O
 théâtre	O
 .	O
-	
 Et	O
 c’	O
 était	O
@@ -819,7 +779,6 @@ dans	O
 le	O
 passage	O
 .	O
-	
 Elles	O
 se	O
 bousculaient	O
@@ -838,7 +797,6 @@ respirant	O
 seulement	O
 dehors	O
 ;	O
-	
 tandis	O
 que	O
 Fontan	S-PER
@@ -882,14 +840,12 @@ amants	O
 de	O
 cœur	O
 .	O
-	
 Mais	O
 Clarisse	S-PER
 surtout	O
 fut	O
 maligne	O
 .	O
-	
 Elle	O
 se	O
 méfiait	O
@@ -897,7 +853,6 @@ de	O
 la	B-PER
 Faloise	E-PER
 .	O
-	
 En	O
 effet	O
 ,	O
@@ -924,13 +879,11 @@ de	O
 madame	B-PER
 Bron	E-PER
 .	O
-	
 Tous	O
 tendaient	O
 le	O
 nez	O
 .	O
-	
 Alors	O
 ,	O
 elle	O
@@ -941,7 +894,6 @@ derrière	O
 une	O
 amie	O
 .	O
-	
 Ces	O
 messieurs	O
 clignaient	O
@@ -983,7 +935,6 @@ reconnaître	O
 une	O
 seule	O
 .	O
-	
 La	O
 portée	O
 des	O
@@ -1008,7 +959,6 @@ les	O
 pattes	O
 élargies	O
 ;	O
-	
 pendant	O
 que	O
 le	O
@@ -1039,12 +989,10 @@ femmes	O
 se	O
 sauver	O
 .	O
-	
 Elle	O
 cherchait	O
 Satin	S-PER
 .	O
-	
 Lorsqu’	O
 elle	O
 l’	O
@@ -1064,7 +1012,6 @@ lui	O
 répondit	O
 tranquillement	O
 :	O
-	
 —	O
 Parbleu	O
 !	O
@@ -1074,7 +1021,6 @@ va	O
 en	O
 ville	O
 !	O
-	
 murmura	O
 méchamment	O
 Prullière	S-PER
@@ -1098,9 +1044,7 @@ adoré	O
 des	O
 loges	O
 .	O
-	
 —	O
-	
 Il	O
 est	O
 un	O
@@ -1133,9 +1077,7 @@ réconcilier	O
 chez	O
 elle	O
 .	O
-	
 —	O
-	
 Si	O
 Son	B-PER
 Altesse	E-PER
@@ -1144,7 +1086,6 @@ bien	O
 me	O
 suivre	O
 …	O
-	
 Son	B-PER
 Altesse	E-PER
 daignerait	O
@@ -1152,18 +1093,14 @@ daignerait	O
 passer	O
 par	O
 ici…	O
-	
 Que	O
 Son	B-PER
 Altesse	E-PER
 prenne	O
 garde…	O
-	
 —	O
-	
 Oh	O
 !	O
-	
 le	B-PER
 père	I-PER
 Bosc	E-PER
@@ -1172,12 +1109,10 @@ fait	O
 un	O
 effet	O
 !	O
-	
 cria	O
 -t	O
 -elle	O
 .	O
-	
 Le	O
 prince	O
 se	O
@@ -1199,7 +1134,6 @@ l’	O
 avait	O
 payé	O
 …	O
-	
 Dites	O
 donc	O
 ,	O
@@ -1218,7 +1152,6 @@ dans	O
 l’	O
 avant-scène	O
 ?	O
-	
 Un	O
 bel	O
 homme	O
@@ -1232,7 +1165,6 @@ des	O
 favoris	O
 superbes	O
 .	O
-	
 —	O
 Mon	O
 Dieu	S-PER
@@ -1246,7 +1178,6 @@ ici	O
 dit	O
 -il	O
 .	O
-	
 Comment	O
 faites	O
 -vous	O
@@ -1260,15 +1191,12 @@ une	O
 pareille	O
 température	O
 ?	O
-	
 —	O
 Ah	O
 !	O
-	
 les	O
 chameaux	O
 !	O
-	
 s’	O
 écria	O
 tout	O
@@ -1280,7 +1208,6 @@ enrouée	O
 de	O
 Bordenave	S-PER
 .	O
-	
 Tout	O
 le	O
 monde	O
@@ -1299,7 +1226,6 @@ faire	O
 sa	O
 cour	O
 .	O
-	
 Un	O
 mot	O
 exquis	O
@@ -1314,7 +1240,6 @@ le	O
 remarqua	O
 Bordenave	S-PER
 .	O
-	
 Nana	S-PER
 ne	O
 répondait	O
@@ -1330,7 +1255,6 @@ décidait	O
 sans	O
 doute	O
 .	O
-	
 Alors	O
 ,	O
 le	B-PER
@@ -1346,7 +1270,6 @@ examina	O
 la	O
 loge	O
 .	O
-	
 C’	O
 était	O
 une	O
@@ -1366,7 +1289,6 @@ une	O
 havane	O
 clair	O
 .	O
-	
 Le	O
 rideau	O
 de	O
@@ -1388,7 +1310,6 @@ sorte	O
 de	O
 cabinet	O
 .	O
-	
 Deux	O
 larges	O
 fenêtres	O
@@ -1426,7 +1347,6 @@ des	O
 carrés	O
 jaunes	O
 .	O
-	
 Une	O
 grande	O
 psyché	O
@@ -1461,7 +1381,6 @@ et	O
 les	O
 poudres	O
 .	O
-	
 Le	O
 comte	O
 s’	O
@@ -1483,7 +1402,6 @@ sueur	O
 au	O
 front	O
 ;	O
-	
 il	O
 baissa	O
 les	O
@@ -1522,7 +1440,6 @@ absorber	O
 un	O
 instant	O
 .	O
-	
 Ce	O
 sentiment	O
 de	O
@@ -1546,7 +1463,6 @@ envahissait	O
 de	O
 nouveau	O
 .	O
-	
 Sous	O
 ses	O
 pieds	O
@@ -1561,7 +1477,6 @@ de	O
 la	O
 loge	O
 ;	O
-	
 les	O
 becs	O
 de	O
@@ -1587,7 +1502,6 @@ de	O
 ses	O
 tempes	O
 .	O
-	
 Un	O
 moment	O
 ,	O
@@ -1625,7 +1539,6 @@ les	O
 deux	O
 fenêtres	O
 .	O
-	
 Mais	O
 il	O
 se	O
@@ -1672,7 +1585,6 @@ avait	O
 failli	O
 mourir	O
 .	O
-	
 Quand	O
 les	O
 tubéreuses	O
@@ -1685,7 +1597,6 @@ une	O
 odeur	O
 humaine	O
 .	O
-	
 Fontan	S-PER
 s’	O
 était	O
@@ -1717,7 +1628,6 @@ que	O
 vous	O
 voulez	O
 ?	O
-	
 De	O
 nouveau	O
 ,	O
@@ -1745,7 +1655,6 @@ une	O
 foule	O
 applaudissait	O
 .	O
-	
 Simonne	S-PER
 et	O
 Clarisse	S-PER
@@ -1755,7 +1664,6 @@ toujours	O
 sur	O
 Nana	S-PER
 .	O
-	
 En	O
 voilà	O
 une	O
@@ -1765,7 +1673,6 @@ se	O
 pressait	O
 guère	O
 !	O
-	
 la	O
 veille	O
 encore	O
@@ -1775,7 +1682,6 @@ manqué	O
 son	O
 entrée	O
 .	O
-	
 Mais	O
 tous	O
 se	O
@@ -1805,7 +1711,6 @@ fond	O
 du	O
 couloir	O
 .	O
-	
 C’	O
 était	O
 Satin	S-PER
@@ -1825,12 +1730,10 @@ dame	O
 en	O
 visite	O
 .	O
-	
 Une	O
 jolie	O
 roulure	O
 !	O
-	
 murmura	O
 Prullière	S-PER
 ,	O
@@ -1845,7 +1748,6 @@ café	I-LOC
 des	I-LOC
 Variétés	E-LOC
 .	O
-	
 Et	O
 Simonne	S-PER
 conta	O
@@ -1877,20 +1779,16 @@ la	O
 fît	O
 débuter	O
 .	O
-	
 —	O
-	
 Où	O
 est	O
 -elle	O
 donc	O
 ?	O
-	
 demanda	O
 -t	O
 -elle	O
 .	O
-	
 Un	O
 cri	O
 de	O
@@ -1938,7 +1836,6 @@ en	O
 l’	O
 air	O
 .	O
-	
 Mais	O
 un	O
 murmure	O
@@ -1948,7 +1845,6 @@ courut	O
 Le	O
 prince	O
 !	O
-	
 Le	O
 prince	O
 !	O
@@ -1966,7 +1862,6 @@ de	O
 la	O
 salle	O
 .	O
-	
 On	O
 n’	O
 apercevait	O
@@ -1997,7 +1892,6 @@ de	O
 saluts	O
 obséquieux	O
 .	O
-	
 Puis	O
 ,	O
 le	O
@@ -2036,7 +1930,6 @@ de	O
 la	O
 redingote	O
 .	O
-	
 Derrière	O
 lui	O
 ,	O
@@ -2050,7 +1943,6 @@ marquis	I-PER
 de	I-PER
 Chouard	E-PER
 .	O
-	
 Ce	O
 coin	O
 du	O
@@ -2071,7 +1963,6 @@ grandes	O
 ombres	O
 mouvantes	O
 .	O
-	
 Pour	O
 parler	O
 à	O
@@ -2102,11 +1993,9 @@ une	O
 fausse	O
 émotion	O
 .	O
-	
 Il	O
 répétait	O
 :	O
-	
 Complaisamment	O
 ,	O
 le	O
@@ -2115,7 +2004,6 @@ balançait	O
 son	O
 verre	O
 .	O
-	
 Il	O
 attendit	O
 ,	O
@@ -2127,9 +2015,7 @@ fois	O
 en	O
 murmurant	O
 :	O
-	
 —	O
-	
 Vous	O
 savez	O
 ,	O
@@ -2137,7 +2023,6 @@ je	O
 suis	O
 propriétaire	O
 …	O
-	
 Oui	O
 ,	O
 j’	O
@@ -2159,7 +2044,6 @@ vous	O
 allez	O
 quelquefois	O
 .	O
-	
 Bébé	S-PER
 m’	O
 a	O
@@ -2183,16 +2067,13 @@ voir	O
 ,	O
 là-bas	O
 .	O
-	
 —	O
-	
 Je	O
 vais	O
 recevoir	O
 Son	B-PER
 Altesse	E-PER
 .	O
-	
 Et	O
 il	O
 l’	O
@@ -2210,7 +2091,6 @@ remettre	O
 par	O
 terre	O
 .	O
-	
 Devant	O
 les	O
 rires	O
@@ -2222,7 +2102,6 @@ Fauchery	S-PER
 devint	O
 pâle	O
 ;	O
-	
 ses	O
 lèvres	O
 tremblaient	O
@@ -2259,7 +2138,6 @@ deux	O
 ,	O
 répétant	O
 :	O
-	
 Et	O
 elle	O
 ajouta	O
@@ -2272,18 +2150,15 @@ s’	O
 en	O
 allait	O
 .	O
-	
 Mais	O
 Nana	S-PER
 la	O
 retint	O
 .	O
-	
 Était	O
 -elle	O
 bête	O
 !	O
-	
 Puisque	O
 Bordenave	S-PER
 consentait	O
@@ -2291,7 +2166,6 @@ consentait	O
 la	O
 prendre	O
 !	O
-	
 On	O
 terminerait	O
 l’	O
@@ -2300,11 +2174,9 @@ après	O
 le	O
 spectacle	O
 .	O
-	
 Satin	S-PER
 hésitait	O
 .	O
-	
 Il	O
 y	O
 avait	O
@@ -2319,13 +2191,11 @@ plus	O
 son	O
 monde	O
 .	O
-	
 Pourtant	O
 ,	O
 elle	O
 resta	O
 .	O
-	
 —	O
 Bonsoir	O
 ,	O
@@ -2341,7 +2211,6 @@ familièrement	O
 la	O
 baisa	O
 .	O
-	
 Simonne	S-PER
 et	O
 Clarisse	S-PER
@@ -2357,7 +2226,6 @@ bruit	O
 de	O
 jupes	O
 .	O
-	
 Tout	O
 s’	O
 engouffra	O
@@ -2390,7 +2258,6 @@ battait	O
 la	O
 fenêtre	O
 .	O
-	
 Barillot	S-PER
 ,	O
 un	O
@@ -2418,7 +2285,6 @@ sa	O
 tabatière	O
 ouverte	O
 .	O
-	
 Cette	O
 prise	O
 offerte	O
@@ -2445,7 +2311,6 @@ couloirs	O
 des	O
 loges	O
 .	O
-	
 Il	O
 y	O
 avait	O
@@ -2459,7 +2324,6 @@ il	O
 la	O
 nommait	O
 ;	O
-	
 mais	O
 celle	O
 -là	O
@@ -2487,7 +2351,6 @@ elle	O
 la	O
 manquait	O
 .	O
-	
 Il	O
 s’	O
 arrêta	O
@@ -2496,9 +2359,7 @@ arrêta	O
 ,	O
 murmurant	O
 :	O
-	
 —	O
-	
 Tout	O
 de	O
 suite	O
@@ -2508,7 +2369,6 @@ est	O
 -ce	O
 pas	O
 ?	O
-	
 dit	O
 -elle	O
 en	O
@@ -2517,13 +2377,11 @@ retournant	O
 vers	O
 Simonne	S-PER
 .	O
-	
 Simonne	S-PER
 semblait	O
 fort	O
 ennuyée	O
 .	O
-	
 La	O
 lettre	O
 était	O
@@ -2539,7 +2397,6 @@ pour	O
 le	O
 soir	O
 .	O
-	
 Elle	O
 remit	O
 à	O
@@ -2562,14 +2419,12 @@ je	O
 suis	O
 prise	O
 .	O
-	
 »	O
 Mais	O
 elle	O
 restait	O
 inquiète	O
 ;	O
-	
 ce	O
 jeune	O
 homme	O
@@ -2580,7 +2435,6 @@ attendre	O
 quand	O
 même	O
 .	O
-	
 Comme	O
 elle	O
 n’	O
@@ -2597,7 +2451,6 @@ tout	O
 de	O
 suite	O
 .	O
-	
 Alors	O
 ,	O
 elle	O
@@ -2607,7 +2460,6 @@ d’	O
 aller	O
 voir	O
 .	O
-	
 Celle-ci	O
 entrait	O
 seulement	O
@@ -2620,7 +2472,6 @@ de	O
 l’	O
 acte	O
 .	O
-	
 Elle	O
 descendit	O
 ,	O
@@ -2639,7 +2490,6 @@ occupaient	O
 en	O
 commun	O
 .	O
-	
 —	O
 Tout	O
 à	O
@@ -2650,7 +2500,6 @@ répondit	O
 tranquillement	O
 Nana	O
 .	O
-	
 Le	O
 comte	O
 ,	O
@@ -2684,7 +2533,6 @@ rendre	O
 son	O
 invitation	O
 .	O
-	
 Puis	O
 ,	O
 il	O
@@ -2696,7 +2544,6 @@ dans	O
 un	O
 rêve	O
 .	O
-	
 Et	O
 ,	O
 se	O
@@ -2705,13 +2552,11 @@ vers	O
 le	O
 comte	O
 :	O
-	
 Mignon	S-PER
 était	O
 devenu	O
 grave	O
 .	O
-	
 Ce	O
 Steiner	S-PER
 qui	O
@@ -2724,7 +2569,6 @@ Rose	S-PER
 ,	O
 autrefois	O
 !	O
-	
 Enfin	O
 ,	O
 il	O
@@ -2742,7 +2586,6 @@ occasion	O
 à	O
 retrouver	O
 .	O
-	
 Pris	O
 de	O
 rêverie	O
@@ -2761,7 +2604,6 @@ cheminée	O
 la	O
 console	O
 .	O
-	
 Il	O
 n’	O
 y	O
@@ -2775,7 +2617,6 @@ dans	O
 le	O
 foyer	O
 .	O
-	
 Le	O
 journaliste	O
 ,	O
@@ -2791,7 +2632,6 @@ du	O
 grand	O
 fauteuil	O
 ;	O
-	
 et	O
 il	O
 restait	O
@@ -2812,7 +2652,6 @@ jetait	O
 en	O
 passant	O
 .	O
-	
 Quand	O
 ils	O
 étaient	O
@@ -2830,7 +2669,6 @@ tapes	O
 quoi	O
 bon	O
 ?	O
-	
 puisque	O
 personne	O
 n’	O
@@ -2840,7 +2678,6 @@ de	O
 la	O
 scène	O
 .	O
-	
 Il	O
 se	O
 désintéressait	O
@@ -2855,7 +2692,6 @@ de	O
 mari	O
 goguenard	O
 .	O
-	
 Fauchery	S-PER
 ,	O
 heureux	O
@@ -2887,7 +2723,6 @@ baromètre	O
 la	O
 pendule	O
 .	O
-	
 Dans	O
 sa	O
 marche	O
@@ -2924,7 +2759,6 @@ cour	O
 se	O
 creusait	O
 .	O
-	
 La	O
 pluie	O
 avait	O
@@ -2953,7 +2787,6 @@ becs	O
 de	O
 gaz	O
 .	O
-	
 Plus	O
 un	O
 bruit	O
@@ -2962,7 +2795,6 @@ montait	O
 des	O
 coulisses	O
 .	O
-	
 L’	O
 escalier	O
 et	O
@@ -2971,7 +2803,6 @@ couloirs	O
 semblaient	O
 morts	O
 .	O
-	
 C’	O
 était	O
 une	O
@@ -3011,7 +2842,6 @@ bourdonnement	O
 d’	O
 asphyxie	O
 .	O
-	
 Le	O
 prince	O
 ,	O
@@ -3044,7 +2874,6 @@ de	O
 tête	O
 involontaire	O
 .	O
-	
 Muffat	S-PER
 ,	O
 pour	O
@@ -3056,7 +2885,6 @@ regarda	O
 le	O
 tapis	O
 .	O
-	
 D’	O
 ailleurs	O
 ,	O
@@ -3072,7 +2900,6 @@ gaze	O
 aux	O
 épaules	O
 .	O
-	
 Madame	B-PER
 Jules	E-PER
 tournait	O
@@ -3095,7 +2922,6 @@ vides	O
 et	O
 clairs	O
 ;	O
-	
 et	O
 ,	O
 vivement	O
@@ -3139,9 +2965,7 @@ de	O
 son	O
 sexe	O
 .	O
-	
 —	O
-	
 Est	O
 -ce	O
 qu’	O
@@ -3149,7 +2973,6 @@ il	O
 est	O
 arrivé	O
 ?	O
-	
 demanda	O
 Prullière	S-PER
 ,	O
@@ -3176,11 +2999,9 @@ son	O
 plumet	O
 immense	O
 .	O
-	
 —	O
 Ah	O
 !	O
-	
 oui	O
 ,	O
 je	O
@@ -3191,9 +3012,7 @@ campagne	O
 de	O
 Nana	S-PER
 .	O
-	
 —	O
-	
 Oui	O
 ,	O
 j’	O
@@ -3224,7 +3043,6 @@ des	O
 sourires	O
 embarrassés	O
 .	O
-	
 Le	B-PER
 comte	I-PER
 Muffat	E-PER
@@ -3236,7 +3054,6 @@ ouvert	O
 les	O
 lèvres	O
 .	O
-	
 Il	O
 songeait	O
 invinciblement	O
@@ -3244,7 +3061,6 @@ invinciblement	O
 sa	O
 jeunesse	O
 .	O
-	
 Sa	O
 chambre	O
 d’	O
@@ -3253,7 +3069,6 @@ enfant	O
 toute	O
 froide	O
 .	O
-	
 Plus	O
 tard	O
 ,	O
@@ -3282,7 +3097,6 @@ de	O
 ce	O
 baiser	O
 .	O
-	
 Un	O
 jour	O
 ,	O
@@ -3304,7 +3118,6 @@ qui	O
 se	O
 débarbouillait	O
 ;	O
-	
 et	O
 c’	O
 était	O
@@ -3323,7 +3136,6 @@ puberté	O
 son	O
 mariage	O
 .	O
-	
 Puis	O
 ,	O
 il	O
@@ -3339,7 +3151,6 @@ aux	O
 devoirs	O
 conjugaux	O
 ;	O
-	
 lui-même	O
 éprouvait	O
 une	O
@@ -3348,7 +3159,6 @@ de	O
 répugnance	O
 dévote	O
 .	O
-	
 Il	O
 grandissait	O
 ,	O
@@ -3378,7 +3188,6 @@ et	O
 des	O
 lois	O
 .	O
-	
 Et	O
 ,	O
 brusquement	O
@@ -3397,7 +3206,6 @@ cette	O
 fille	O
 nue	O
 .	O
-	
 Lui	O
 qui	O
 n’	O
@@ -3442,7 +3250,6 @@ et	O
 si	O
 douce	O
 .	O
-	
 Tout	O
 son	O
 être	O
@@ -3479,13 +3286,11 @@ bercé	O
 son	O
 enfance	O
 .	O
-	
 Il	O
 croyait	O
 au	O
 diable	S-PER
 .	O
-	
 Nana	S-PER
 ,	O
 confusément	O
@@ -3509,7 +3314,6 @@ gonflées	O
 de	O
 vices	O
 .	O
-	
 Mais	O
 il	O
 se	O
@@ -3518,13 +3322,11 @@ d’	O
 être	O
 fort	O
 .	O
-	
 Il	O
 saurait	O
 se	O
 défendre	O
 .	O
-	
 Le	O
 prince	O
 retourna	O
@@ -3537,7 +3339,6 @@ Bordenave	S-PER
 l’	O
 attendait	O
 .	O
-	
 Alors	O
 ,	O
 seul	O
@@ -3593,7 +3394,6 @@ entre	O
 ses	O
 épaules	O
 .	O
-	
 C’	O
 était	O
 comme	O
@@ -3608,7 +3408,6 @@ il	O
 rendait	O
 là	O
 .	O
-	
 Nana	S-PER
 ,	O
 furieuse	O
@@ -3618,7 +3417,6 @@ déjà	O
 la	O
 main	O
 .	O
-	
 Quand	O
 elle	O
 reconnut	O
@@ -3630,7 +3428,6 @@ eut	O
 un	O
 sourire	O
 .	O
-	
 Mais	O
 Bordenave	S-PER
 venait	O
@@ -3648,7 +3445,6 @@ fond	O
 du	O
 couloir	O
 .	O
-	
 Il	O
 tourna	O
 tranquillement	O
@@ -3658,7 +3454,6 @@ de	O
 la	O
 porte	O
 ;	O
-	
 puis	O
 ,	O
 s’	O
@@ -3672,7 +3467,6 @@ silence	O
 du	O
 geste	O
 .	O
-	
 Elle	O
 leva	O
 son	O
@@ -3683,7 +3477,6 @@ haut	O
 elle	O
 dit	O
 :	O
-	
 Quelques	O
 figurantes	O
 s’	O
@@ -3691,13 +3484,11 @@ y	O
 poussaient	O
 encore	O
 .	O
-	
 Le	O
 prince	O
 suivait	O
 Nana	S-PER
 .	O
-	
 Muffat	S-PER
 et	O
 le	O
@@ -3705,7 +3496,6 @@ marquis	O
 venaient	O
 derrière	O
 .	O
-	
 C’	O
 était	O
 un	O
@@ -3743,14 +3533,12 @@ des	O
 châssis	O
 vitrés	O
 .	O
-	
 Une	O
 humidité	O
 suintait	O
 des	O
 murailles	O
 .	O
-	
 Les	O
 pas	O
 sonnaient	O
@@ -3764,7 +3552,6 @@ dans	O
 un	O
 souterrain	O
 .	O
-	
 Il	O
 y	O
 avait	O
@@ -3809,7 +3596,6 @@ maintenir	O
 la	O
 queue	O
 .	O
-	
 Nana	S-PER
 dut	O
 relever	O
@@ -3830,7 +3616,6 @@ inondait	O
 les	O
 dalles	O
 .	O
-	
 Dans	O
 le	O
 vestibule	O
@@ -3839,7 +3624,6 @@ on	O
 se	O
 salua	O
 .	O
-	
 Et	O
 ,	O
 quand	O
@@ -3866,7 +3650,6 @@ une	O
 dédaigneuse	O
 philosophie	O
 .	O
-	
 Déjà	O
 le	B-PER
 comte	I-PER
@@ -3879,7 +3662,6 @@ couloir	O
 des	O
 loges	O
 .	O
-	
 La	O
 pente	O
 assez	O
@@ -3921,7 +3703,6 @@ dans	O
 les	O
 dessous	O
 ;	O
-	
 c’	O
 était	O
 une	O
@@ -3944,7 +3725,6 @@ souffles	O
 de	O
 cave	O
 .	O
-	
 Mais	O
 ,	O
 comme	O
@@ -3956,7 +3736,6 @@ incident	O
 l’	O
 arrêta	O
 .	O
-	
 Deux	O
 petites	O
 femmes	O
@@ -3975,7 +3754,6 @@ l’	O
 du	O
 rideau	O
 .	O
-	
 L’	O
 une	O
 d’	O
@@ -4001,7 +3779,6 @@ dans	O
 la	O
 salle	O
 .	O
-	
 —	O
 Mais	O
 ne	O
@@ -4009,7 +3786,6 @@ regarde	O
 donc	O
 pas	O
 !	O
-	
 lui	O
 souffla	O
 furieusement	O
@@ -4018,16 +3794,13 @@ dans	O
 le	O
 cou	O
 .	O
-	
 Va	O
 donc	O
 !	O
-	
 va	O
 donc	O
 !	O
 …	O
-	
 Ce	O
 n’	O
 est	O
@@ -4035,7 +3808,6 @@ pas	O
 ton	O
 affaire	O
 !	O
-	
 Tu	O
 manques	O
 ton	O

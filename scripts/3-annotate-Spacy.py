@@ -25,6 +25,7 @@ for r, d, f in os.walk(location):
 			print(item)
 			with open(os.path.join(r, item)) as fn:
 				item2 = re.sub(".txt.tok", "", item)
+				item2 = "Predictions_" + item2
 				r2 = re.sub(".+(/.+?)$", "evaluation/spacy\\1", r)
 				pathtouse = str(os.path.join(r2, item2))+".bios.tsv"
 				fop = open(pathtouse, "w")

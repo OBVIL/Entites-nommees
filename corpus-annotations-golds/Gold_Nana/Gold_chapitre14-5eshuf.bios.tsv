@@ -1,10 +1,8 @@
 —	O
 Rose	S-PER
 !	O
-	
 Rose	S-PER
 !	O
-	
 —	O
 Pauvre	O
 chat	O
@@ -27,8 +25,7 @@ Gaîté	E-LOC
 ,	O
 dans	O
 la	O
-grotte	O
-…	O
+grotte…	O
 Toutes	O
 trois	O
 se	O
@@ -37,7 +34,6 @@ penchèrent	O
 très	O
 intéressées	O
 .	O
-	
 Les	O
 arbres	O
 les	O
@@ -52,7 +48,6 @@ sous	O
 les	O
 feuilles	O
 .	O
-	
 Elles	O
 tâchèrent	O
 d’	O
@@ -63,7 +58,6 @@ messieurs	O
 en	O
 bas	O
 ;	O
-	
 mais	O
 la	O
 saillie	O
@@ -99,7 +93,6 @@ dans	O
 son	O
 mouchoir	O
 .	O
-	
 Une	O
 voiture	O
 s’	O
@@ -111,13 +104,11 @@ reconnut	O
 Maria	B-PER
 Blond	E-PER
 ;	O
-	
 encore	O
 une	O
 qui	O
 accourait	O
 .	O
-	
 Elle	O
 n’	O
 était	O
@@ -131,7 +122,6 @@ descendait	O
 derrière	O
 elle	O
 .	O
-	
 Mais	O
 bientôt	O
 elles	O
@@ -139,7 +129,6 @@ oublièrent	O
 de	O
 nouveau	O
 .	O
-	
 Léa	B-PER
 de	I-PER
 Horn	E-PER
@@ -171,13 +160,11 @@ haussant	O
 les	O
 épaules	O
 :	O
-	
 La	O
 chambre	O
 était	O
 vide	O
 .	O
-	
 Un	O
 grand	O
 souffle	O
@@ -190,28 +177,23 @@ gonfla	O
 le	O
 rideau	O
 .	O
-	
 —	O
 Attends	O
 donc	O
 ,	O
 il	O
 faut	O
-voir	O
-…	O
+voir…	O
 Chambre	O
 401	O
 ,	O
 chambre	O
 401	O
 …	O
-	
 —	O
-	
 Taisez	O
 -vous	O
 !	O
-	
 c’	O
 est	O
 idiot	O
@@ -226,7 +208,6 @@ vous	O
 dites	O
 !	O
 …	O
-	
 Moi	O
 ,	O
 j’	O
@@ -245,17 +226,14 @@ grigous	O
 ma	O
 chère	O
 .	O
-	
 Et	O
 puis	O
 est	O
 venu	O
 quarante-huit	O
 .	O
-	
 Ah	O
 !	O
-	
 une	O
 jolie	O
 chose	O
@@ -266,7 +244,6 @@ dégoûtation	O
 leur	O
 République	O
 !	O
-	
 Après	O
 février	O
 ,	O
@@ -282,7 +259,6 @@ vous	O
 parle	O
 !	O
 …	O
-	
 Mais	O
 ,	O
 si	O
@@ -311,22 +287,19 @@ père	O
 oui	O
 ,	O
 notre	O
-père	O
-…	O
+père…	O
 Blanche	B-PER
 de	I-PER
 Sivry	E-PER
 fut	O
 exaspérée	O
 .	O
-	
 —	O
 La	O
 pauvre	O
 fille	O
 !	O
 …	O
-	
 Je	O
 vais	O
 lui	O
@@ -334,15 +307,12 @@ serrer	O
 la	O
 main	O
 …	O
-	
 Qu’a	O
 -t	O
 -elle	O
 donc	O
 ?	O
-	
 —	O
-	
 Je	O
 ne	O
 sais	O
@@ -356,7 +326,6 @@ un	O
 grand	O
 coup	O
 …	O
-	
 Nous	O
 n’	O
 avions	O
@@ -369,11 +338,9 @@ pour	O
 l’	O
 autre	O
 .	O
-	
 Eh	O
 bien	O
 !	O
-	
 vous	O
 voyez	O
 ,	O
@@ -382,7 +349,6 @@ en	O
 suis	O
 imbécile	O
 …	O
-	
 Oh	O
 !	O
 toutes	O
@@ -410,20 +376,16 @@ besoin	O
 d’	O
 air	O
 .	O
-	
 —	O
 À	O
 Berlin	S-LOC
 !	O
-	
 à	O
 Berlin	S-LOC
 !	O
-	
 à	O
 Berlin	S-LOC
 !	O
-	
 —	O
 Voyons	O
 ,	O
@@ -432,16 +394,13 @@ montez	O
 avec	O
 nous	O
 ?	O
-	
 lui	O
 demanda	O
 Lucy	S-PER
 .	O
-	
 —	O
 Ah	O
 !	O
-	
 elle	O
 est	O
 changée	O
@@ -460,21 +419,16 @@ de	O
 morne	O
 accablement	O
 .	O
-	
 —	O
-	
 À	O
 Berlin	S-LOC
 !	O
-	
 à	O
 Berlin	S-LOC
 !	O
-	
 à	O
 Berlin	S-LOC
 !	O
-	
 Alors	O
 ,	O
 comme	O
@@ -491,7 +445,6 @@ faire	O
 descendre	O
 Rose	S-PER
 ;	O
-	
 autrement	O
 ,	O
 ils	O
@@ -500,7 +453,6 @@ par	O
 se	O
 fâcher	O
 .	O
-	
 Pourtant	O
 ,	O
 Lucy	S-PER
@@ -513,7 +465,6 @@ tout	O
 de	O
 suite	O
 .	O
-	
 Elles	O
 avaient	O
 aperçu	O
@@ -536,7 +487,6 @@ de	O
 la	O
 foule	O
 .	O
-	
 Quand	O
 il	O
 sut	O
@@ -555,7 +505,6 @@ jouant	O
 le	O
 sentiment	O
 ;	O
-	
 Un	O
 soir	O
 de	O
@@ -592,7 +541,6 @@ fournisseur	O
 du	O
 voisinage	O
 .	O
-	
 Elle	O
 l’	O
 appela	O
@@ -605,18 +553,15 @@ suite	O
 —	O
 Morte	O
 !	O
-	
 en	O
 voilà	O
 une	O
 idée	O
 !	O
-	
 cria	O
 Caroline	S-PER
 stupéfaite	O
 .	O
-	
 Et	O
 où	O
 donc	O
@@ -625,15 +570,12 @@ et	O
 de	O
 quoi	O
 ?	O
-	
 —	O
-	
 C’	O
 est	O
 la	O
 fin	O
 .	O
-	
 Ils	O
 sont	O
 fous	O
@@ -641,7 +583,6 @@ fous	O
 aux	B-LOC
 Tuileries	E-LOC
 .	O
-	
 Hier	O
 ,	O
 voyez	O
@@ -654,9 +595,7 @@ dû	O
 plutôt	O
 les	O
 chasser…	O
-	
 —	O
-	
 Qu’	O
 est	O
 -ce	O
@@ -668,7 +607,6 @@ fiche	O
 dit	O
 Clarisse	S-PER
 .	O
-	
 Nous	O
 n’	O
 avons	O
@@ -680,7 +618,6 @@ faire	O
 ,	O
 peut-être	O
 !	O
-	
 —	O
 Bien	O
 sûr	O
@@ -688,7 +625,6 @@ sûr	O
 ajouta	O
 Simonne	S-PER
 .	O
-	
 Ça	O
 va	O
 être	O
@@ -702,7 +638,6 @@ contraire	O
 que	O
 ça	O
 marchera…	O
-	
 —	O
 Tu	O
 as	O
@@ -713,10 +648,8 @@ es	O
 libre	O
 ?	O
 …	O
-	
 Oh	O
 !	O
-	
 alors	O
 ,	O
 ma	O
@@ -730,21 +663,16 @@ est	O
 de	O
 retour	O
 .	O
-	
 —	O
-	
 À	O
 Berlin	S-LOC
 !	O
-	
 à	O
 Berlin	S-LOC
 !	O
-	
 à	O
 Berlin	S-LOC
 !	O
-	
 —	O
 Au	B-LOC
 Grand	I-LOC
@@ -756,15 +684,12 @@ vérole	O
 …	O
 oh	O
 !	O
-	
 une	O
 histoire	O
 !	O
-	
 Nana	S-PER
 morte	O
 !	O
-	
 Ce	O
 fut	O
 un	O
@@ -774,7 +699,6 @@ tout	O
 le	O
 monde	O
 .	O
-	
 Muffat	S-PER
 ,	O
 sans	O
@@ -793,13 +717,11 @@ dans	O
 son	O
 mouchoir	O
 .	O
-	
 Les	O
 autres	O
 se	O
 récriaient	O
 .	O
-	
 Mais	O
 ils	O
 eurent	O
@@ -823,7 +745,6 @@ ici..	O
 ,	O
 403	O
 …	O
-	
 Nous	O
 devons	O
 y	O
@@ -835,14 +756,12 @@ enfin	O
 401	O
 !	O
 …	O
-	
 Arrivez	O
 ,	O
 chut	O
 !	O
 chut	O
 !	O
-	
 —	O
 Et	O
 ,	O
@@ -862,16 +781,13 @@ que	O
 nous	O
 bavardons	O
 .	O
-	
 —	O
 À	O
 Berlin	S-LOC
 !	O
-	
 à	O
 Berlin	S-LOC
 !	O
-	
 à	O
 Berlin	S-LOC
 !	O

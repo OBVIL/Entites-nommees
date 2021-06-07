@@ -13,7 +13,6 @@ ne	O
 pouvait	O
 recevoir	O
 .	O
-	
 Mais	O
 elle	O
 se	O
@@ -26,9 +25,7 @@ enflammée	O
 en	O
 disant	O
 :	O
-	
 —	O
-	
 Oui	O
 ,	O
 certainement	O
@@ -46,7 +43,6 @@ signe	O
 de	O
 tête	O
 .	O
-	
 La	O
 première	O
 fois	O
@@ -56,38 +52,32 @@ fut	O
 très	O
 blessée	O
 .	O
-	
 Elle	O
 dit	O
 sèchement	O
 :	O
-	
 —	O
 Chérie	O
 !	O
 chérie	O
 !	O
-	
 fais	O
 -les	O
 donc	O
 tenir	O
 tranquilles	O
 !	O
-	
 Ils	O
 sont	O
 encore	O
 après	O
 moi	O
 .	O
-	
 Le	O
 comte	O
 restait	O
 béant	O
 .	O
-	
 —	O
 Moi	O
 qui	O
@@ -97,7 +87,6 @@ madame…	O
 balbutiait	O
 Zoé	S-PER
 .	O
-	
 Après	O
 tout	O
 ce	O
@@ -107,9 +96,7 @@ ai	O
 fait	O
 pour	O
 madame…	O
-	
 —	O
-	
 Finis	O
 donc	O
 ,	O
@@ -117,12 +104,10 @@ il	O
 est	O
 là	O
 !	O
-	
 C’	O
 est	O
 stupide	O
 …	O
-	
 Et	O
 vous	O
 ,	O
@@ -132,11 +117,9 @@ Zoé	S-PER
 -vous	O
 folle	O
 ?	O
-	
 Emmenez	O
 -le	O
 !	O
-	
 Gardez	O
 -le	O
 en	O
@@ -148,7 +131,6 @@ tâcher	O
 de	O
 descendre	O
 .	O
-	
 Il	O
 se	O
 contenta	O
@@ -160,12 +142,10 @@ mince	O
 sourire	O
 mystérieux	O
 .	O
-	
 Puis	O
 ,	O
 légèrement	O
 :	O
-	
 Et	O
 elle	O
 continua	O
@@ -176,7 +156,6 @@ rire	O
 —	O
 Dame	O
 !	O
-	
 murmura	O
 -t	O
 -il	O
@@ -191,7 +170,6 @@ ferais	O
 de	O
 mieux	O
 …	O
-	
 Tu	O
 sais	O
 que	O
@@ -200,11 +178,8 @@ n’	O
 ai	O
 plus	O
 le	O
-sac	O
-.	O
-	
+sac.	O
 —	O
-	
 Finis	O
 donc	O
 ,	O
@@ -213,7 +188,6 @@ sergents	O
 de	O
 ville	O
 !	O
-	
 murmura	O
 -t	O
 -elle	O
@@ -222,14 +196,12 @@ une	O
 voix	O
 changée	O
 .	O
-	
 Rentrons	O
 vite	O
 ,	O
 mon	O
 chat	O
 .	O
-	
 En	O
 effet	O
 ,	O
@@ -262,7 +234,6 @@ s’	O
 prudemment	O
 abstenu	O
 .	O
-	
 Ça	O
 lui	O
 semblait	O
@@ -270,7 +241,6 @@ une	O
 affaire	O
 manquée	O
 .	O
-	
 Nana	S-PER
 le	O
 regardait	O
@@ -292,12 +262,9 @@ ironique	O
 aux	O
 lèvres	O
 .	O
-	
 —	O
-	
 Oh	O
 !	O
-	
 le	O
 jaloux	O
 ,	O
@@ -307,12 +274,10 @@ est	O
 possible	O
 !	O
 …	O
-	
 Raisonne	O
 un	O
 peu	O
 .	O
-	
 On	O
 t’avait	O
 dit	O
@@ -325,14 +290,11 @@ j’	O
 étais	O
 furieuse	O
 …	O
-	
 Aujourd’hui	O
 ,	O
 je	O
 serais	O
-désolée	O
-…	O
-	
+désolée…	O
 Depuis	O
 quelque	O
 temps	O
@@ -343,7 +305,6 @@ Muffat	E-PER
 paraissait	O
 soucieux	O
 .	O
-	
 Un	O
 matin	O
 ,	O
@@ -385,12 +346,10 @@ les	B-PER
 fils	I-PER
 Hugon	E-PER
 .	O
-	
 Puis	O
 ,	O
 négligemment	O
 :	O
-	
 —	O
 Ah	O
 !	O
@@ -402,13 +361,11 @@ n’	O
 guère	O
 raisonnable	O
 …	O
-	
 Aussi	O
 ,	O
 quelle	O
 dégringolade	O
 !	O
-	
 Si	O
 tu	O
 avais	O
@@ -422,7 +379,6 @@ une	O
 dèche	O
 !	O
 …	O
-	
 Je	O
 peux	O
 dire	O
@@ -455,7 +411,6 @@ papa	O
 et	O
 maman	O
 .	O
-	
 Dans	O
 la	O
 cour	O
@@ -471,7 +426,6 @@ montait	O
 le	O
 perron	O
 ;	O
-	
 et	O
 c’	O
 était	O
@@ -494,7 +448,6 @@ d’	O
 épaisses	O
 tentures	O
 .	O
-	
 Un	O
 vitrail	O
 aux	O
@@ -515,7 +468,6 @@ le	O
 large	O
 escalier	O
 .	O
-	
 En	O
 bas	O
 ,	O
@@ -536,7 +488,6 @@ cartes	O
 de	O
 visite	O
 ;	O
-	
 quatre	O
 femmes	O
 de	O
@@ -551,7 +502,6 @@ haussaient	O
 des	O
 lampadaires	O
 ;	O
-	
 tandis	O
 que	O
 des	O
@@ -605,7 +555,6 @@ chapeaux	O
 d’	O
 homme	O
 .	O
-	
 Les	O
 étoffes	O
 étouffaient	O
@@ -643,14 +592,12 @@ gardait	O
 un	O
 mystère	O
 .	O
-	
 Elle	O
 siffla	O
 comme	O
 un	O
 homme	O
 .	O
-	
 La	O
 chiffonnière	O
 ,	O
@@ -676,7 +623,6 @@ de	O
 sa	O
 lanterne	O
 .	O
-	
 C’	O
 était	O
 ,	O
@@ -712,7 +658,6 @@ enflammées	O
 des	O
 yeux	O
 .	O
-	
 Et	O
 ,	O
 Nana	S-PER
@@ -771,7 +716,6 @@ un	O
 village	O
 prosterné	O
 .	O
-	
 Alors	O
 ,	O
 comme	O
@@ -789,7 +733,6 @@ la	O
 voyait	O
 pas	O
 :	O
-	
 Elle	O
 ne	O
 se	O
@@ -859,7 +802,6 @@ qui	O
 se	O
 préparait	O
 .	O
-	
 Tout	O
 en	O
 se	O
@@ -871,7 +813,6 @@ des	O
 phrases	O
 courtes	O
 .	O
-	
 —	O
 Mais	O
 ,	O
@@ -884,7 +825,6 @@ tâcha	O
 d’	O
 expliquer	O
 .	O
-	
 Sa	O
 grosse	O
 distraction	O
@@ -902,7 +842,6 @@ chez	O
 sa	O
 tante	O
 .	O
-	
 Pendant	O
 des	O
 quinze	O
@@ -912,7 +851,6 @@ elle	O
 l’	O
 oubliait	O
 ;	O
-	
 puis	O
 ,	O
 c’	O
@@ -958,7 +896,6 @@ pour	O
 l’	O
 enfant	O
 ;	O
-	
 ou	O
 bien	O
 elle	O
@@ -983,7 +920,6 @@ la	O
 rue	O
 solitaire	O
 .	O
-	
 Depuis	O
 que	O
 sa	O
@@ -1001,7 +937,6 @@ pas	O
 de	O
 vanité	O
 .	O
-	
 Elle	O
 se	O
 présentait	O
@@ -1021,7 +956,6 @@ pas	O
 sa	O
 place	O
 ;	O
-	
 mais	O
 elle	O
 triomphait	O
@@ -1063,7 +997,6 @@ stupéfiaient	O
 les	O
 voisines	O
 .	O
-	
 Le	O
 plus	O
 souvent	O
@@ -1111,7 +1044,6 @@ allait	O
 voir	O
 bébé	O
 .	O
-	
 Avec	O
 ça	O
 ,	O
@@ -1125,7 +1057,6 @@ Louiset	S-PER
 toujours	O
 malade	O
 .	O
-	
 Il	O
 marchait	O
 sur	O
@@ -1138,7 +1069,6 @@ faisait	O
 un	O
 gaillard	O
 .	O
-	
 Mais	O
 il	O
 avait	O
@@ -1170,7 +1100,6 @@ os	O
 du	O
 crâne	O
 .	O
-	
 Quand	O
 elle	O
 le	O
@@ -1206,7 +1135,6 @@ de	O
 l’	O
 étonnement	O
 .	O
-	
 Que	O
 pouvait	O
 -il	O
@@ -1220,7 +1148,6 @@ s’	O
 abîmer	O
 ainsi	O
 ?	O
-	
 Elle	O
 ,	O
 sa	O
@@ -1231,7 +1158,6 @@ portait	O
 si	O
 bien	O
 !	O
-	
 Une	O
 après-midi	O
 ,	O
@@ -1274,7 +1200,6 @@ par	O
 les	O
 pluies	O
 .	O
-	
 Tout	O
 d’	O
 un	O
@@ -1284,7 +1209,6 @@ elle	O
 la	O
 reconnut	O
 .	O
-	
 —	O
 Voyons	O
 ,	O
@@ -1295,7 +1219,6 @@ dit	O
 Nana	S-PER
 sérieusement	O
 .	O
-	
 Je	O
 ne	O
 veux	O
@@ -1310,7 +1233,6 @@ le	O
 savez	O
 bien	O
 …	O
-	
 Et	O
 toi	O
 ,	O
@@ -1332,7 +1254,6 @@ si	O
 peu	O
 raisonnables	O
 ?	O
-	
 Et	O
 Georges	S-PER
 redevint	O
@@ -1352,7 +1273,6 @@ de	O
 ses	O
 genoux	O
 .	O
-	
 Nana	S-PER
 eut	O
 une	O
@@ -1383,7 +1303,6 @@ main	O
 sur	O
 elle	O
 .	O
-	
 Comme	O
 elle	O
 mangeait	O
@@ -1393,7 +1312,6 @@ Daguenet	S-PER
 avait	O
 paru	O
 ;	O
-	
 bien	O
 qu’	O
 il	O
@@ -1426,7 +1344,6 @@ ordures	O
 de	O
 Paris	S-LOC
 .	O
-	
 Aussi	O
 la	O
 présence	O
@@ -1440,7 +1357,6 @@ gêner	O
 d’	O
 abord	O
 .	O
-	
 Mais	O
 il	O
 n’	O
@@ -1452,7 +1368,6 @@ battre	O
 en	O
 retraite	O
 .	O
-	
 Il	O
 s’	O
 avança	O
@@ -1460,7 +1375,6 @@ avec	O
 un	O
 sourire	O
 .	O
-	
 Il	O
 demanda	O
 si	O
@@ -1475,7 +1389,6 @@ dîner	O
 sa	O
 table	O
 .	O
-	
 En	O
 le	O
 voyant	O
@@ -1497,12 +1410,10 @@ La	B-PER
 mère	I-PER
 Boche	E-PER
 ;	O
-	
 elle	O
 est	O
 morte	O
 .	O
-	
 —	O
 Moi	O
 ,	O
@@ -1513,11 +1424,8 @@ j’	O
 ,	O
 murmura	O
 -t	O
--il	O
-.	O
-	
+-il.	O
 —	O
-	
 N’aie	O
 pas	O
 peur	O
@@ -1536,19 +1444,15 @@ je	O
 serai	O
 polie	O
 .	O
-	
 —	O
-	
 C’	O
 est	O
 faux	O
 !	O
-	
 c’	O
 est	O
 faux	O
 !	O
-	
 cria	O
 -t	O
 -elle	O
@@ -1561,7 +1465,6 @@ de	O
 franchise	O
 extraordinaire	O
 .	O
-	
 Ils	O
 la	O
 prenaient	O
@@ -1582,7 +1485,6 @@ qu’	O
 elle	O
 voudrait	O
 .	O
-	
 Les	O
 yeux	O
 sur	O
@@ -1620,7 +1522,6 @@ de	O
 sa	O
 toute-puissance	O
 .	O
-	
 Et	O
 elle	O
 ne	O
@@ -1652,7 +1553,6 @@ croquait	O
 des	O
 pommes	O
 .	O
-	
 Une	O
 blague	O
 ,	O
@@ -1661,7 +1561,6 @@ idiot	O
 d’	O
 argent	O
 !	O
-	
 c’	O
 était	O
 fait	O
@@ -1669,7 +1568,6 @@ pour	O
 les	O
 fournisseurs	O
 .	O
-	
 Puis	O
 ,	O
 son	O
@@ -1698,7 +1596,6 @@ une	O
 bonté	O
 universelle	O
 .	O
-	
 —	O
 Mais	O
 ,	O
@@ -1711,9 +1608,7 @@ de	O
 chambre	O
 blessée	O
 .	O
-	
 —	O
-	
 Eh	O
 bien	O
 !	O
@@ -1727,13 +1622,11 @@ petit	O
 ça	O
 marche	O
 ?	O
-	
 —	O
 Pleuré	O
 ,	O
 moi	O
 !	O
-	
 cria	O
 -t	O
 -elle	O
@@ -1746,7 +1639,6 @@ fixement	O
 tu	O
 rêves	O
 !	O
-	
 Pourquoi	O
 veux	O
 -tu	O
@@ -1754,7 +1646,6 @@ que	O
 j’aie	O
 pleuré	O
 ?	O
-	
 —	O
 Quoi	O
 donc	O
@@ -1763,12 +1654,10 @@ demanda	O
 Nana	S-PER
 surprise	O
 .	O
-	
 —	O
 Pourquoi	O
 donc	O
 ?	O
-	
 il	O
 croirait	O
 que	O
@@ -1776,11 +1665,9 @@ j’	O
 ai	O
 peur	O
 .	O
-	
 Ah	O
 bien	O
 !	O
-	
 nous	O
 allons	O
 rire…	O
@@ -1797,7 +1684,6 @@ dans	O
 le	O
 salon	O
 .	O
-	
 Ensuite	O
 ,	O
 vous	O
@@ -1805,7 +1691,6 @@ me	O
 l’	O
 amènerez	O
 .	O
-	
 Du	O
 coup	O
 ,	O
@@ -1825,7 +1710,6 @@ de	O
 royale	O
 autorité	O
 :	O
-	
 Une	O
 après-midi	O
 que	O
@@ -1846,7 +1730,6 @@ des	O
 heures	O
 réglées	O
 .	O
-	
 Mais	O
 Zoé	S-PER
 lui	O
@@ -1873,7 +1756,6 @@ de	O
 galant	O
 homme	O
 .	O
-	
 Lorsqu’	O
 il	O
 reparut	O

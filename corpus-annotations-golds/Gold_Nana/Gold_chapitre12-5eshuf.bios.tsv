@@ -11,7 +11,6 @@ pâles	O
 de	O
 Fauchery	S-PER
 .	O
-	
 Il	O
 revoyait	O
 le	O
@@ -30,7 +29,6 @@ couvert	O
 de	O
 poussière	O
 ;	O
-	
 et	O
 Muffat	S-PER
 s’	O
@@ -46,7 +44,6 @@ de	O
 ses	O
 doutes	O
 .	O
-	
 À	O
 cette	O
 heure	O
@@ -65,7 +62,6 @@ dignité	O
 qui	O
 croulait	O
 .	O
-	
 Fauchery	S-PER
 ,	O
 soulagé	O
@@ -89,13 +85,11 @@ envie	O
 de	O
 rire	O
 .	O
-	
 Ça	O
 lui	O
 semblait	O
 comique	O
 .	O
-	
 —	O
 Moi	O
 ,	O
@@ -103,7 +97,6 @@ pas	O
 du	O
 tout	O
 …	O
-	
 J’	O
 ai	O
 travaillé	O
@@ -116,7 +109,6 @@ arrive	O
 si	O
 tard	O
 .	O
-	
 Et	O
 il	O
 se	O
@@ -153,7 +145,6 @@ couchait	O
 avec	O
 personne	O
 .	O
-	
 Mais	O
 Fauchery	S-PER
 ,	O
@@ -169,7 +160,6 @@ le	O
 regardait	O
 fixement	O
 .	O
-	
 —	O
 Un	O
 aventurier	O
@@ -179,7 +169,6 @@ madame	B-PER
 Du	I-PER
 Joncquoy	E-PER
 .	O
-	
 Moi	O
 ,	O
 je	O
@@ -187,9 +176,7 @@ ne	O
 l’	O
 ai	O
 jamais	O
-vu	O
-.	O
-	
+vu.	O
 Alors	O
 ,	O
 les	O
@@ -199,7 +186,6 @@ dames	O
 le	O
 questionnèrent	O
 .	O
-	
 Mais	O
 il	O
 redevint	O
@@ -213,7 +199,6 @@ agir	O
 le	O
 ciel	O
 .	O
-	
 Tout	O
 son	O
 désir	O
@@ -233,7 +218,6 @@ un	O
 scandale	O
 public	O
 .	O
-	
 La	O
 religion	O
 tolérait	O
@@ -247,9 +231,7 @@ gardait	O
 les	O
 convenances	O
 .	O
-	
 —	O
-	
 Vous	O
 savez	O
 ,	O
@@ -258,24 +240,20 @@ vient	O
 d’	O
 arriver	O
 …	O
-	
 Oh	O
 !	O
-	
 une	O
 entrée	O
 ,	O
 mes	O
 enfants	O
 !	O
-	
 quelque	O
 chose	O
 de	O
 pharamineux	O
 !	O
 …	O
-	
 D’	O
 abord	O
 ,	O
@@ -285,7 +263,6 @@ embrassé	O
 la	O
 comtesse	O
 .	O
-	
 Ensuite	O
 ,	O
 quand	O
@@ -328,7 +305,6 @@ faire…	O
 »	O
 Comment	O
 !	O
-	
 vous	O
 n’	O
 avez	O
@@ -336,24 +312,19 @@ pas	O
 vu	O
 ça	O
 !	O
-	
 Oh	O
 !	O
-	
 un	O
 chic	O
 !	O
-	
 un	O
 succès	O
 !	O
-	
 —	O
 Idiot	O
 ,	O
 va	O
 !	O
-	
 lâcha	O
 -t	O
 -il	O
@@ -364,7 +335,6 @@ haussant	O
 les	O
 épaules	O
 .	O
-	
 Quand	O
 il	O
 l’	O
@@ -378,7 +348,6 @@ se	O
 trouvant	O
 mieux	O
 .	O
-	
 Et	O
 elle	O
 revint	O
@@ -392,7 +361,6 @@ procès	O
 en	O
 séparation	O
 .	O
-	
 Voyait	O
 -il	O
 l’	O
@@ -408,7 +376,6 @@ parlant	O
 de	O
 Nana	S-PER
 ?	O
-	
 Tout	O
 y	O
 aurait	O
@@ -425,10 +392,8 @@ hôtel	O
 sa	O
 vie	O
 .	O
-	
 Ah	O
 !	O
-	
 non	O
 ,	O
 par	O
@@ -443,7 +408,6 @@ tant	O
 de	O
 réclame	O
 !	O
-	
 De	O
 sales	O
 femmes	O
@@ -461,7 +425,6 @@ sur	O
 son	O
 dos	O
 ;	O
-	
 mais	O
 elle	O
 ,	O
@@ -472,7 +435,6 @@ voulait	O
 son	O
 bonheur	O
 .	O
-	
 Elle	O
 l’	O
 avait	O
@@ -517,7 +479,6 @@ parut	O
 pas	O
 insister	O
 .	O
-	
 Elle	O
 ne	O
 rouvrait	O
@@ -525,7 +486,6 @@ plus	O
 les	O
 yeux	O
 .	O
-	
 En	O
 la	O
 voyant	O
@@ -545,7 +505,6 @@ peu	O
 d’	O
 éther	O
 .	O
-	
 Et	O
 elle	O
 soupira	O
@@ -558,7 +517,6 @@ sans	O
 nommer	O
 Daguenet	S-PER
 .	O
-	
 Et	O
 elle	O
 avait	O
@@ -588,7 +546,6 @@ remords	O
 de	O
 catholique	O
 .	O
-	
 Mais	O
 ,	O
 la	O
@@ -615,7 +572,6 @@ en	O
 se	O
 cramponnant	O
 .	O
-	
 Daguenet	S-PER
 ,	O
 qui	O
@@ -662,12 +618,10 @@ coup	O
 de	O
 fortune	O
 .	O
-	
 —	O
 Eh	O
 bien	O
 !	O
-	
 vous	O
 êtes	O
 bonne	O
@@ -675,9 +629,7 @@ bonne	O
 vous	O
 !	O
 dit	O
-Zoé	S-PER
-.	O
-	
+Zoé.	S-PER
 Cependant	O
 ,	O
 près	O
@@ -705,7 +657,6 @@ dépaysés	O
 ,	O
 éblouis	O
 .	O
-	
 Ils	O
 formaient	O
 un	O
@@ -722,7 +673,6 @@ peu	O
 peu	O
 envahissante	O
 .	O
-	
 Madame	B-PER
 Du	I-PER
 Joncquoy	E-PER
@@ -740,7 +690,6 @@ salle	O
 à	O
 manger	O
 .	O
-	
 Madame	B-PER
 Chantereau	E-PER
 regardait	O
@@ -756,7 +705,6 @@ lui	O
 paraissait	O
 immense	O
 .	O
-	
 Bientôt	O
 ,	O
 à	O
@@ -774,7 +722,6 @@ de	O
 réflexions	O
 amères	O
 .	O
-	
 Et	O
 elle	O
 continua	O
@@ -786,14 +733,12 @@ les	O
 meilleurs	O
 conseils	O
 .	O
-	
 Même	O
 elle	O
 parla	O
 de	O
 Dieu	S-PER
 .	O
-	
 Il	O
 croyait	O
 entendre	O
@@ -812,7 +757,6 @@ arracher	O
 au	O
 péché	O
 .	O
-	
 Elle	O
 ,	O
 cependant	O
@@ -823,7 +767,6 @@ pas	O
 de	O
 rompre	O
 ;	O
-	
 elle	O
 prêchait	O
 des	O
@@ -864,7 +807,6 @@ de	O
 l’	O
 existence	O
 .	O
-	
 Ça	O
 ne	O
 changerait	O
@@ -902,7 +844,6 @@ pas	O
 avec	O
 elle	O
 .	O
-	
 Elle	O
 était	O
 à	O
@@ -932,7 +873,6 @@ de	O
 la	O
 pièce	O
 .	O
-	
 Cependant	O
 ,	O
 il	O
@@ -951,17 +891,14 @@ ganté	O
 de	O
 blanc	O
 .	O
-	
 Et	O
 il	O
 répétait	O
 :	O
-	
 Un	O
 silence	O
 régna	O
 .	O
-	
 Elle	O
 avait	O
 fermé	O
@@ -974,7 +911,6 @@ sur	O
 l’	O
 oreiller	O
 .	O
-	
 Maintenant	O
 ,	O
 il	O
@@ -992,7 +928,6 @@ pas	O
 la	O
 fatiguer	O
 .	O
-	
 Au	O
 bout	O
 d’	O
@@ -1008,7 +943,6 @@ yeux	O
 elle	O
 murmura	O
 :	O
-	
 Les	O
 deux	O
 vieilles	O
@@ -1033,7 +967,6 @@ bien	O
 des	O
 gens	O
 .	O
-	
 Estelle	S-PER
 venait	O
 de	O
@@ -1057,7 +990,6 @@ muette	O
 de	O
 vierge	O
 .	O
-	
 Elle	O
 avait	O
 accepté	O
@@ -1065,7 +997,6 @@ Daguenet	S-PER
 ,	O
 paisiblement	O
 ;	O
-	
 elle	O
 ne	O
 témoignait	O
@@ -1092,7 +1023,6 @@ bûches	O
 au	O
 feu	O
 .	O
-	
 Toute	O
 cette	O
 fête	O
@@ -1115,7 +1045,6 @@ sans	O
 une	O
 émotion	O
 .	O
-	
 Et	O
 elle	O
 se	O
@@ -1139,7 +1068,6 @@ mêler	O
 de	O
 rien	O
 .	O
-	
 Non	O
 ,	O
 c’	O
@@ -1147,7 +1075,6 @@ c’	O
 trop	O
 bête	O
 !	O
-	
 Il	O
 la	O
 voyait	O
@@ -1176,7 +1103,6 @@ bégayait	O
 une	O
 prière	O
 .	O
-	
 Depuis	O
 quelque	O
 temps	O
@@ -1187,7 +1113,6 @@ l’	O
 avait	O
 reconquis	O
 ;	O
-	
 ses	O
 crises	O
 de	O
@@ -1210,7 +1135,6 @@ laissaient	O
 comme	O
 assommé	O
 .	O
-	
 Les	O
 doigts	O
 de	O
@@ -1236,7 +1160,6 @@ Dieu	S-PER
 mon	O
 Dieu	S-PER
 .	O
-	
 »	O
 C’	O
 était	O
@@ -1266,7 +1189,6 @@ de	O
 sa	O
 damnation	O
 .	O
-	
 Quand	O
 elle	O
 revint	O
@@ -1296,7 +1218,6 @@ chercher	O
 le	O
 ciel	O
 .	O
-	
 Et	O
 elle	O
 se	O
@@ -1325,7 +1246,6 @@ même	O
 obsession	O
 imbécile	O
 .	O
-	
 Ils	O
 avaient	O
 déjà	O
@@ -1334,7 +1254,6 @@ une	O
 nuit	O
 semblable	O
 ;	O
-	
 seulement	O
 ,	O
 cette	O
@@ -1358,7 +1277,6 @@ eut	O
 plus	O
 peur	O
 .	O
-	
 Un	O
 soupçon	O
 lui	O
@@ -1379,7 +1297,6 @@ la	O
 fameuse	O
 lettre	O
 .	O
-	
 Mais	O
 ce	O
 n’	O
@@ -1402,7 +1319,6 @@ encore	O
 son	O
 cocuage	O
 .	O
-	
 Puis	O
 ,	O
 froidement	O
@@ -1423,7 +1339,6 @@ de	O
 l’	O
 existence	O
 :	O
-	
 Il	O
 dit	O
 oui	O
@@ -1431,7 +1346,6 @@ de	O
 la	O
 tête	O
 .	O
-	
 Elle	O
 fit	O
 une	O
@@ -1442,11 +1356,9 @@ puis	O
 très	O
 bas	O
 :	O
-	
 —	O
 Hein	O
 ?	O
-	
 penses	O
 -tu	O
 que	O
@@ -1454,7 +1366,6 @@ j’irai	O
 au	O
 ciel	O
 ?	O
-	
 En	O
 effet	O
 ,	O
@@ -1463,7 +1374,6 @@ hôtel	O
 paraissait	O
 bouleversé	O
 .	O
-	
 Tous	O
 les	O
 domestiques	O
@@ -1476,7 +1386,6 @@ et	O
 les	O
 pièces	O
 .	O
-	
 Georges	S-PER
 venait	O
 de	O
@@ -1489,7 +1398,6 @@ fauteuil	O
 du	O
 salon	O
 .	O
-	
 C’	O
 était	O
 lui	O
@@ -1515,7 +1423,6 @@ recevait	O
 d’	O
 habitude	O
 .	O
-	
 Il	O
 restait	O
 très	O
@@ -1533,7 +1440,6 @@ et	O
 d’	O
 émotion	O
 .	O
-	
 Steiner	S-PER
 ,	O
 la	B-PER
@@ -1549,7 +1455,6 @@ s’	O
 étaient	O
 présentés	O
 .	O
-	
 Dès	O
 la	O
 première	O
@@ -1560,18 +1465,15 @@ poussaient	O
 une	O
 exclamation	O
 ;	O
-	
 pas	O
 possible	O
 !	O
-	
 ça	O
 devait	O
 être	O
 une	O
 farce	O
 !	O
-	
 Ensuite	O
 ,	O
 ils	O
@@ -1600,7 +1502,6 @@ pas	O
 ça	O
 drôle	O
 .	O
-	
 Jusqu’	O
 à	O
 minuit	O
@@ -1628,7 +1529,6 @@ idée	O
 de	O
 paternité	O
 .	O
-	
 Ils	O
 semblaient	O
 s’	O
@@ -1643,7 +1543,6 @@ confuses	O
 de	O
 maladroits	O
 .	O
-	
 Puis	O
 ,	O
 ils	O
@@ -1662,7 +1561,6 @@ venait	O
 d’	O
 elle	O
 ;	O
-	
 hein	O
 ?	O
 épatante	O
@@ -1670,7 +1568,6 @@ hein	O
 cette	O
 Nana	S-PER
 !	O
-	
 jamais	O
 on	O
 n’	O
@@ -1684,7 +1581,6 @@ de	O
 sa	O
 part	O
 !	O
-	
 Et	O
 ils	O
 s’	O
@@ -1717,7 +1613,6 @@ peut	O
 plus	O
 rire	O
 .	O
-	
 Et	O
 il	O
 s’	O
@@ -1730,7 +1625,6 @@ de	O
 la	O
 foule	O
 .	O
-	
 La	O
 voix	O
 pleine	O
@@ -1745,7 +1639,6 @@ noms	O
 la	O
 volée	O
 .	O
-	
 Pourtant	O
 ,	O
 près	O
@@ -1768,7 +1661,6 @@ dames	O
 qui	O
 entraient	O
 .	O
-	
 Enfin	O
 ,	O
 il	O
@@ -1795,13 +1687,11 @@ voir	O
 la	O
 scène	O
 .	O
-	
 Nana	S-PER
 devait	O
 avoir	O
 bavardé	O
 .	O
-	
 —	O
 Tu	O
 vas	O
@@ -1828,7 +1718,6 @@ de	O
 ton	O
 ménage	O
 ?	O
-	
 Ça	O
 me	O
 ferait	O
@@ -1844,7 +1733,6 @@ de	O
 moi	O
 ?	O
 …	O
-	
 Seulement	O
 ,	O
 jure	O
@@ -1863,9 +1751,7 @@ tu	O
 iras	O
 avec	O
 une	O
-autre	O
-…	O
-	
+autre…	O
 Les	O
 deux	O
 autres	O
@@ -1875,7 +1761,6 @@ l’	O
 bouche	O
 béante	O
 .	O
-	
 Enfin	O
 ,	O
 ils	O
@@ -1884,7 +1769,6 @@ mirent	O
 à	O
 rire	O
 .	O
-	
 Lui	O
 ,	O
 enchanté	O
@@ -1894,7 +1778,6 @@ trouvait	O
 très	O
 fort	O
 .	O
-	
 C’	O
 était	O
 une	O
@@ -1910,7 +1793,6 @@ charme	O
 si	O
 tendre	O
 .	O
-	
 Les	O
 chaudes	O
 soirées	O
@@ -1938,7 +1820,6 @@ sable	O
 du	O
 jardin	O
 .	O
-	
 Quand	O
 les	O
 premiers	O
@@ -1961,7 +1842,6 @@ eurent	O
 un	O
 éblouissement	O
 .	O
-	
 Il	O
 fallait	O
 se	O
@@ -2014,7 +1894,6 @@ trempé	O
 d’	O
 humidité	O
 .	O
-	
 Maintenant	O
 ,	O
 dès	O
@@ -2050,7 +1929,6 @@ aux	O
 fines	O
 ciselures	O
 .	O
-	
 Puis	O
 ,	O
 le	O
@@ -2090,7 +1968,6 @@ château	I-LOC
 de	I-LOC
 Dampierre	E-LOC
 .	O
-	
 Les	O
 lustres	O
 ,	O
@@ -2109,7 +1986,6 @@ de	O
 meubles	O
 précieux	O
 .	O
-	
 On	O
 eût	O
 dit	O
@@ -2164,7 +2040,6 @@ des	O
 feux	O
 tardifs	O
 .	O
-	
 Et	O
 ,	O
 comme	O
@@ -2173,7 +2048,6 @@ demandait	O
 des	O
 détails	O
 :	O
-	
 —	O
 Sabine	S-PER
 est	O
@@ -2184,7 +2058,6 @@ madame	B-PER
 Du	I-PER
 Joncquoy	E-PER
 .	O
-	
 L’	O
 avez	O
 -vous	O
@@ -2193,7 +2066,6 @@ vue	O
 la	O
 porte	O
 ?	O
-	
 Tenez	O
 ,	O
 on	O
@@ -2201,14 +2073,12 @@ l’	O
 aperçoit	O
 d’ici	O
 …	O
-	
 Elle	O
 a	O
 tous	O
 ses	O
 diamants	O
 .	O
-	
 Steiner	S-PER
 venait	O
 de	O
@@ -2229,7 +2099,6 @@ devant	O
 le	O
 buffet	O
 .	O
-	
 —	O
 C’	O
 est	O
@@ -2240,7 +2109,6 @@ fait	O
 lui	O
 apprendra	O
 !	O
-	
 Elle	O
 eut	O
 une	O
@@ -2248,7 +2116,6 @@ moue	O
 de	O
 désapprobation	O
 .	O
-	
 Depuis	O
 que	O
 son	O
@@ -2287,9 +2154,7 @@ de	O
 sa	O
 province	O
 .	O
-	
 —	O
-	
 Qu’	O
 avez	O
 -vous	O
@@ -2298,14 +2163,11 @@ lui	O
 demanda	O
 Philippe	S-PER
 .	O
-	
 Vous	O
 paraissez	O
 souffrant	O
 .	O
-	
 —	O
-	
 On	O
 est	O
 laid	O
@@ -2322,7 +2184,6 @@ une	O
 voix	O
 lente	O
 .	O
-	
 Cette	O
 pose	O
 au	O
@@ -2331,23 +2192,19 @@ ennuyait	O
 ces	O
 messieurs	O
 .	O
-	
 Foucarmont	S-PER
 se	O
 contenta	O
 de	O
 répondre	O
 :	O
-	
 —	O
-	
 Comment	O
 ,	O
 c’	O
 est	O
 toi	O
 !	O
-	
 le	O
 jour	O
 qu’	O
@@ -2356,7 +2213,6 @@ te	O
 marie	O
 !	O
 …	O
-	
 Qu’	O
 y	O
 a	O
@@ -2364,7 +2220,6 @@ a	O
 -il	O
 donc	O
 ?	O
-	
 L’orchestre	O
 venait	O
 de	O
@@ -2376,7 +2231,6 @@ la	B-PER
 Blonde	I-PER
 Vénus	E-PER
 .	O
-	
 D’	O
 abord	O
 ,	O
@@ -2395,7 +2249,6 @@ une	O
 sérénité	O
 ravie	O
 .	O
-	
 Puis	O
 ,	O
 il	O
@@ -2417,7 +2270,6 @@ attendre	O
 très	O
 calme	O
 .	O
-	
 Le	O
 comte	O
 ,	O
@@ -2439,7 +2291,6 @@ du	O
 grand	O
 dignitaire	O
 .	O
-	
 Lorsqu’	O
 il	O
 abaissa	O
@@ -2457,7 +2308,6 @@ son	O
 attitude	O
 majestueuse	O
 .	O
-	
 Pendant	O
 quelques	O
 secondes	O
@@ -2468,7 +2318,6 @@ hommes	O
 se	O
 regardèrent	O
 .	O
-	
 Et	O
 ce	O
 fut	O
@@ -2482,13 +2331,11 @@ tendit	O
 la	O
 main	O
 .	O
-	
 Muffat	S-PER
 donna	O
 la	O
 sienne	O
 .	O
-	
 Leurs	O
 mains	O
 étaient	O
@@ -2523,7 +2370,6 @@ de	O
 polissonnerie	O
 railleuse	O
 .	O
-	
 Cependant	O
 ,	O
 Zoé	S-PER
@@ -2531,11 +2377,9 @@ racontait	O
 la	O
 catastrophe	O
 .	O
-	
 —	O
 Ah	O
 !	O
-	
 c’	O
 est	O
 la	O
@@ -2556,7 +2400,6 @@ de	O
 madame	B-PER
 Chantereau	E-PER
 .	O
-	
 Cette	O
 fille	O
 a	O
@@ -2564,7 +2407,6 @@ ensorcelé	O
 ce	O
 malheureux	O
 …	O
-	
 Nous	O
 qui	O
 l’	O
