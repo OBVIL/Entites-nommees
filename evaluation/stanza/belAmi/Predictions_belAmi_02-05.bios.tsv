@@ -1,5 +1,4 @@
-V	B-MISC
-L’automne	E-MISC
+L’automne	O
 était	O
 venu	O
 .	O
@@ -20,8 +19,8 @@ campagne	O
 énergique	O
 dans	O
 la	O
-Vie	B-ORG
-Française	E-ORG
+Vie	B-MISC
+Française	E-MISC
 en	O
 faveur	O
 du	O
@@ -1365,7 +1364,8 @@ dire	O
 je	O
 conclus	O
 que	O
-non.	O
+non	O
+.	O
 L’homme	B-MISC
 d’	I-MISC
 État	E-MISC

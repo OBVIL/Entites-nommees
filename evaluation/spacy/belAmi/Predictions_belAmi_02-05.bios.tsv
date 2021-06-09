@@ -1,5 +1,4 @@
-V	B-PER
-L’automne	L-PER
+L’automne	U-PER
 était	O
 venu	O
 .	O
@@ -1365,14 +1364,15 @@ dire	O
 je	O
 conclus	O
 que	O
-non.	O
-L’homme	B-LOC
-d’	I-LOC
-État	L-LOC
+non	O
+.	O
+L’homme	O
+d’	O
+État	U-LOC
 répondit	O
 :	O
-—	B-PER
-Non.	L-PER
+—	O
+Non.	O
 Puis	O
 on	O
 causa	O
@@ -1383,7 +1383,7 @@ qui	O
 s’	O
 ouvrait	O
 .	O
-Laroche-Mathieu	U-PER
+Laroche-Mathieu	U-LOC
 se	O
 mit	O
 à	O
