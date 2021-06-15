@@ -161,7 +161,7 @@ foreach my $i (0..$#gold_files) {
 
     open my $out, ">:utf8", $outfile or die $!;
     print $out "TOKEN\tPREDICTION\tGOLD\tVALIDITY\n";
-	chomp @gold;
+	chomp @gold_tags;
 
     print scalar(@words) . "\n";
     print scalar(@auto_tags) . "\n";
