@@ -16,6 +16,7 @@ use warnings;
 use utf8;
 use Getopt::Long;
 use Pod::Usage;
+use Unicode::Normalize;
 
 my $help = 0;
 my $predictions = "evaluation/L3i_NERC-EL/LVP";
@@ -120,6 +121,7 @@ foreach my $i (0..$#gold_files) {
         my $validity;
         $auto_tags[$p] = uc ($auto_tags[$p]);
         $gold_tags[$p] = uc ($gold_tags[$p]);
+        $gold_tags[$p] =~ s/-PER/-PERS/;
         # the check for validity is complicated.
         # it is necessary to accomodate different spellings, but only for tags
         # the empty tag 'O' requires an exact match
@@ -168,7 +170,11 @@ foreach my $i (0..$#gold_files) {
     print scalar(@gold_tags) . "\n";        
     print scalar(@validity) . "\n";     
     for my $counter (0..$#words) {
-        print $out "$words[$counter]\t$auto_tags[$counter]\t$gold_tags[$counter]\t$validity[$counter]\n";
+		$gold_tags[$counter] = NFKD($gold_tags[$counter]);
+		chomp($gold_tags[$counter]);
+        my $line =  "$words[$counter]\t$auto_tags[$counter]\t$gold_tags[$counter]\t$validity[$counter]\n";
+        $line =~ s///;
+        print $out $line;
     }
 	
 
