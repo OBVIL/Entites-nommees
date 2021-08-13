@@ -114,7 +114,7 @@ Par example:
 Par défaut, le contenu du fichier evaluation/L3i_NERC-EL/comparer-predictions-et-gold/ est converti.
 
 #### 6-evaluer-predictions-de-tsv.py
-Ce script utilise nervaluate pour calculer la précision et le rappel
+Ce script utilise [nervaluate](https://pypi.org/project/nervaluate/) pour calculer la précision et le rappel
 du marquage automatique des entités nommées par rapport à un étalon-or. 
 Il faut fournir les fichiers à évaluer sous la forme suivante:
 ```
