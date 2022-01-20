@@ -1,3 +1,5 @@
+test
+
 ### Projet Entités Nommées (OBVIL): 2019-2020
 Ce dépôt contient toutes les données du projet des Entités nommées du labex OBVIL.
 Ce travail, effectué entre 2019 et 2020 est amorcé par Motasem Alrahabi (OBVIL), en collaboration avec Carmen Brando (EHESS), Francesca Frontini (ILC, Italie) et des membres de l'équipe OBVIL: Romain Jalabert, Arthur Provenier, Marguerite Bordry, Camille Koskas et James Gawley. 
@@ -47,7 +49,7 @@ Transformer les fichiers dans /corpus-annotations-gold du format .ann en format 
 Ceci n'est nécessaire que lorsque les annotations gold pour LVP et Nana ont été mises à jour. 
 L'option --replace supprime automatiquement les anciens fichiers .bios.tsv 
 situé sous évaluation/L3i-NERC-EL/comparateur-prédictions-et-or afin que 
-ils puissent être utilisé par le script "comparer-gold-et-predictions.pl".
+ils puissent être utilisé par le script `comparer-gold-et-predictions.pl`.
 
 À lancer: <code> perl 0-transformer-brat-a-bios.pl <dossier_corpus> [OPTIONS]</code>
 Par example:
@@ -113,6 +115,10 @@ Par example:
  Les fichiers de sortie sont déposés dans le même dossier où se trouvent les dossiers d'entrée.
 Par défaut, le contenu du fichier evaluation/L3i_NERC-EL/comparer-predictions-et-gold/ est converti.
 
+
+Un portage vers python de ce script a été réalisé, il s'utilise de manière similaire:
+ Usage: <code>python scripts/5-generer-tsv-avec-gold-et-predictions.py evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Gold_LVP evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_LVP </code>
+
 #### 6-evaluer-predictions-de-tsv.py
 Ce script utilise [nervaluate](https://pypi.org/project/nervaluate/) pour calculer la précision et le rappel
 du marquage automatique des entités nommées par rapport à un étalon-or. 
@@ -122,6 +128,6 @@ TOKEN   NE-COARSE-LIT   GOLD	VALIDITY
 Deux    O   O	1
 mois    O   O	1
 ```
-Les fichiers sous cette forme peuvent être creer par comparer-gold-et-predictions.pl.
+Les fichiers sous cette forme peuvent être créés par `comparer-gold-et-predictions.pl`.
 Usage: <code>python 6-evaluer-predictions-de-tsv.py <dossier_input> <fichier_output></code>
 Par défaut, le contenu du fichier <code>/evaluation/L3i_NERC-EL/comparer-predictions-et-gold/Predictions_vs_Gold_belAmi/</code> sont évalués.

@@ -1,101 +1,103 @@
-import sys
-from nltk import agreement
-import argparse
-
-"""
+"""description:
     Calcul du score inter-annotateur
 
-    - utilisation de la mesure Cohen Kappa pour deux annotateurs
-    - utilisation de la mesure Fleiss Kappa pour trois annotateurs et plus
-    Le choix du score se fait sur le nombre de colonnes.
+  - utilisation de la mesure Cohen Kappa pour deux annotateurs
+  - utilisation de la mesure Fleiss Kappa pour trois annotateurs et plus
+  Le choix du score se fait sur le nombre de colonnes.
 
-    Le format de données est un csv, "Token;Annot1;Annot2;Annot_n"
-    Les valeurs pour les annotations sont numériques.
+  Le format de données est un csv, "Token;Annot1;Annot2;Annot_n"
+  Les valeurs pour les annotations sont numériques.
 
-    TOKEN;"Annotateur 1";"Annotateur 2"
-    "NE 1";4;4
-    "NE 2";1;4
-    "NE 3";4;2
-    "NE 4";1;0
-    "NE 5";3;4
+  TOKEN;"Annotateur 1";"Annotateur 2"
+  "NE 1";4;4
+  "NE 2";1;4
+  "NE 3";4;2
+  "NE 4";1;0
+  "NE 5";3;4
 
-    Voir l'exemple 'Kappa.csv'.
+  Voir l'exemple 'Kappa.csv'.
 
-    https://learnaitech.com/how-to-compute-inter-rater-reliablity-metrics-cohens-kappa-fleisss-kappa-cronbach-alpha-kripndorff-alpha-scotts-pi-inter-class-correlation-in-python/
+  https://learnaitech.com/how-to-compute-inter-rater-reliablity-metrics-cohens-kappa-fleisss-kappa-cronbach-alpha-kripndorff-alpha-scotts-pi-inter-class-correlation-in-python/
 
-    Usage : python calcul-score.py
-    pip install --user nltk
+  Usage : python calcul-score.py
+  pip install --user nltk
 """
 
-def print_agreement(score):
-    # Voir si même interprétation cohen et fleiss
-    if score < 0:
-        print("Poor agreement")
-    elif score >= 0.00 and score <= 0.20:
-        print("Slight agreement")
-    elif score > 0.20 and score <= 0.40:
-        print("Fair agreement")
-    elif score > 0.40 and score <= 0.60:
-        print("Moderate agreement")
-    elif score > 0.60 and score <= 0.80:
-        print("Substantial agreement")
-    elif score > 0.80 and score <= 1.00:
-        print("Almost perfect agreement")
+import sys
+from nltk import agreement
+from nltk.metrics import interval_distance, binary_distance
+import argparse
+import csv
 
-"""
-if len(sys.argv) > 2:
-    print("Usage : python calcul-score.py nom-corpus.csv")
-    sys.exit(1)
-else:
-    input_file = sys.argv[1]
-"""
-# Modifier le nom du fichier ici
-#input_file = "Kappa.csv"
-parser = argparse.ArgumentParser(
-    description="Calcul du score inter-annotateur. "
-)
-parser.add_argument('input', help="The input file", default="../ann-to-csv-output.csv", nargs='?', const="../ann-to-csv-output.csv")
-arguments = parser.parse_args()
-input_file = arguments.input
 
-# Le séparateur par défaut est le point-virgule
-# changer pour ne pas hardcoder ensuite
-sep = ';'
+def qualify_agreement(score):
+    """Interpreration of the kappa taken from Landis & Koch (1977)."""
 
-data = []
-is_cohen = False
-is_fleiss = False
-with open(input_file, 'r', encoding="utf-8") as csvfile:
-    next(csvfile) # Suppose qu'il y a tjs un header
-    for token_idx, line in enumerate(csvfile):
-        line = line.strip()
-        if not line:
-            continue
+    if score < 0.00:
+        return "Poor agreement"
+    elif score <= 0.20:
+        return "Slight agreement"
+    elif score <= 0.40:
+        return "Fair agreement"
+    elif score <= 0.60:
+        return "Moderate agreement"
+    elif score <= 0.80:
+        return "Substantial agreement"
+    elif score <= 1.00:
+        return "Almost perfect agreement"
+    else:
+        return "Agreement > 1, maybe there is a problem?"
 
-        annotations = line.split(sep)[1:]
-        if not is_cohen and not is_fleiss:
-            if len(annotations) == 2:
-                print("Nombre d'annotateurs: 2")
-                is_cohen = True
-            elif len(annotations) >= 3:
-                print(f"Nombre d'annotateurs: {len(annotations)}")
-                is_fleiss = True
 
-        n_annotators = len(annotations)
-        for i in range(0, n_annotators):
-            data.append([i, token_idx, annotations[i]])
+def main(input_file, delimiter=';'):
+    data = []
+    is_cohen = False
+    is_fleiss = False
+    with open(input_file, 'r', encoding='utf-8') as input_stream:
+        reader = csv.DictReader(input_stream, delimiter=delimiter)
+        n_annotators = len(reader.fieldnames[1:])
 
-if is_cohen and is_fleiss:
-    sys.exit('Problème dans le nombre de colonnes du csv')
+        if n_annotators == 1:
+            raise ValueError('Only one annotator.')
+        else:
+            is_cohen = n_annotators == 2
+            is_fleiss = not is_cohen
 
-ratingtask = agreement.AnnotationTask(data=data)
+        for token_idx, line in enumerate(reader):
+            annotations = [line[key] for key in reader.fieldnames[1:]]
+            if len(annotations) != n_annotators:
+                raise ValueError(f"Wrong number of annotators for token {token_idx}. Expected : {n_annotators}, got: {len(annotations)}")
+            if token_idx == 0:
+                print(f"Annotator number: {n_annotators}")
 
-if is_cohen:
-    kappa_cohen = ratingtask.kappa()
-    print(f"Score de Kappa Cohen: {kappa_cohen}")
-    print_agreement(kappa_cohen)
+            for i, annotation in enumerate(annotations):
+                data.append([i, str(token_idx), int(annotation)])
 
-elif is_fleiss:
-    kappa_fleiss = ratingtask.multi_kappa()
-    print(f"Score de Kappa Fleiss: {kappa_fleiss}")
-    print_agreement(kappa_fleiss)
+    ratingtask = agreement.AnnotationTask(data=data, distance=binary_distance)
+
+    print()
+    if is_cohen:
+        kappa_cohen = ratingtask.kappa()
+        print(f"Cohen's κ: {kappa_cohen}")
+        print(qualify_agreement(kappa_cohen))
+
+    elif is_fleiss:
+        kappa_fleiss = ratingtask.multi_kappa()
+        print(f"Fleiss' κ: {kappa_fleiss}")
+        print(qualify_agreement(kappa_fleiss))
+
+    # krippendorf = ratingtask.alpha()
+    # print()
+    # print(f"Krippendorf's α: {krippendorf}")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawTextHelpFormatter
+    )
+    parser.add_argument('input_file', help="The input file", default="../ann-to-csv-output.csv", nargs='?', const="../ann-to-csv-output.csv")
+    parser.add_argument('-d', '--delimiter', help="The delimiter to use (default: %(default)s)", default=";")
+
+    arguments = parser.parse_args()
+    main(**vars(arguments))
+    sys.exit(0)
