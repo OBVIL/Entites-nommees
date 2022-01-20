@@ -1,5 +1,3 @@
-test
-
 ### Projet Entités Nommées (OBVIL): 2019-2020
 Ce dépôt contient toutes les données du projet des Entités nommées du labex OBVIL.
 Ce travail, effectué entre 2019 et 2020 est amorcé par Motasem Alrahabi (OBVIL), en collaboration avec Carmen Brando (EHESS), Francesca Frontini (ILC, Italie) et des membres de l'équipe OBVIL: Romain Jalabert, Arthur Provenier, Marguerite Bordry, Camille Koskas et James Gawley. 
