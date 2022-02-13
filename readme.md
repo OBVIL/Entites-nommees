@@ -1,12 +1,16 @@
-### Projet Entités Nommées (OBVIL): 2019-2020
-Ce dépôt contient toutes les données du projet des Entités nommées du labex OBVIL.
-Ce travail, effectué entre 2019 et 2020 est amorcé par Motasem Alrahabi (OBVIL), en collaboration avec Carmen Brando (EHESS), Francesca Frontini (ILC, Italie) et des membres de l'équipe OBVIL: Romain Jalabert, Arthur Provenier, Marguerite Bordry, Camille Koskas et James Gawley. 
+### Projet Entités Nommées (OBVIL): 2019-2022
+Ce dépôt contient toutes les données du projet des Entités nommées du labex OBVIL et de sa suite, l'équipe-projet ObTIC.
+Ce travail en cours est amorcé par Motasem Alrahabi (ObTIC), en collaboration avec Carmen Brando (EHESS), Francesca Frontini (ILC, Italie) et des membres de l'équipe OBVIL: Romain Jalabert, Arthur Provenier, Marguerite Bordry, Camille Koskas et James Gawley. 
 
 Le travail effectué consiste à: 
 1. Définir un guide d'annotation manuelle des entités nommées pour les textes littéraire (romans...) --> [lien](https://hal.archives-ouvertes.fr/hal-03156278)
 2. Créer un corpus de référence à partir, dans un premier temps, d'une annotation manuelle de trois romans: Le ventre de Paris de Zola, Nana de Zola et Bel ami de Maupassant,
 3. Evaluer l'accord inter-annotateurs sur un sous-ensemble du corpus avec deux annotateurs experts du domaine littéraire en vue d'assurer une homogénéité au niveau des annotations,
 4. Tester et évaluer trois modèles de REN: Spacy, Stanza et L3i NERC-EL.
+
+### Tâche en cours de réalisation:
+Nous sommes actuellement en train d'élargir le corpus de référence en incluant une trentaine de nouveaux romans de deux courants littéraires (réalistes et naturalistes).
+
 
 ### Arbre de fichiers
 ```
